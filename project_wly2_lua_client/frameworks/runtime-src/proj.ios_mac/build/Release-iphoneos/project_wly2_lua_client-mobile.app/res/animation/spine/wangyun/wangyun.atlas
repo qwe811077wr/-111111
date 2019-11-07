@@ -1,0 +1,370 @@
+
+wangyun.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bizi
+  rotate: false
+  xy: 637, 328
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
+  index: -1
+bujie
+  rotate: false
+  xy: 1192, 48
+  size: 94, 129
+  orig: 94, 129
+  offset: 0, 0
+  index: -1
+erduo
+  rotate: true
+  xy: 869, 2
+  size: 23, 51
+  orig: 23, 51
+  offset: 0, 0
+  index: -1
+hou ling
+  rotate: true
+  xy: 1424, 226
+  size: 267, 222
+  orig: 267, 222
+  offset: 0, 0
+  index: -1
+hou toufa
+  rotate: false
+  xy: 763, 2
+  size: 104, 144
+  orig: 104, 144
+  offset: 0, 0
+  index: -1
+hudiejie yinying
+  rotate: false
+  xy: 1905, 1278
+  size: 106, 768
+  orig: 106, 768
+  offset: 0, 0
+  index: -1
+huzi xia
+  rotate: false
+  xy: 559, 74
+  size: 111, 242
+  orig: 111, 242
+  offset: 0, 0
+  index: -1
+kouqiang
+  rotate: true
+  xy: 1208, 945
+  size: 48, 30
+  orig: 48, 30
+  offset: 0, 0
+  index: -1
+l_xiu1111
+  rotate: false
+  xy: 1208, 995
+  size: 249, 1051
+  orig: 249, 1051
+  offset: 0, 0
+  index: -1
+l_xiu2222
+  rotate: false
+  xy: 1655, 431
+  size: 133, 551
+  orig: 133, 551
+  offset: 0, 0
+  index: -1
+l_xiu3333
+  rotate: false
+  xy: 851, 348
+  size: 187, 570
+  orig: 187, 570
+  offset: 0, 0
+  index: -1
+l_xiu4444
+  rotate: false
+  xy: 2, 79
+  size: 225, 839
+  orig: 225, 839
+  offset: 0, 0
+  index: -1
+naodai
+  rotate: true
+  xy: 229, 75
+  size: 241, 328
+  orig: 241, 328
+  offset: 0, 0
+  index: -1
+r_xiu1111
+  rotate: false
+  xy: 1040, 56
+  size: 150, 870
+  orig: 150, 870
+  offset: 0, 0
+  index: -1
+r_xiu2222
+  rotate: false
+  xy: 1298, 318
+  size: 41, 675
+  orig: 41, 675
+  offset: 0, 0
+  index: -1
+r_xiu333
+  rotate: false
+  xy: 1341, 393
+  size: 81, 600
+  orig: 81, 600
+  offset: 0, 0
+  index: -1
+r_xiu4444
+  rotate: false
+  xy: 1790, 479
+  size: 73, 533
+  orig: 73, 533
+  offset: 0, 0
+  index: -1
+r_xiu5555
+  rotate: false
+  xy: 997, 928
+  size: 209, 1118
+  orig: 209, 1118
+  offset: 0, 0
+  index: -1
+shang zuichun
+  rotate: true
+  xy: 838, 148
+  size: 93, 150
+  orig: 93, 150
+  offset: 0, 0
+  index: -1
+shangshen
+  rotate: false
+  xy: 229, 318
+  size: 406, 600
+  orig: 406, 600
+  offset: 0, 0
+  index: -1
+xia zuichun
+  rotate: false
+  xy: 1865, 482
+  size: 47, 27
+  orig: 47, 27
+  offset: 0, 0
+  index: -1
+xiabai
+  rotate: false
+  xy: 1459, 984
+  size: 223, 1062
+  orig: 223, 1062
+  offset: 0, 0
+  index: -1
+xiashen
+  rotate: false
+  xy: 2, 920
+  size: 993, 1126
+  orig: 993, 1126
+  offset: 0, 0
+  index: -1
+yaodai1
+  rotate: false
+  xy: 1243, 261
+  size: 53, 732
+  orig: 53, 732
+  offset: 0, 0
+  index: -1
+yaodai2
+  rotate: false
+  xy: 1192, 179
+  size: 49, 747
+  orig: 49, 747
+  offset: 0, 0
+  index: -1
+you bin
+  rotate: true
+  xy: 2, 5
+  size: 72, 222
+  orig: 72, 222
+  offset: 0, 0
+  index: -1
+you dabi
+  rotate: false
+  xy: 637, 371
+  size: 212, 547
+  orig: 212, 547
+  offset: 0, 0
+  index: -1
+you jian
+  rotate: false
+  xy: 1865, 777
+  size: 157, 235
+  orig: 157, 235
+  offset: 0, 0
+  index: -1
+you liusu
+  rotate: false
+  xy: 763, 165
+  size: 34, 204
+  orig: 34, 204
+  offset: 0, 0
+  index: -1
+you liusu yinying
+  rotate: true
+  xy: 226, 37
+  size: 36, 196
+  orig: 36, 196
+  offset: 0, 0
+  index: -1
+you mei
+  rotate: true
+  xy: 1987, 529
+  size: 39, 35
+  orig: 39, 35
+  offset: 0, 0
+  index: -1
+you shou
+  rotate: false
+  xy: 869, 27
+  size: 108, 119
+  orig: 108, 119
+  offset: 0, 0
+  index: -1
+you wumingzhi
+  rotate: false
+  xy: 672, 73
+  size: 89, 29
+  orig: 89, 29
+  offset: 0, 0
+  index: -1
+you xiaozhi
+  rotate: true
+  xy: 2013, 1962
+  size: 84, 24
+  orig: 84, 24
+  offset: 0, 0
+  index: -1
+you yanpi
+  rotate: true
+  xy: 1734, 984
+  size: 28, 22
+  orig: 28, 22
+  offset: 0, 0
+  index: -1
+you yanqiu
+  rotate: false
+  xy: 763, 148
+  size: 25, 15
+  orig: 25, 15
+  offset: 0, 0
+  index: -1
+you yanzhu
+  rotate: true
+  xy: 1208, 928
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+you zhongzhi
+  rotate: false
+  xy: 1905, 1245
+  size: 83, 31
+  orig: 83, 31
+  offset: 0, 0
+  index: -1
+zhujian
+  rotate: true
+  xy: 1865, 511
+  size: 264, 120
+  orig: 264, 120
+  offset: 0, 0
+  index: -1
+zuo bin
+  rotate: false
+  xy: 672, 104
+  size: 89, 265
+  orig: 89, 265
+  offset: 0, 0
+  index: -1
+zuo dabi
+  rotate: true
+  xy: 1684, 1014
+  size: 189, 346
+  orig: 189, 346
+  offset: 0, 0
+  index: -1
+zuo jian
+  rotate: false
+  xy: 1648, 154
+  size: 327, 275
+  orig: 327, 275
+  offset: 0, 0
+  index: -1
+zuo jian bu
+  rotate: false
+  xy: 1288, 45
+  size: 118, 107
+  orig: 118, 107
+  offset: 0, 0
+  index: -1
+zuo liusu
+  rotate: false
+  xy: 1987, 570
+  size: 35, 205
+  orig: 35, 205
+  offset: 0, 0
+  index: -1
+zuo mei
+  rotate: false
+  xy: 1790, 440
+  size: 62, 37
+  orig: 62, 37
+  offset: 0, 0
+  index: -1
+zuo yanpi
+  rotate: false
+  xy: 1684, 984
+  size: 48, 28
+  orig: 48, 28
+  offset: 0, 0
+  index: -1
+zuo yanqiu
+  rotate: false
+  xy: 994, 332
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+zuo yanzhu
+  rotate: true
+  xy: 1224, 928
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+zuobi yinying111
+  rotate: false
+  xy: 1424, 495
+  size: 229, 487
+  orig: 229, 487
+  offset: 0, 0
+  index: -1
+zuoliusu yinying
+  rotate: false
+  xy: 799, 168
+  size: 37, 201
+  orig: 37, 201
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 838, 243
+  size: 154, 103
+  orig: 154, 103
+  offset: 0, 0
+  index: -1
+zuoxiabai1111
+  rotate: false
+  xy: 1684, 1205
+  size: 219, 841
+  orig: 219, 841
+  offset: 0, 0
+  index: -1

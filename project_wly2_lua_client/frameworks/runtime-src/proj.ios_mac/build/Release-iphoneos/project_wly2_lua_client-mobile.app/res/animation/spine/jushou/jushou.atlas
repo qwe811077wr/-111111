@@ -1,0 +1,265 @@
+
+jushou.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bizi
+  rotate: false
+  xy: 1963, 539
+  size: 31, 47
+  orig: 31, 47
+  offset: 0, 0
+  index: -1
+budai
+  rotate: true
+  xy: 930, 695
+  size: 191, 678
+  orig: 191, 678
+  offset: 0, 0
+  index: -1
+kouqiang
+  rotate: true
+  xy: 566, 321
+  size: 46, 25
+  orig: 46, 25
+  offset: 0, 0
+  index: -1
+lian
+  rotate: true
+  xy: 598, 211
+  size: 183, 329
+  orig: 183, 329
+  offset: 0, 0
+  index: -1
+liusu1111
+  rotate: false
+  xy: 1963, 588
+  size: 79, 434
+  orig: 79, 434
+  offset: 0, 0
+  index: -1
+shangchun
+  rotate: false
+  xy: 2, 28
+  size: 68, 26
+  orig: 68, 26
+  offset: 0, 0
+  index: -1
+shangshen
+  rotate: false
+  xy: 538, 396
+  size: 390, 626
+  orig: 390, 626
+  offset: 0, 0
+  index: -1
+shangyachi
+  rotate: false
+  xy: 598, 83
+  size: 34, 15
+  orig: 34, 15
+  offset: 0, 0
+  index: -1
+shou1111
+  rotate: true
+  xy: 1284, 4
+  size: 109, 214
+  orig: 109, 214
+  offset: 0, 0
+  index: -1
+toudai yinying1111
+  rotate: true
+  xy: 1500, 237
+  size: 41, 292
+  orig: 41, 292
+  offset: 0, 0
+  index: -1
+toudai1111
+  rotate: false
+  xy: 1536, 411
+  size: 57, 282
+  orig: 57, 282
+  offset: 0, 0
+  index: -1
+xiachun
+  rotate: true
+  xy: 560, 23
+  size: 51, 34
+  orig: 51, 34
+  offset: 0, 0
+  index: -1
+xiashen2222222
+  rotate: true
+  xy: 189, 76
+  size: 243, 407
+  orig: 243, 407
+  offset: 0, 0
+  index: -1
+xiayachi
+  rotate: true
+  xy: 1806, 291
+  size: 34, 15
+  orig: 34, 15
+  offset: 0, 0
+  index: -1
+you bai111111
+  rotate: false
+  xy: 2, 56
+  size: 185, 966
+  orig: 185, 966
+  offset: 0, 0
+  index: -1
+you bai22222
+  rotate: true
+  xy: 189, 16
+  size: 58, 369
+  orig: 58, 369
+  offset: 0, 0
+  index: -1
+you baixiu 1111
+  rotate: true
+  xy: 930, 281
+  size: 206, 581
+  orig: 206, 581
+  offset: 0, 0
+  index: -1
+you baixiu 22222
+  rotate: true
+  xy: 929, 115
+  size: 164, 569
+  orig: 164, 569
+  offset: 0, 0
+  index: -1
+you meimao
+  rotate: false
+  xy: 864, 182
+  size: 53, 27
+  orig: 53, 27
+  offset: 0, 0
+  index: -1
+you muzhi1111
+  rotate: true
+  xy: 538, 369
+  size: 25, 58
+  orig: 25, 58
+  offset: 0, 0
+  index: -1
+you shou111
+  rotate: true
+  xy: 598, 100
+  size: 109, 264
+  orig: 109, 264
+  offset: 0, 0
+  index: -1
+you xiu1111
+  rotate: false
+  xy: 189, 321
+  size: 347, 701
+  orig: 347, 701
+  offset: 0, 0
+  index: -1
+you xiuzi111111
+  rotate: true
+  xy: 930, 489
+  size: 204, 604
+  orig: 204, 604
+  offset: 0, 0
+  index: -1
+you yanpi
+  rotate: true
+  xy: 538, 321
+  size: 46, 26
+  orig: 46, 26
+  offset: 0, 0
+  index: -1
+you yanqiu
+  rotate: true
+  xy: 1813, 1000
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+you yanzhu
+  rotate: true
+  xy: 1595, 678
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+zuo bai
+  rotate: true
+  xy: 930, 888
+  size: 134, 881
+  orig: 134, 881
+  offset: 0, 0
+  index: -1
+zuo baixiu 111111
+  rotate: true
+  xy: 864, 33
+  size: 80, 418
+  orig: 80, 418
+  offset: 0, 0
+  index: -1
+zuo baixiu 22222
+  rotate: false
+  xy: 1831, 529
+  size: 130, 493
+  orig: 130, 493
+  offset: 0, 0
+  index: -1
+zuo houbai11111
+  rotate: false
+  xy: 1500, 71
+  size: 68, 164
+  orig: 68, 164
+  offset: 0, 0
+  index: -1
+zuo meimao
+  rotate: true
+  xy: 1513, 450
+  size: 37, 21
+  orig: 37, 21
+  offset: 0, 0
+  index: -1
+zuo shangbi
+  rotate: false
+  xy: 1831, 117
+  size: 186, 410
+  orig: 186, 410
+  offset: 0, 0
+  index: -1
+zuo toudai1111
+  rotate: true
+  xy: 1513, 280
+  size: 45, 291
+  orig: 45, 291
+  offset: 0, 0
+  index: -1
+zuo xiabi11111
+  rotate: false
+  xy: 1610, 327
+  size: 219, 559
+  orig: 219, 559
+  offset: 0, 0
+  index: -1
+zuo yanpi
+  rotate: false
+  xy: 1500, 54
+  size: 33, 15
+  orig: 33, 15
+  offset: 0, 0
+  index: -1
+zuo yanqiu
+  rotate: true
+  xy: 560, 2
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+zuo yanzhu
+  rotate: false
+  xy: 1570, 223
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1

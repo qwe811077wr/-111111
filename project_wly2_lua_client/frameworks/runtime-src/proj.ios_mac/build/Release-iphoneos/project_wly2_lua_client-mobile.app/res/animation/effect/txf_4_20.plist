@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>animation/effect/txf_4_20/txf420_0000.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,1393},{614,373}}</string>
+				<key>offset</key>
+				<string>{1,-42}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{889,503}</string>
+			</dict>
+			<key>animation/effect/txf_4_20/txf420_0001.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1580,972},{794,427}}</string>
+				<key>offset</key>
+				<string>{6,-38}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{889,503}</string>
+			</dict>
+			<key>animation/effect/txf_4_20/txf420_0002.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{3165,476},{808,459}}</string>
+				<key>offset</key>
+				<string>{11,-22}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{889,503}</string>
+			</dict>
+			<key>animation/effect/txf_4_20/txf420_0003.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{3165,0},{803,476}}</string>
+				<key>offset</key>
+				<string>{21,-14}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{889,503}</string>
+			</dict>
+			<key>animation/effect/txf_4_20/txf420_0004.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{792,0},{795,492}}</string>
+				<key>offset</key>
+				<string>{21,-6}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{889,503}</string>
+			</dict>
+			<key>animation/effect/txf_4_20/txf420_0005.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2388,0},{777,500}}</string>
+				<key>offset</key>
+				<string>{19,-2}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{889,503}</string>
+			</dict>
+			<key>animation/effect/txf_4_20/txf420_0006.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{792,498}}</string>
+				<key>offset</key>
+				<string>{19,-1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{889,503}</string>
+			</dict>
+			<key>animation/effect/txf_4_20/txf420_0007.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1587,0},{801,486}}</string>
+				<key>offset</key>
+				<string>{17,5}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{889,503}</string>
+			</dict>
+			<key>animation/effect/txf_4_20/txf420_0008.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1587,486},{792,486}}</string>
+				<key>offset</key>
+				<string>{13,5}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{889,503}</string>
+			</dict>
+			<key>animation/effect/txf_4_20/txf420_0009.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,498},{789,486}}</string>
+				<key>offset</key>
+				<string>{5,5}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{889,503}</string>
+			</dict>
+			<key>animation/effect/txf_4_20/txf420_0010.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{792,492},{788,488}}</string>
+				<key>offset</key>
+				<string>{10,6}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{889,503}</string>
+			</dict>
+			<key>animation/effect/txf_4_20/txf420_0011.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2379,500},{799,440}}</string>
+				<key>offset</key>
+				<string>{9,28}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{889,503}</string>
+			</dict>
+			<key>animation/effect/txf_4_20/txf420_0012.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{789,980},{770,418}}</string>
+				<key>offset</key>
+				<string>{26,18}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{889,503}</string>
+			</dict>
+			<key>animation/effect/txf_4_20/txf420_0013.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,984},{779,409}}</string>
+				<key>offset</key>
+				<string>{22,32}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{889,503}</string>
+			</dict>
+			<key>animation/effect/txf_4_20/txf420_0014.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2819,500},{544,340}}</string>
+				<key>offset</key>
+				<string>{-57,2}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{889,503}</string>
+			</dict>
+			<key>animation/effect/txf_4_20/txf420_0015.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,1766},{455,340}}</string>
+				<key>offset</key>
+				<string>{-12,2}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{889,503}</string>
+			</dict>
+			<key>animation/effect/txf_4_20/txf420_0016.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{614,1393},{452,139}}</string>
+				<key>offset</key>
+				<string>{-9,-67}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{889,503}</string>
+			</dict>
+			<key>animation/effect/txf_4_20/txf420_0017.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{455,1766},{452,138}}</string>
+				<key>offset</key>
+				<string>{-4,-68}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{889,503}</string>
+			</dict>
+			<key>animation/effect/txf_4_20/txf420_0018.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,2106},{446,136}}</string>
+				<key>offset</key>
+				<string>{4,-69}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{889,503}</string>
+			</dict>
+			<key>animation/effect/txf_4_20/txf420_0019.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{753,1398},{432,133}}</string>
+				<key>offset</key>
+				<string>{13,-70}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{889,503}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>txf_4_20.png</string>
+			<key>realTextureFileName</key>
+			<string>txf_4_20.png</string>
+			<key>size</key>
+			<string>{3973,2242}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>3973</integer>
+			<key>height</key>
+			<integer>2242</integer>
+		</dict>
+	</dict>
+</plist>

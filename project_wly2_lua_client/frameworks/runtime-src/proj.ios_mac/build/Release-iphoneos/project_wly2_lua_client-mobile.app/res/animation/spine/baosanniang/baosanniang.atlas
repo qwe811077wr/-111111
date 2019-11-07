@@ -1,0 +1,321 @@
+
+baosanniang.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bizi
+  rotate: false
+  xy: 1899, 606
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: -1
+changchun
+  rotate: false
+  xy: 2, 117
+  size: 47, 20
+  orig: 47, 20
+  offset: 0, 0
+  index: -1
+faguan
+  rotate: true
+  xy: 518, 2
+  size: 113, 222
+  orig: 113, 222
+  offset: 0, 0
+  index: -1
+kou qiang
+  rotate: false
+  xy: 742, 249
+  size: 39, 23
+  orig: 39, 23
+  offset: 0, 0
+  index: -1
+lian
+  rotate: true
+  xy: 808, 119
+  size: 153, 206
+  orig: 153, 206
+  offset: 0, 0
+  index: -1
+lingdang
+  rotate: false
+  xy: 742, 8
+  size: 45, 43
+  orig: 45, 43
+  offset: 0, 0
+  index: -1
+lingdangyiyi
+  rotate: true
+  xy: 979, 75
+  size: 42, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1
+liuhai
+  rotate: false
+  xy: 1391, 117
+  size: 101, 95
+  orig: 101, 95
+  offset: 0, 0
+  index: -1
+maoling bu
+  rotate: true
+  xy: 789, 2
+  size: 38, 46
+  orig: 38, 46
+  offset: 0, 0
+  index: -1
+mawei111
+  rotate: false
+  xy: 212, 249
+  size: 253, 773
+  orig: 253, 773
+  offset: 0, 0
+  index: -1
+qunwei1
+  rotate: true
+  xy: 1494, 118
+  size: 97, 171
+  orig: 97, 171
+  offset: 0, 0
+  index: -1
+qunwei2
+  rotate: false
+  xy: 1667, 42
+  size: 91, 173
+  orig: 91, 173
+  offset: 0, 0
+  index: -1
+shangyachi
+  rotate: false
+  xy: 1628, 439
+  size: 34, 14
+  orig: 34, 14
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 750, 358
+  size: 325, 664
+  orig: 325, 664
+  offset: 0, 0
+  index: -1
+tui1111
+  rotate: true
+  xy: 1077, 439
+  size: 152, 549
+  orig: 152, 549
+  offset: 0, 0
+  index: -1
+wumingzhi111222
+  rotate: true
+  xy: 808, 96
+  size: 21, 90
+  orig: 21, 90
+  offset: 0, 0
+  index: -1
+xiachun
+  rotate: false
+  xy: 1015, 91
+  size: 48, 24
+  orig: 48, 24
+  offset: 0, 0
+  index: -1
+xiaomuzi1112222
+  rotate: true
+  xy: 1628, 455
+  size: 21, 69
+  orig: 21, 69
+  offset: 0, 0
+  index: -1
+xiayachi
+  rotate: true
+  xy: 1054, 324
+  size: 32, 12
+  orig: 32, 12
+  offset: 0, 0
+  index: -1
+yaodai111
+  rotate: false
+  xy: 1712, 605
+  size: 185, 51
+  orig: 185, 51
+  offset: 0, 0
+  index: -1
+yaodaizi
+  rotate: false
+  xy: 742, 53
+  size: 64, 62
+  orig: 64, 62
+  offset: 0, 0
+  index: -1
+you maoling
+  rotate: false
+  xy: 1628, 478
+  size: 68, 124
+  orig: 68, 124
+  offset: 0, 0
+  index: -1
+you qunbai11111
+  rotate: false
+  xy: 467, 306
+  size: 281, 716
+  orig: 281, 716
+  offset: 0, 0
+  index: -1
+you qunbai2222
+  rotate: true
+  xy: 1054, 214
+  size: 92, 419
+  orig: 92, 419
+  offset: 0, 0
+  index: -1
+you qunbai3333
+  rotate: true
+  xy: 1016, 117
+  size: 95, 373
+  orig: 95, 373
+  offset: 0, 0
+  index: -1
+you qunbai4444
+  rotate: true
+  xy: 1077, 308
+  size: 129, 617
+  orig: 129, 617
+  offset: 0, 0
+  index: -1
+you shoubi11
+  rotate: false
+  xy: 1936, 437
+  size: 102, 585
+  orig: 102, 585
+  offset: 0, 0
+  index: -1
+you toufa
+  rotate: true
+  xy: 467, 249
+  size: 55, 113
+  orig: 55, 113
+  offset: 0, 0
+  index: -1
+you toufa yinying
+  rotate: true
+  xy: 900, 90
+  size: 27, 77
+  orig: 27, 77
+  offset: 0, 0
+  index: -1
+you wuqi
+  rotate: false
+  xy: 1077, 593
+  size: 422, 429
+  orig: 422, 429
+  offset: 0, 0
+  index: -1
+you yanbai
+  rotate: false
+  xy: 1065, 92
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1
+you yanpi
+  rotate: false
+  xy: 683, 265
+  size: 57, 39
+  orig: 57, 39
+  offset: 0, 0
+  index: -1
+you yanzhu
+  rotate: false
+  xy: 783, 254
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+zhongzhi111222
+  rotate: true
+  xy: 808, 66
+  size: 28, 81
+  orig: 28, 81
+  offset: 0, 0
+  index: -1
+zuo maoling111
+  rotate: true
+  xy: 582, 259
+  size: 45, 99
+  orig: 45, 99
+  offset: 0, 0
+  index: -1
+zuo shangbi1111
+  rotate: true
+  xy: 750, 274
+  size: 82, 302
+  orig: 82, 302
+  offset: 0, 0
+  index: -1
+zuo toufa
+  rotate: true
+  xy: 1501, 604
+  size: 52, 209
+  orig: 52, 209
+  offset: 0, 0
+  index: -1
+zuo wuqi111
+  rotate: true
+  xy: 1501, 658
+  size: 364, 433
+  orig: 364, 433
+  offset: 0, 0
+  index: -1
+zuo xiabai1111
+  rotate: false
+  xy: 2, 139
+  size: 208, 883
+  orig: 208, 883
+  offset: 0, 0
+  index: -1
+zuo xiabai22222
+  rotate: true
+  xy: 212, 117
+  size: 130, 594
+  orig: 130, 594
+  offset: 0, 0
+  index: -1
+zuo xiabai33333
+  rotate: true
+  xy: 2, 13
+  size: 102, 514
+  orig: 102, 514
+  offset: 0, 0
+  index: -1
+zuo xiaobi
+  rotate: false
+  xy: 1475, 217
+  size: 274, 89
+  orig: 274, 89
+  offset: 0, 0
+  index: -1
+zuo yanbai
+  rotate: false
+  xy: 1098, 91
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+zuo yanpi
+  rotate: true
+  xy: 1016, 232
+  size: 40, 36
+  orig: 40, 36
+  offset: 0, 0
+  index: -1
+zuo yanzhu
+  rotate: false
+  xy: 51, 118
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,44 @@
+local WorldCityMaps={
+['WorldCityMap']=
+{
+	[1]=
+	{
+		['ident']=1,
+		['big']=1.0,
+		['normal']=0.7,
+		['blocksize']=256,
+		['value']="13,24",
+		['small']=0.5,
+		['x']=6000,
+		['y']=3150,
+		['path']="world",
+		['desc']="天下切图"
+	},
+	[2]=
+	{
+		['ident']=2,
+		['big']=0.7,
+		['normal']=0.6,
+		['blocksize']=256,
+		['value']="12,18",
+		['small']=0.5,
+		['x']=4518,
+		['y']=3000,
+		['path']="castle",
+		['desc']="主城切图"
+	},
+	[3]=
+	{
+		['ident']=3,
+		['big']=0.8,
+		['normal']=0.7,
+		['blocksize']=256,
+		['value']="12,18",
+		['small']=0.6,
+		['x']=2940,
+		['y']=1702,
+		['path']="CountryWar",
+		['desc']="城战切图"
+	}
+}}
+return WorldCityMaps

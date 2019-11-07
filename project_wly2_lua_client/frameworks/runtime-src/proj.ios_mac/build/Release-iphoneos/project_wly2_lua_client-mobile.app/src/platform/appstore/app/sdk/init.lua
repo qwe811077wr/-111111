@@ -1,0 +1,4 @@
+require('app.sdkcommon.initCommon')
+
+
+
