@@ -1,0 +1,7 @@
+{
+    "engineVersion": "3.17", 
+    "packageUrl": "http://10.0.250.48:8000/publish/ios", 
+    "remoteManifestUrl": "http://10.0.250.48:8000/publish/ios/project.manifest", 
+    "remoteVersionUrl": "http://10.0.250.48:8000/publish/ios/version.manifest", 
+    "version": "1.0.5-191101174535"
+}

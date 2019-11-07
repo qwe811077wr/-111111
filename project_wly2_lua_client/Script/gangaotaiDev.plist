@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>teamID</key>
+	<string>5X924364M2</string>
+	<key>method</key>
+	<string>development</string>
+	<key>provisioningProfiles</key>
+	<dict>
+		<key>com.wyx.tw</key>
+		<string>986c03fb-1d22-4423-842a-8fe8ea2816c6</string>
+	</dict>
+	<key>signingCertificate</key>
+	<string>iPhone Developer</string>
+</dict>
+</plist>

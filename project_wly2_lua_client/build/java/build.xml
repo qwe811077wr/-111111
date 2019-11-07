@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="make_spritesheet" basedir="." default="bv">
+	<target name="bv">
+        <javac debug="true" srcdir="classes" destdir="../scripts" encoding="utf-8" nowarn="true" includeantruntime="on" source="1.6" target="1.6" />		
+	</target>
+</project>

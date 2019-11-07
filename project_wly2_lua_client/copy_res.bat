@@ -1,0 +1,1 @@
+xcopy /E /Y res\* simulator\win32\res
