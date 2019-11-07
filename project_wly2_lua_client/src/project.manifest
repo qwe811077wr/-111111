@@ -1,0 +1,118 @@
+{
+    "assets": {
+        "1.0.2-190826144351": {
+            "compressed": true, 
+            "group": "1", 
+            "md5": "1f6f9d97d825e02e4656439d0a494f6d", 
+            "path": "1.0.2-190826144351.zip"
+        }, 
+        "1.0.2-190828201346": {
+            "compressed": true, 
+            "group": "1", 
+            "md5": "8c66784cf47eaac0cfae91fa6ad17894", 
+            "path": "1.0.2-190828201346.zip"
+        }, 
+        "1.0.2-190829190318": {
+            "compressed": true, 
+            "group": "1", 
+            "md5": "60751d95937a879b3966593277d04be6", 
+            "path": "1.0.2-190829190318.zip"
+        }, 
+        "1.0.2-190830194455": {
+            "compressed": true, 
+            "group": "1", 
+            "md5": "709fd514133d5b28c55868d0bee3a389", 
+            "path": "1.0.2-190830194455.zip"
+        }, 
+        "1.0.2-190902204155": {
+            "compressed": true, 
+            "group": "1", 
+            "md5": "1ce40579b3561decd99f20417f63fcb3", 
+            "path": "1.0.2-190902204155.zip"
+        }, 
+        "1.0.2-190910164136": {
+            "compressed": true, 
+            "group": "1", 
+            "md5": "83a5302383c7325d4f1518fd7b0a27c4", 
+            "path": "1.0.2-190910164136.zip"
+        }, 
+        "1.0.2-190912174924": {
+            "compressed": true, 
+            "group": "1", 
+            "md5": "872dad8037a63a813b2ea4e95ae926cf", 
+            "path": "1.0.2-190912174924.zip"
+        }, 
+        "1.0.2-190920180215": {
+            "compressed": true, 
+            "group": "1", 
+            "md5": "c6970357a19b9f4b8e027f73e0a96d14", 
+            "path": "1.0.2-190920180215.zip"
+        }, 
+        "1.0.2-190925152257": {
+            "compressed": true, 
+            "group": "1", 
+            "md5": "3701c79318a2ddba0d1449bdafbf282e", 
+            "path": "1.0.2-190925152257.zip"
+        }, 
+        "1.0.2-190925174829": {
+            "compressed": true, 
+            "group": "1", 
+            "md5": "ab0678a9544db74ccb975330d8e07b34", 
+            "path": "1.0.2-190925174829.zip"
+        }, 
+        "1.0.2-190926111550": {
+            "compressed": true, 
+            "group": "1", 
+            "md5": "2030f898bee52ba0d7f60c610d587cfb", 
+            "path": "1.0.2-190926111550.zip"
+        }, 
+        "1.0.2-190926175615": {
+            "compressed": true, 
+            "group": "1", 
+            "md5": "5848de0863abd6af4f043866fd68ce4e", 
+            "path": "1.0.2-190926175615.zip"
+        }, 
+        "1.0.3-191009194231": {
+            "compressed": true, 
+            "group": "1", 
+            "md5": "a51406e3fccacd06712e161e1b41caf0", 
+            "path": "1.0.3-191009194231.zip"
+        }, 
+        "1.0.3-191009205813": {
+            "compressed": true, 
+            "group": "1", 
+            "md5": "3608a52b30821b569faf865141176e11", 
+            "path": "1.0.3-191009205813.zip"
+        }, 
+        "1.0.4-191012101453": {
+            "compressed": true, 
+            "group": "1", 
+            "md5": "8ac20f1187e94593a2bd5a6e3e7310cb", 
+            "path": "1.0.4-191012101453.zip"
+        }, 
+        "1.0.4-191015161753": {
+            "compressed": true, 
+            "group": "1", 
+            "md5": "b4c03d170b0712c2e9cb59f34b97498f", 
+            "path": "1.0.4-191015161753.zip"
+        }, 
+        "1.0.4-191015172254": {
+            "compressed": true, 
+            "group": "1", 
+            "md5": "9ddb7268f7c99dbe73dac372ac450cfe", 
+            "path": "1.0.4-191015172254.zip"
+        }, 
+        "1.0.4-191017141827": {
+            "compressed": true, 
+            "group": "1", 
+            "md5": "932228fd203a938eff7d49dc5eb67870", 
+            "path": "1.0.4-191017141827.zip"
+        }
+    }, 
+    "engineVersion": "3.17", 
+    "packageUrl": "http://10.0.250.48:8000/publish/ios", 
+    "remoteManifestUrl": "http://10.0.250.48:8000/publish/ios/project.manifest", 
+    "remoteVersionUrl": "http://10.0.250.48:8000/publish/ios/version.manifest", 
+    "searchPaths": [], 
+    "version": "1.0.5-191017194229"
+}

@@ -1,0 +1,45 @@
+local SoldierTransfers={
+['SoldierTransfer']=
+{
+	[1]=
+	{
+		['ident']=1,
+		['cost']="",
+		['rebirthTimes']=0,
+		['towerFloor']=0,
+		['level']=10
+	},
+	[2]=
+	{
+		['ident']=2,
+		['cost']="",
+		['rebirthTimes']=0,
+		['towerFloor']=0,
+		['level']=30
+	},
+	[3]=
+	{
+		['ident']=3,
+		['cost']="101;500000;0|151;5000;10",
+		['rebirthTimes']=0,
+		['towerFloor']=1,
+		['level']=45
+	},
+	[4]=
+	{
+		['ident']=4,
+		['cost']="101;50000000;0|151;50000;10",
+		['rebirthTimes']=0,
+		['towerFloor']=2,
+		['level']=60
+	},
+	[5]=
+	{
+		['ident']=5,
+		['cost']="101;500000000;0|151;500000;10",
+		['rebirthTimes']=0,
+		['towerFloor']=3,
+		['level']=75
+	}
+}}
+return SoldierTransfers

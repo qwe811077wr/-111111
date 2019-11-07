@@ -1,0 +1,5 @@
+require('app.base.Loader')
+require('app.base.ModuleManager')
+require('app.base.Preloader')
+require('app.base.AnimationManager')
+require('app.base.ViewAction')

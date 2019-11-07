@@ -1,0 +1,41 @@
+local Shakes={
+['Shake']=
+{
+	[1]=
+	{
+		['overframe']=3,
+		['speedRatio']=0.5,
+		['ident']=1,
+		['shakemode']=1,
+		['startframe']=1,
+		['offest']=30
+	},
+	[2]=
+	{
+		['overframe']=5,
+		['speedRatio']=0.5,
+		['ident']=2,
+		['shakemode']=2,
+		['startframe']=1,
+		['offest']=30
+	},
+	[3]=
+	{
+		['overframe']=5,
+		['speedRatio']=0.5,
+		['ident']=3,
+		['shakemode']=1,
+		['startframe']=1,
+		['offest']=30
+	},
+	[4]=
+	{
+		['overframe']=5,
+		['speedRatio']=0.5,
+		['ident']=4,
+		['shakemode']=1,
+		['startframe']=1,
+		['offest']=50
+	}
+}}
+return Shakes

@@ -1,0 +1,30 @@
+local config = {
+	SHOW_FLAGS = {
+		-- "modules.battle.SoldierData.anger",
+		-- "modules.battle.EffectView",
+		-- "modules.battle.SoldierView",
+		-- "modules.battle.BuffView",
+		-- "modules.battle.SoldierView",
+		-- "modules.battle.ShotView",
+		-- "battle.ReportController",
+		-- "modules.battle.Buff",
+		-- "battle.SkillController",
+		-- "battle.SkillController.damage",
+		-- "modules.battle.ShotPosition",
+		-- "modules.battle.Action",
+		-- "modules.battle.SoldierData",
+		-- "modules.battle.Shot",
+		-- "modules.battle.SoldierData",
+		-- "modules.battle.SoldierData.adjustPos",
+		-- "modules.battle.SoldierController",
+		-- "modules.battle.ShotFan",
+		-- "modules.battle.Action",
+		-- "battle.SkillController",
+		-- "modules.battle.Buff",
+		-- "battle.ReportController1",
+		-- "modules.battle.Action.Bubble",
+	},
+	SHOW_ALL = false,
+	LEVEL = uq.logging.DEBUG
+}
+return config
