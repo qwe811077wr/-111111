@@ -1,0 +1,209 @@
+
+bocai.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 343
+  size: 820, 1703
+  orig: 820, 1703
+  offset: 0, 0
+  index: -1
+dao
+  rotate: true
+  xy: 1370, 1009
+  size: 1037, 400
+  orig: 1037, 400
+  offset: 0, 0
+  index: -1
+masheng
+  rotate: false
+  xy: 1652, 92
+  size: 196, 268
+  orig: 196, 268
+  offset: 0, 0
+  index: -1
+masheng 01
+  rotate: false
+  xy: 1917, 1661
+  size: 88, 385
+  orig: 88, 385
+  offset: 0, 0
+  index: -1
+masheng 02
+  rotate: false
+  xy: 1772, 1480
+  size: 143, 566
+  orig: 143, 566
+  offset: 0, 0
+  index: -1
+pifeng shang
+  rotate: false
+  xy: 824, 933
+  size: 544, 1113
+  orig: 544, 1113
+  offset: 0, 0
+  index: -1
+pifeng xia1
+  rotate: false
+  xy: 824, 128
+  size: 585, 803
+  orig: 585, 803
+  offset: 0, 0
+  index: -1
+shang shen
+  rotate: false
+  xy: 2, 28
+  size: 688, 313
+  orig: 688, 313
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 1660, 694
+  size: 216, 313
+  orig: 216, 313
+  offset: 0, 0
+  index: -1
+toudai 01
+  rotate: true
+  xy: 1850, 194
+  size: 242, 188
+  orig: 242, 188
+  offset: 0, 0
+  index: -1
+toudai 2
+  rotate: false
+  xy: 692, 234
+  size: 71, 107
+  orig: 71, 107
+  offset: 0, 0
+  index: -1
+yao bu
+  rotate: false
+  xy: 1411, 101
+  size: 239, 291
+  orig: 239, 291
+  offset: 0, 0
+  index: -1
+you da bi
+  rotate: false
+  xy: 1411, 394
+  size: 239, 298
+  orig: 239, 298
+  offset: 0, 0
+  index: -1
+you liu hai
+  rotate: false
+  xy: 765, 283
+  size: 53, 58
+  orig: 53, 58
+  offset: 0, 0
+  index: -1
+you mei gong
+  rotate: false
+  xy: 1917, 1537
+  size: 44, 31
+  orig: 44, 31
+  offset: 0, 0
+  index: -1
+you mei mao
+  rotate: true
+  xy: 1972, 1615
+  size: 44, 27
+  orig: 44, 27
+  offset: 0, 0
+  index: -1
+you tongkong
+  rotate: false
+  xy: 1850, 104
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+you xiao bi
+  rotate: true
+  xy: 1772, 1035
+  size: 443, 216
+  orig: 443, 216
+  offset: 0, 0
+  index: -1
+you yan qiu
+  rotate: false
+  xy: 1772, 1014
+  size: 27, 19
+  orig: 27, 19
+  offset: 0, 0
+  index: -1
+zou yi xiu
+  rotate: false
+  xy: 1836, 438
+  size: 191, 254
+  orig: 191, 254
+  offset: 0, 0
+  index: -1
+zuo da  bi
+  rotate: false
+  xy: 1411, 694
+  size: 247, 313
+  orig: 247, 313
+  offset: 0, 0
+  index: -1
+zuo liuhai 01
+  rotate: false
+  xy: 692, 177
+  size: 58, 55
+  orig: 58, 55
+  offset: 0, 0
+  index: -1
+zuo liuhai 02
+  rotate: false
+  xy: 1850, 123
+  size: 64, 69
+  orig: 64, 69
+  offset: 0, 0
+  index: -1
+zuo liuhai 03
+  rotate: true
+  xy: 1917, 1570
+  size: 89, 53
+  orig: 89, 53
+  offset: 0, 0
+  index: -1
+zuo mei gong
+  rotate: true
+  xy: 1370, 937
+  size: 70, 31
+  orig: 70, 31
+  offset: 0, 0
+  index: -1
+zuo mei mao
+  rotate: true
+  xy: 2007, 1981
+  size: 65, 27
+  orig: 65, 27
+  offset: 0, 0
+  index: -1
+zuo tongkong
+  rotate: false
+  xy: 1916, 175
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+zuo xiao bi
+  rotate: true
+  xy: 1652, 362
+  size: 330, 182
+  orig: 330, 182
+  offset: 0, 0
+  index: -1
+zuo yan qiu
+  rotate: false
+  xy: 2, 2
+  size: 33, 24
+  orig: 33, 24
+  offset: 0, 0
+  index: -1

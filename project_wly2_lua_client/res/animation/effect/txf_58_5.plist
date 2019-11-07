@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>txf_58_5_txf5805_0000.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{514,319}</string>
+                <key>spriteSourceSize</key>
+                <string>{514,319}</string>
+                <key>textureRect</key>
+                <string>{{1,1},{514,319}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>txf_58_5.png</string>
+            <key>size</key>
+            <string>{516,321}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:16c040be946f284bb0903a0a0b3fe8e0:f101f37b44ac30f5ef8a9ee7f5eae722:9ed63940b9aa371d490a067cebbaff13$</string>
+            <key>textureFileName</key>
+            <string>txf_58_5.png</string>
+        </dict>
+    </dict>
+</plist>
