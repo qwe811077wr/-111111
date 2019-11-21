@@ -1,0 +1,51 @@
+Started by user unknown or anonymous
+Running as SYSTEM
+Building in workspace /Users/admin/.jenkins/workspace/pc端测试包
+[pc端测试包] $ /bin/sh -xe /var/folders/bc/jfs8sfm16sv5tb42bvj41crw0000gn/T/jenkins3720485167909236801.sh
++ cd /Users/admin/code/client/public/project_wly2_lua_client
++ git pull
+Already up to date.
++ cd res
++ svn add --force ./Default ./animation ./cg ./data ./font ./img ./map ./sound ./ui
++ svn commit -m 'git to svn sync res'
++ cd ../src
++ svn add --force ./app ./cocos ./config.lua ./cppapi ./init.lua ./main.lua ./packages ./platform ./project.manifest ./readme.md ./version.manifest
++ svn commit -m 'git to svn sync src'
+Sending        app/cache/equipment.lua
+Sending        app/cache/formation.lua
+Sending        app/cache/generals.lua
+Sending        app/modules/ancient_city/AncientCityClearanceReward.lua
+Sending        app/modules/ancient_city/AncientCitySweep.lua
+Sending        app/modules/ancient_city/AncientCitySweepItem.lua
+Sending        app/modules/arena/ArenaView.lua
+Sending        app/modules/common/GeneralsTips.lua
+Sending        app/modules/common/PowerPromoteModule.lua
+Sending        app/modules/common/ShowReward.lua
+Sending        app/modules/drill/DrillCard.lua
+Sending        app/modules/embattle/EmbattleRoleCard.lua
+Sending        app/modules/equip/EquipHandbook.lua
+Sending        app/modules/general_collect/GeneralCollectCardItem.lua
+Sending        app/modules/general_collect/GeneralCollectView.lua
+Sending        app/modules/generals/EquipReplace.lua
+Sending        app/modules/generals/EquipResourceItem.lua
+Sending        app/modules/generals/GeneralsArms.lua
+Sending        app/modules/generals/GeneralsArmsAdvance.lua
+Sending        app/modules/generals/GeneralsArmsRebuild.lua
+Sending        app/modules/generals/GeneralsAttrNode.lua
+Sending        app/modules/generals/GeneralsAttribute.lua
+Sending        app/modules/generals/GeneralsEquip.lua
+Sending        app/modules/generals/GeneralsEquipInfo.lua
+Sending        app/modules/generals/GeneralsInsight.lua
+Sending        app/modules/generals/GeneralsModule.lua
+Sending        app/modules/generals/GeneralsQuality.lua
+Sending        app/modules/generals/InsightResFrom.lua
+Sending        app/modules/generals/QualityItem.lua
+Sending        app/modules/ware_house/WareHouseModule.lua
+Sending        app/network/EventName.lua
+Sending        app/network/protocol/ProtocolEquipment.lua
+Sending        project.manifest
+Sending        version.manifest
+Transmitting file data ..................................done
+Committing transaction...
+Committed revision 10937.
+Finished: SUCCESS

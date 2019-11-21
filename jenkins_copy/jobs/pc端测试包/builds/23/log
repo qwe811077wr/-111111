@@ -1,0 +1,19 @@
+Started by user unknown or anonymous
+Running as SYSTEM
+Building in workspace /Users/admin/.jenkins/workspace/pc端测试包
+[pc端测试包] $ /bin/sh -xe /var/folders/bc/jfs8sfm16sv5tb42bvj41crw0000gn/T/jenkins7191206859162096000.sh
++ cd /Users/admin/code/client/public/project_wly2_lua_client
++ git pull
+Already up to date.
++ cd res
++ svn add --force ./Default ./animation ./cg ./data ./font ./img ./map ./sound ./ui
++ svn commit -m 'git to svn sync res'
++ cd ../src
++ svn add --force ./app ./cocos ./config.lua ./cppapi ./init.lua ./main.lua ./packages ./platform ./project.manifest ./readme.md ./version.manifest
++ svn commit -m 'git to svn sync src'
+Sending        project.manifest
+Sending        version.manifest
+Transmitting file data ..done
+Committing transaction...
+Committed revision 10939.
+Finished: SUCCESS

@@ -1,0 +1,775 @@
+Started by user [8mha:////4DHKDM0mCd+Np+CRf5wbrS4StKZGCeHkPqVFI/Ru8IMMAAAAnB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzuEgZB/dLi1CL9qoz8vPTCzBwgCQBh1UZTxgAAAA==[0mzhongqilong
+Running as SYSTEM
+Building in workspace /Users/admin/.jenkins/workspace/android打包（慎点 会导致android包重新下载）
+[android打包（慎点 会导致android包重新下载）] $ /bin/sh -xe /var/folders/bc/jfs8sfm16sv5tb42bvj41crw0000gn/T/jenkins3167686156710912465.sh
++ cd /Users/admin/code/client/public/project_wly2_lua_client
++ git pull
+Already up to date.
++ python build_encrypt_android.py
+编译模式：debug
+使用 Android Studio 工程：/Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android
+正在生成 apk 文件...
+正在执行：'"/Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/gradlew" --parallel --info assembleDebug -PPROP_BUILD_TYPE=ndk-build -PPROP_COMPILE_SCRIPT=0'
+
+Initialized native services in: /Users/admin/.gradle/native
+The client will now receive all logging from the daemon (pid: 30504). The daemon log file: /Users/admin/.gradle/daemon/4.1/daemon-30504.out.log
+Starting 2nd build in daemon [uptime: 1 hrs 0 mins 32.157 secs, performance: 100%, no major garbage collections]
+Using 6 worker leases.
+Creating new cache for fileHashes, path /Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/.gradle/4.1/fileHashes/fileHashes.bin, access org.gradle.cache.internal.DefaultCacheAccess@6df54244
+Closing daemon's stdin at end of input.
+The daemon will no longer process any standard input.
+Creating new cache for plugin-use-metadata, path /Users/admin/.gradle/caches/4.1/plugin-resolution/plugin-use-metadata.bin, access org.gradle.cache.internal.DefaultCacheAccess@6d62e0de
+Creating new cache for client-status, path /Users/admin/.gradle/caches/4.1/plugin-resolution/client-status.bin, access org.gradle.cache.internal.DefaultCacheAccess@6d62e0de
+Starting Build
+Settings evaluated using settings file '/Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/settings.gradle'.
+Projects loaded. Root project using build file '/Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/build.gradle'.
+Included projects: [root project 'proj.android', project ':libcocos2dx', project ':project_wly2_lua_client']
+Parallel execution is an incubating feature.
+Evaluating root project 'proj.android' using build file '/Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/build.gradle'.
+Creating new cache for metadata-1.1/results, path /Users/admin/.gradle/caches/transforms-1/metadata-1.1/results.bin, access org.gradle.cache.internal.DefaultCacheAccess@1e02c31f
+Creating new cache for metadata-2.23/module-metadata, path /Users/admin/.gradle/caches/modules-2/metadata-2.23/module-metadata.bin, access org.gradle.cache.internal.DefaultCacheAccess@4384c168
+Creating new cache for metadata-2.23/artifact-at-repository, path /Users/admin/.gradle/caches/modules-2/metadata-2.23/artifact-at-repository.bin, access org.gradle.cache.internal.DefaultCacheAccess@4384c168
+Evaluating project ':libcocos2dx' using build file '/Users/admin/code/client/public/project_wly2_lua_client/frameworks/cocos2d-x/cocos/platform/android/libcocos2dx/build.gradle'.
+Creating configuration androidTestUtil
+Creating configuration compile
+Creating configuration publish
+Creating configuration provided
+Creating configuration api
+Creating configuration implementation
+Creating configuration runtimeOnly
+Creating configuration compileOnly
+Creating configuration wearApp
+Creating configuration annotationProcessor
+Creating configuration androidTestCompile
+Creating configuration androidTestPublish
+Creating configuration androidTestProvided
+Creating configuration androidTestApi
+Creating configuration androidTestImplementation
+Creating configuration androidTestRuntimeOnly
+Creating configuration androidTestCompileOnly
+Creating configuration androidTestWearApp
+Creating configuration androidTestAnnotationProcessor
+Creating configuration testCompile
+Creating configuration testPublish
+Creating configuration testProvided
+Creating configuration testApi
+Creating configuration testImplementation
+Creating configuration testRuntimeOnly
+Creating configuration testCompileOnly
+Creating configuration testWearApp
+Creating configuration testAnnotationProcessor
+Creating configuration debugCompile
+Creating configuration debugPublish
+Creating configuration debugProvided
+Creating configuration debugApi
+Creating configuration debugImplementation
+Creating configuration debugRuntimeOnly
+Creating configuration debugCompileOnly
+Creating configuration debugWearApp
+Creating configuration debugAnnotationProcessor
+Creating configuration androidTestDebugCompile
+Creating configuration androidTestDebugPublish
+Creating configuration androidTestDebugProvided
+Creating configuration androidTestDebugApi
+Creating configuration androidTestDebugImplementation
+Creating configuration androidTestDebugRuntimeOnly
+Creating configuration androidTestDebugCompileOnly
+Creating configuration androidTestDebugWearApp
+Creating configuration androidTestDebugAnnotationProcessor
+Creating configuration testDebugCompile
+Creating configuration testDebugPublish
+Creating configuration testDebugProvided
+Creating configuration testDebugApi
+Creating configuration testDebugImplementation
+Creating configuration testDebugRuntimeOnly
+Creating configuration testDebugCompileOnly
+Creating configuration testDebugWearApp
+Creating configuration testDebugAnnotationProcessor
+Creating configuration releaseCompile
+Creating configuration releasePublish
+Creating configuration releaseProvided
+Creating configuration releaseApi
+Creating configuration releaseImplementation
+Creating configuration releaseRuntimeOnly
+Creating configuration releaseCompileOnly
+Creating configuration releaseWearApp
+Creating configuration releaseAnnotationProcessor
+Creating configuration testReleaseCompile
+Creating configuration testReleasePublish
+Creating configuration testReleaseProvided
+Creating configuration testReleaseApi
+Creating configuration testReleaseImplementation
+Creating configuration testReleaseRuntimeOnly
+Creating configuration testReleaseCompileOnly
+Creating configuration testReleaseWearApp
+Creating configuration testReleaseAnnotationProcessor
+Parsing the SDK, no caching allowed
+SDK initialized in 23 ms
+Using incremental javac compilation for :libcocos2dx debug.
+Using incremental javac compilation for :libcocos2dx debugUnitTest.
+Using incremental javac compilation for :libcocos2dx release.
+Using incremental javac compilation for :libcocos2dx releaseUnitTest.
+Using incremental javac compilation for :libcocos2dx debugAndroidTest.
+Evaluating project ':project_wly2_lua_client' using build file '/Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/app/build.gradle'.
+Creating configuration androidTestUtil
+Creating configuration compile
+Creating configuration apk
+Creating configuration provided
+Creating configuration api
+Creating configuration implementation
+Creating configuration runtimeOnly
+Creating configuration compileOnly
+Creating configuration wearApp
+Creating configuration annotationProcessor
+Creating configuration androidTestCompile
+Creating configuration androidTestApk
+Creating configuration androidTestProvided
+Creating configuration androidTestApi
+Creating configuration androidTestImplementation
+Creating configuration androidTestRuntimeOnly
+Creating configuration androidTestCompileOnly
+Creating configuration androidTestWearApp
+Creating configuration androidTestAnnotationProcessor
+Creating configuration testCompile
+Creating configuration testApk
+Creating configuration testProvided
+Creating configuration testApi
+Creating configuration testImplementation
+Creating configuration testRuntimeOnly
+Creating configuration testCompileOnly
+Creating configuration testWearApp
+Creating configuration testAnnotationProcessor
+Creating configuration debugCompile
+Creating configuration debugApk
+Creating configuration debugProvided
+Creating configuration debugApi
+Creating configuration debugImplementation
+Creating configuration debugRuntimeOnly
+Creating configuration debugCompileOnly
+Creating configuration debugWearApp
+Creating configuration debugAnnotationProcessor
+Creating configuration androidTestDebugCompile
+Creating configuration androidTestDebugApk
+Creating configuration androidTestDebugProvided
+Creating configuration androidTestDebugApi
+Creating configuration androidTestDebugImplementation
+Creating configuration androidTestDebugRuntimeOnly
+Creating configuration androidTestDebugCompileOnly
+Creating configuration androidTestDebugWearApp
+Creating configuration androidTestDebugAnnotationProcessor
+Creating configuration testDebugCompile
+Creating configuration testDebugApk
+Creating configuration testDebugProvided
+Creating configuration testDebugApi
+Creating configuration testDebugImplementation
+Creating configuration testDebugRuntimeOnly
+Creating configuration testDebugCompileOnly
+Creating configuration testDebugWearApp
+Creating configuration testDebugAnnotationProcessor
+Creating configuration releaseCompile
+Creating configuration releaseApk
+Creating configuration releaseProvided
+Creating configuration releaseApi
+Creating configuration releaseImplementation
+Creating configuration releaseRuntimeOnly
+Creating configuration releaseCompileOnly
+Creating configuration releaseWearApp
+Creating configuration releaseAnnotationProcessor
+Creating configuration testReleaseCompile
+Creating configuration testReleaseApk
+Creating configuration testReleaseProvided
+Creating configuration testReleaseApi
+Creating configuration testReleaseImplementation
+Creating configuration testReleaseRuntimeOnly
+Creating configuration testReleaseCompileOnly
+Creating configuration testReleaseWearApp
+Creating configuration testReleaseAnnotationProcessor
+Parsing the SDK, no caching allowed
+SDK initialized in 0 ms
+Using incremental javac compilation for :project_wly2_lua_client debug.
+Using incremental javac compilation for :project_wly2_lua_client debugUnitTest.
+Using incremental javac compilation for :project_wly2_lua_client release.
+Using incremental javac compilation for :project_wly2_lua_client releaseUnitTest.
+Using incremental javac compilation for :project_wly2_lua_client debugAndroidTest.
+All projects evaluated.
+Selected primary task 'assembleDebug' from project :
+Creating new cache for annotation-processors, path /Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/.gradle/4.1/fileContent/annotation-processors.bin, access org.gradle.cache.internal.DefaultCacheAccess@1890931f
+Tasks to be executed: [task ':libcocos2dx:preBuild', task ':libcocos2dx:preDebugBuild', task ':libcocos2dx:compileDebugAidl', task ':libcocos2dx:compileDebugNdk', task ':libcocos2dx:compileDebugRenderscript', task ':libcocos2dx:checkDebugManifest', task ':libcocos2dx:generateDebugBuildConfig', task ':libcocos2dx:prepareLintJar', task ':libcocos2dx:generateDebugResValues', task ':libcocos2dx:generateDebugResources', task ':libcocos2dx:packageDebugResources', task ':libcocos2dx:platformAttrExtractor', task ':libcocos2dx:processDebugManifest', task ':libcocos2dx:processDebugResources', task ':libcocos2dx:generateDebugSources', task ':libcocos2dx:javaPreCompileDebug', task ':libcocos2dx:compileDebugJavaWithJavac', task ':libcocos2dx:extractDebugAnnotations', task ':libcocos2dx:mergeDebugShaders', task ':libcocos2dx:compileDebugShaders', task ':libcocos2dx:generateDebugAssets', task ':libcocos2dx:mergeDebugAssets', task ':libcocos2dx:mergeDebugConsumerProguardFiles', task ':libcocos2dx:packageDebugRenderscript', task ':libcocos2dx:processDebugJavaRes', task ':libcocos2dx:transformResourcesWithMergeJavaResForDebug', task ':libcocos2dx:transformClassesAndResourcesWithSyncLibJarsForDebug', task ':libcocos2dx:mergeDebugJniLibFolders', task ':libcocos2dx:transformNativeLibsWithMergeJniLibsForDebug', task ':libcocos2dx:transformNativeLibsWithStripDebugSymbolForDebug', task ':libcocos2dx:transformNativeLibsWithSyncJniLibsForDebug', task ':libcocos2dx:bundleDebug', task ':libcocos2dx:compileDebugSources', task ':libcocos2dx:assembleDebug', task ':libcocos2dx:transformClassesAndResourcesWithPrepareIntermediateJarsForDebug', task ':project_wly2_lua_client:preBuild', task ':project_wly2_lua_client:preDebugBuild', task ':project_wly2_lua_client:compileDebugAidl', task ':project_wly2_lua_client:compileDebugRenderscript', task ':project_wly2_lua_client:checkDebugManifest', task ':project_wly2_lua_client:generateDebugBuildConfig', task ':project_wly2_lua_client:prepareLintJar', task ':project_wly2_lua_client:generateDebugResValues', task ':project_wly2_lua_client:generateDebugResources', task ':project_wly2_lua_client:mergeDebugResources', task ':project_wly2_lua_client:createDebugCompatibleScreenManifests', task ':project_wly2_lua_client:processDebugManifest', task ':project_wly2_lua_client:splitsDiscoveryTaskDebug', task ':project_wly2_lua_client:processDebugResources', task ':project_wly2_lua_client:generateDebugSources', task ':project_wly2_lua_client:javaPreCompileDebug', task ':project_wly2_lua_client:compileDebugJavaWithJavac', task ':project_wly2_lua_client:generateJsonModelDebug', task ':project_wly2_lua_client:externalNativeBuildDebug', task ':project_wly2_lua_client:compileDebugSources', task ':project_wly2_lua_client:mergeDebugShaders', task ':project_wly2_lua_client:compileDebugShaders', task ':project_wly2_lua_client:generateDebugAssets', task ':project_wly2_lua_client:mergeDebugAssets', task ':project_wly2_lua_client:transformClassesWithDexBuilderForDebug', task ':project_wly2_lua_client:transformDexArchiveWithExternalLibsDexMergerForDebug', task ':project_wly2_lua_client:transformDexArchiveWithDexMergerForDebug', task ':libcocos2dx:transformNativeLibsWithIntermediateJniLibsForDebug', task ':project_wly2_lua_client:mergeDebugJniLibFolders', task ':project_wly2_lua_client:transformNativeLibsWithMergeJniLibsForDebug', task ':project_wly2_lua_client:transformNativeLibsWithStripDebugSymbolForDebug', task ':project_wly2_lua_client:processDebugJavaRes', task ':project_wly2_lua_client:transformResourcesWithMergeJavaResForDebug', task ':project_wly2_lua_client:validateSigningDebug', task ':project_wly2_lua_client:packageDebug', task ':project_wly2_lua_client:assembleDebug']
+Creating new cache for resourceHashesCache, path /Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/.gradle/4.1/fileHashes/resourceHashesCache.bin, access org.gradle.cache.internal.DefaultCacheAccess@6df54244
+Creating new cache for fileSnapshots, path /Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/.gradle/4.1/taskHistory/fileSnapshots.bin, access org.gradle.cache.internal.DefaultCacheAccess@77d5aef2
+Creating new cache for taskHistory, path /Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/.gradle/4.1/taskHistory/taskHistory.bin, access org.gradle.cache.internal.DefaultCacheAccess@77d5aef2
+:libcocos2dx:preBuild (Thread[Task worker for ':',5,main]) started.
+:libcocos2dx:preBuild
+:project_wly2_lua_client:preBuild (Thread[Task worker for ':' Thread 3,5,main]) started.
+Skipping task ':libcocos2dx:preBuild' as it has no actions.
+:project_wly2_lua_client:preBuild
+Skipping task ':project_wly2_lua_client:preBuild' as it has no actions.
+:libcocos2dx:preBuild UP-TO-DATE
+:project_wly2_lua_client:preBuild UP-TO-DATE
+:libcocos2dx:preBuild (Thread[Task worker for ':',5,main]) completed. Took 0.001 secs.
+:project_wly2_lua_client:preBuild (Thread[Task worker for ':' Thread 3,5,main]) completed. Took 0.001 secs.
+:libcocos2dx:preDebugBuild (Thread[Task worker for ':',5,main]) started.
+:libcocos2dx:preDebugBuild
+Skipping task ':libcocos2dx:preDebugBuild' as it has no actions.
+:libcocos2dx:preDebugBuild UP-TO-DATE
+:project_wly2_lua_client:prepareLintJar (Thread[Task worker for ':' Thread 3,5,main]) started.
+:project_wly2_lua_client:prepareLintJar
+:libcocos2dx:preDebugBuild (Thread[Task worker for ':',5,main]) completed. Took 0.0 secs.
+Putting task artifact state for task ':project_wly2_lua_client:prepareLintJar' into context took 0.0 secs.
+:libcocos2dx:compileDebugAidl (Thread[Task worker for ':',5,main]) started.
+:libcocos2dx:compileDebugAidl
+Putting task artifact state for task ':libcocos2dx:compileDebugAidl' into context took 0.001 secs.
+Skipping task ':project_wly2_lua_client:prepareLintJar' as it is up-to-date (took 0.003 secs).
+:project_wly2_lua_client:prepareLintJar UP-TO-DATE
+:project_wly2_lua_client:prepareLintJar (Thread[Task worker for ':' Thread 3,5,main]) completed. Took 0.004 secs.
+:project_wly2_lua_client:generateDebugResValues (Thread[Task worker for ':' Thread 3,5,main]) started.
+:project_wly2_lua_client:generateDebugResValues
+Putting task artifact state for task ':project_wly2_lua_client:generateDebugResValues' into context took 0.0 secs.
+Skipping task ':project_wly2_lua_client:generateDebugResValues' as it is up-to-date (took 0.001 secs).
+:project_wly2_lua_client:generateDebugResValues UP-TO-DATE
+:project_wly2_lua_client:generateDebugResValues (Thread[Task worker for ':' Thread 3,5,main]) completed. Took 0.001 secs.
+:project_wly2_lua_client:createDebugCompatibleScreenManifests (Thread[Task worker for ':' Thread 3,5,main]) started.
+:project_wly2_lua_client:createDebugCompatibleScreenManifests
+Putting task artifact state for task ':project_wly2_lua_client:createDebugCompatibleScreenManifests' into context took 0.0 secs.
+Skipping task ':project_wly2_lua_client:createDebugCompatibleScreenManifests' as it is up-to-date (took 0.001 secs).
+:project_wly2_lua_client:createDebugCompatibleScreenManifests UP-TO-DATE
+:project_wly2_lua_client:createDebugCompatibleScreenManifests (Thread[Task worker for ':' Thread 3,5,main]) completed. Took 0.001 secs.
+:project_wly2_lua_client:splitsDiscoveryTaskDebug (Thread[Task worker for ':' Thread 3,5,main]) started.
+:project_wly2_lua_client:splitsDiscoveryTaskDebug
+Putting task artifact state for task ':project_wly2_lua_client:splitsDiscoveryTaskDebug' into context took 0.0 secs.
+Skipping task ':project_wly2_lua_client:splitsDiscoveryTaskDebug' as it is up-to-date (took 0.0 secs).
+:project_wly2_lua_client:splitsDiscoveryTaskDebug UP-TO-DATE
+:project_wly2_lua_client:splitsDiscoveryTaskDebug (Thread[Task worker for ':' Thread 3,5,main]) completed. Took 0.0 secs.
+:project_wly2_lua_client:mergeDebugShaders (Thread[Task worker for ':' Thread 3,5,main]) started.
+:project_wly2_lua_client:mergeDebugShaders
+Putting task artifact state for task ':project_wly2_lua_client:mergeDebugShaders' into context took 0.0 secs.
+Skipping task ':project_wly2_lua_client:mergeDebugShaders' as it is up-to-date (took 0.012 secs).
+Skipping task ':libcocos2dx:compileDebugAidl' as it is up-to-date (took 0.018 secs).
+:project_wly2_lua_client:mergeDebugShaders UP-TO-DATE
+:libcocos2dx:compileDebugAidl UP-TO-DATE
+:project_wly2_lua_client:mergeDebugShaders (Thread[Task worker for ':' Thread 3,5,main]) completed. Took 0.012 secs.
+:project_wly2_lua_client:compileDebugShaders (Thread[Task worker for ':' Thread 3,5,main]) started.
+:project_wly2_lua_client:compileDebugShaders
+:libcocos2dx:compileDebugAidl (Thread[Task worker for ':',5,main]) completed. Took 0.02 secs.
+Putting task artifact state for task ':project_wly2_lua_client:compileDebugShaders' into context took 0.0 secs.
+:libcocos2dx:compileDebugNdk (Thread[Task worker for ':',5,main]) started.
+:libcocos2dx:compileDebugNdk
+Skipping task ':project_wly2_lua_client:compileDebugShaders' as it is up-to-date (took 0.0 secs).
+:project_wly2_lua_client:compileDebugShaders UP-TO-DATE
+:project_wly2_lua_client:compileDebugShaders (Thread[Task worker for ':' Thread 3,5,main]) completed. Took 0.002 secs.
+:project_wly2_lua_client:generateDebugAssets (Thread[Task worker for ':' Thread 3,5,main]) started.
+:project_wly2_lua_client:generateDebugAssets
+Skipping task ':project_wly2_lua_client:generateDebugAssets' as it has no actions.
+:project_wly2_lua_client:generateDebugAssets UP-TO-DATE
+:project_wly2_lua_client:generateDebugAssets (Thread[Task worker for ':' Thread 3,5,main]) completed. Took 0.001 secs.
+Putting task artifact state for task ':libcocos2dx:compileDebugNdk' into context took 0.001 secs.
+Skipping task ':libcocos2dx:compileDebugNdk' as it has no source files and no previous output files.
+:libcocos2dx:compileDebugNdk NO-SOURCE
+:project_wly2_lua_client:mergeDebugJniLibFolders (Thread[Task worker for ':' Thread 3,5,main]) started.
+:project_wly2_lua_client:mergeDebugJniLibFolders
+:libcocos2dx:compileDebugNdk (Thread[Task worker for ':',5,main]) completed. Took 0.003 secs.
+Putting task artifact state for task ':project_wly2_lua_client:mergeDebugJniLibFolders' into context took 0.0 secs.
+:libcocos2dx:compileDebugRenderscript (Thread[Task worker for ':',5,main]) started.
+:libcocos2dx:compileDebugRenderscript
+Putting task artifact state for task ':libcocos2dx:compileDebugRenderscript' into context took 0.0 secs.
+Skipping task ':project_wly2_lua_client:mergeDebugJniLibFolders' as it is up-to-date (took 0.001 secs).
+:project_wly2_lua_client:mergeDebugJniLibFolders UP-TO-DATE
+:project_wly2_lua_client:mergeDebugJniLibFolders (Thread[Task worker for ':' Thread 3,5,main]) completed. Took 0.002 secs.
+:project_wly2_lua_client:validateSigningDebug (Thread[Task worker for ':' Thread 3,5,main]) started.
+:project_wly2_lua_client:validateSigningDebug
+Putting task artifact state for task ':project_wly2_lua_client:validateSigningDebug' into context took 0.0 secs.
+Executing task ':project_wly2_lua_client:validateSigningDebug' (up-to-date check took 0.0 secs) due to:
+  Task has not declared any outputs.
+Skipping task ':libcocos2dx:compileDebugRenderscript' as it is up-to-date (took 0.004 secs).
+:libcocos2dx:compileDebugRenderscript UP-TO-DATE
+:libcocos2dx:compileDebugRenderscript (Thread[Task worker for ':',5,main]) completed. Took 0.004 secs.
+:libcocos2dx:checkDebugManifest (Thread[Task worker for ':',5,main]) started.
+:project_wly2_lua_client:validateSigningDebug (Thread[Task worker for ':' Thread 3,5,main]) completed. Took 0.004 secs.
+:libcocos2dx:checkDebugManifest
+Putting task artifact state for task ':libcocos2dx:checkDebugManifest' into context took 0.0 secs.
+Skipping task ':libcocos2dx:checkDebugManifest' as it is up-to-date (took 0.0 secs).
+:libcocos2dx:checkDebugManifest UP-TO-DATE
+:libcocos2dx:checkDebugManifest (Thread[Task worker for ':',5,main]) completed. Took 0.002 secs.
+:libcocos2dx:generateDebugBuildConfig (Thread[Task worker for ':',5,main]) started.
+:libcocos2dx:generateDebugBuildConfig
+Putting task artifact state for task ':libcocos2dx:generateDebugBuildConfig' into context took 0.0 secs.
+Skipping task ':libcocos2dx:generateDebugBuildConfig' as it is up-to-date (took 0.001 secs).
+:libcocos2dx:generateDebugBuildConfig UP-TO-DATE
+:libcocos2dx:generateDebugBuildConfig (Thread[Task worker for ':',5,main]) completed. Took 0.001 secs.
+:libcocos2dx:prepareLintJar (Thread[Task worker for ':',5,main]) started.
+:libcocos2dx:prepareLintJar
+Putting task artifact state for task ':libcocos2dx:prepareLintJar' into context took 0.0 secs.
+Skipping task ':libcocos2dx:prepareLintJar' as it is up-to-date (took 0.0 secs).
+:libcocos2dx:prepareLintJar UP-TO-DATE
+:libcocos2dx:prepareLintJar (Thread[Task worker for ':',5,main]) completed. Took 0.0 secs.
+:libcocos2dx:generateDebugResValues (Thread[Task worker for ':',5,main]) started.
+:libcocos2dx:generateDebugResValues
+Putting task artifact state for task ':libcocos2dx:generateDebugResValues' into context took 0.0 secs.
+Skipping task ':libcocos2dx:generateDebugResValues' as it is up-to-date (took 0.0 secs).
+:libcocos2dx:generateDebugResValues UP-TO-DATE
+:libcocos2dx:generateDebugResValues (Thread[Task worker for ':',5,main]) completed. Took 0.0 secs.
+:libcocos2dx:generateDebugResources (Thread[Task worker for ':',5,main]) started.
+:libcocos2dx:generateDebugResources
+Skipping task ':libcocos2dx:generateDebugResources' as it has no actions.
+:libcocos2dx:generateDebugResources UP-TO-DATE
+:libcocos2dx:generateDebugResources (Thread[Task worker for ':',5,main]) completed. Took 0.001 secs.
+:libcocos2dx:packageDebugResources (Thread[Task worker for ':',5,main]) started.
+:libcocos2dx:packageDebugResources
+Putting task artifact state for task ':libcocos2dx:packageDebugResources' into context took 0.001 secs.
+Skipping task ':libcocos2dx:packageDebugResources' as it is up-to-date (took 0.003 secs).
+:libcocos2dx:packageDebugResources UP-TO-DATE
+:libcocos2dx:packageDebugResources (Thread[Task worker for ':',5,main]) completed. Took 0.004 secs.
+:libcocos2dx:platformAttrExtractor (Thread[Task worker for ':',5,main]) started.
+:libcocos2dx:platformAttrExtractor
+Putting task artifact state for task ':libcocos2dx:platformAttrExtractor' into context took 0.0 secs.
+Skipping task ':libcocos2dx:platformAttrExtractor' as it is up-to-date (took 0.001 secs).
+:libcocos2dx:platformAttrExtractor UP-TO-DATE
+:libcocos2dx:platformAttrExtractor (Thread[Task worker for ':',5,main]) completed. Took 0.003 secs.
+:libcocos2dx:processDebugManifest (Thread[Task worker for ':',5,main]) started.
+:libcocos2dx:processDebugManifest
+Putting task artifact state for task ':libcocos2dx:processDebugManifest' into context took 0.0 secs.
+Skipping task ':libcocos2dx:processDebugManifest' as it is up-to-date (took 0.001 secs).
+:libcocos2dx:processDebugManifest UP-TO-DATE
+:libcocos2dx:processDebugManifest (Thread[Task worker for ':',5,main]) completed. Took 0.002 secs.
+:libcocos2dx:processDebugResources (Thread[Task worker for ':',5,main]) started.
+:libcocos2dx:processDebugResources
+Putting task artifact state for task ':libcocos2dx:processDebugResources' into context took 0.0 secs.
+:project_wly2_lua_client:preDebugBuild (Thread[Task worker for ':' Thread 3,5,main]) started.
+:project_wly2_lua_client:preDebugBuild
+Putting task artifact state for task ':project_wly2_lua_client:preDebugBuild' into context took 0.001 secs.
+file or directory '/Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/app/libs', not found
+Skipping task ':libcocos2dx:processDebugResources' as it is up-to-date (took 0.004 secs).
+:libcocos2dx:processDebugResources UP-TO-DATE
+:libcocos2dx:processDebugResources (Thread[Task worker for ':',5,main]) completed. Took 0.005 secs.
+:libcocos2dx:generateDebugSources (Thread[Task worker for ':',5,main]) started.
+:libcocos2dx:generateDebugSources
+Skipping task ':libcocos2dx:generateDebugSources' as it has no actions.
+:libcocos2dx:generateDebugSources UP-TO-DATE
+:libcocos2dx:generateDebugSources (Thread[Task worker for ':',5,main]) completed. Took 0.0 secs.
+file or directory '/Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/app/libs', not found
+:libcocos2dx:javaPreCompileDebug (Thread[Task worker for ':',5,main]) started.
+:libcocos2dx:javaPreCompileDebug
+Putting task artifact state for task ':libcocos2dx:javaPreCompileDebug' into context took 0.0 secs.
+Skipping task ':project_wly2_lua_client:preDebugBuild' as it is up-to-date (took 0.008 secs).
+:project_wly2_lua_client:preDebugBuild UP-TO-DATE
+:project_wly2_lua_client:preDebugBuild (Thread[Task worker for ':' Thread 3,5,main]) completed. Took 0.009 secs.
+:project_wly2_lua_client:compileDebugAidl (Thread[Task worker for ':' Thread 3,5,main]) started.
+:project_wly2_lua_client:compileDebugAidl
+Putting task artifact state for task ':project_wly2_lua_client:compileDebugAidl' into context took 0.0 secs.
+file or directory '/Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/app/libs', not found
+Skipping task ':project_wly2_lua_client:compileDebugAidl' as it is up-to-date (took 0.002 secs).
+:project_wly2_lua_client:compileDebugAidl UP-TO-DATE
+:project_wly2_lua_client:compileDebugAidl (Thread[Task worker for ':' Thread 3,5,main]) completed. Took 0.002 secs.
+:project_wly2_lua_client:checkDebugManifest (Thread[Task worker for ':' Thread 3,5,main]) started.
+:project_wly2_lua_client:checkDebugManifest
+Putting task artifact state for task ':project_wly2_lua_client:checkDebugManifest' into context took 0.0 secs.
+Skipping task ':project_wly2_lua_client:checkDebugManifest' as it is up-to-date (took 0.0 secs).
+:project_wly2_lua_client:checkDebugManifest UP-TO-DATE
+:project_wly2_lua_client:checkDebugManifest (Thread[Task worker for ':' Thread 3,5,main]) completed. Took 0.0 secs.
+:project_wly2_lua_client:generateDebugBuildConfig (Thread[Task worker for ':' Thread 3,5,main]) started.
+:project_wly2_lua_client:generateDebugBuildConfig
+Putting task artifact state for task ':project_wly2_lua_client:generateDebugBuildConfig' into context took 0.0 secs.
+Skipping task ':project_wly2_lua_client:generateDebugBuildConfig' as it is up-to-date (took 0.0 secs).
+:project_wly2_lua_client:generateDebugBuildConfig UP-TO-DATE
+:project_wly2_lua_client:generateDebugBuildConfig (Thread[Task worker for ':' Thread 3,5,main]) completed. Took 0.0 secs.
+:project_wly2_lua_client:processDebugManifest (Thread[Task worker for ':' Thread 3,5,main]) started.
+:project_wly2_lua_client:processDebugManifest
+Putting task artifact state for task ':project_wly2_lua_client:processDebugManifest' into context took 0.0 secs.
+Skipping task ':libcocos2dx:javaPreCompileDebug' as it is up-to-date (took 0.008 secs).
+:libcocos2dx:javaPreCompileDebug UP-TO-DATE
+:libcocos2dx:javaPreCompileDebug (Thread[Task worker for ':',5,main]) completed. Took 0.008 secs.
+:libcocos2dx:compileDebugJavaWithJavac (Thread[Task worker for ':',5,main]) started.
+:libcocos2dx:compileDebugJavaWithJavac
+Putting task artifact state for task ':libcocos2dx:compileDebugJavaWithJavac' into context took 0.0 secs.
+file or directory '/Users/admin/code/client/public/project_wly2_lua_client/frameworks/cocos2d-x/cocos/platform/android/libcocos2dx/src/main/java', not found
+file or directory '/Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/app/libs', not found
+Skipping task ':project_wly2_lua_client:processDebugManifest' as it is up-to-date (took 0.003 secs).
+:project_wly2_lua_client:processDebugManifest UP-TO-DATE
+:project_wly2_lua_client:processDebugManifest (Thread[Task worker for ':' Thread 3,5,main]) completed. Took 0.003 secs.
+:project_wly2_lua_client:generateJsonModelDebug (Thread[Task worker for ':' Thread 3,5,main]) started.
+:project_wly2_lua_client:generateJsonModelDebug
+Putting task artifact state for task ':project_wly2_lua_client:generateJsonModelDebug' into context took 0.0 secs.
+Skipping task ':project_wly2_lua_client:generateJsonModelDebug' as it is up-to-date (took 0.002 secs).
+:project_wly2_lua_client:generateJsonModelDebug UP-TO-DATE
+:project_wly2_lua_client:generateJsonModelDebug (Thread[Task worker for ':' Thread 3,5,main]) completed. Took 0.002 secs.
+:project_wly2_lua_client:externalNativeBuildDebug (Thread[Task worker for ':' Thread 3,5,main]) started.
+:project_wly2_lua_client:externalNativeBuildDebug
+Putting task artifact state for task ':project_wly2_lua_client:externalNativeBuildDebug' into context took 0.0 secs.
+Executing task ':project_wly2_lua_client:externalNativeBuildDebug' (up-to-date check took 0.0 secs) due to:
+  Task has not declared any outputs.
+externalNativeBuildDebug: starting build
+externalNativeBuildDebug: reading expected JSONs
+file or directory '/Users/admin/code/client/public/project_wly2_lua_client/frameworks/cocos2d-x/cocos/platform/android/libcocos2dx/src/main/java', not found
+file or directory '/Users/admin/code/client/public/project_wly2_lua_client/frameworks/cocos2d-x/cocos/platform/android/libcocos2dx/src/debug/java', not found
+Skipping task ':libcocos2dx:compileDebugJavaWithJavac' as it is up-to-date (took 0.018 secs).
+:libcocos2dx:compileDebugJavaWithJavac UP-TO-DATE
+:libcocos2dx:compileDebugJavaWithJavac (Thread[Task worker for ':',5,main]) completed. Took 0.02 secs.
+:libcocos2dx:extractDebugAnnotations (Thread[Task worker for ':',5,main]) started.
+:libcocos2dx:extractDebugAnnotations
+Putting task artifact state for task ':libcocos2dx:extractDebugAnnotations' into context took 0.001 secs.
+file or directory '/Users/admin/code/client/public/project_wly2_lua_client/frameworks/cocos2d-x/cocos/platform/android/libcocos2dx/src/main/java', not found
+file or directory '/Users/admin/code/client/public/project_wly2_lua_client/frameworks/cocos2d-x/cocos/platform/android/libcocos2dx/src/main/java', not found
+file or directory '/Users/admin/code/client/public/project_wly2_lua_client/frameworks/cocos2d-x/cocos/platform/android/libcocos2dx/src/debug/java', not found
+Skipping task ':libcocos2dx:extractDebugAnnotations' as it is up-to-date (took 0.004 secs).
+:libcocos2dx:extractDebugAnnotations UP-TO-DATE
+:libcocos2dx:extractDebugAnnotations (Thread[Task worker for ':',5,main]) completed. Took 0.006 secs.
+:libcocos2dx:mergeDebugShaders (Thread[Task worker for ':',5,main]) started.
+:libcocos2dx:mergeDebugShaders
+Putting task artifact state for task ':libcocos2dx:mergeDebugShaders' into context took 0.0 secs.
+Skipping task ':libcocos2dx:mergeDebugShaders' as it is up-to-date (took 0.001 secs).
+:libcocos2dx:mergeDebugShaders UP-TO-DATE
+:libcocos2dx:mergeDebugShaders (Thread[Task worker for ':',5,main]) completed. Took 0.002 secs.
+:libcocos2dx:compileDebugShaders (Thread[Task worker for ':',5,main]) started.
+:libcocos2dx:compileDebugShaders
+Putting task artifact state for task ':libcocos2dx:compileDebugShaders' into context took 0.0 secs.
+Skipping task ':libcocos2dx:compileDebugShaders' as it is up-to-date (took 0.001 secs).
+:libcocos2dx:compileDebugShaders UP-TO-DATE
+:libcocos2dx:compileDebugShaders (Thread[Task worker for ':',5,main]) completed. Took 0.001 secs.
+:libcocos2dx:generateDebugAssets (Thread[Task worker for ':',5,main]) started.
+:libcocos2dx:generateDebugAssets
+Skipping task ':libcocos2dx:generateDebugAssets' as it has no actions.
+:libcocos2dx:generateDebugAssets UP-TO-DATE
+:libcocos2dx:generateDebugAssets (Thread[Task worker for ':',5,main]) completed. Took 0.0 secs.
+:libcocos2dx:mergeDebugAssets (Thread[Task worker for ':',5,main]) started.
+:libcocos2dx:mergeDebugAssets
+Putting task artifact state for task ':libcocos2dx:mergeDebugAssets' into context took 0.0 secs.
+Skipping task ':libcocos2dx:mergeDebugAssets' as it is up-to-date (took 0.001 secs).
+:libcocos2dx:mergeDebugAssets UP-TO-DATE
+:libcocos2dx:mergeDebugAssets (Thread[Task worker for ':',5,main]) completed. Took 0.001 secs.
+:libcocos2dx:mergeDebugConsumerProguardFiles (Thread[Task worker for ':',5,main]) started.
+:libcocos2dx:mergeDebugConsumerProguardFiles
+Putting task artifact state for task ':libcocos2dx:mergeDebugConsumerProguardFiles' into context took 0.0 secs.
+Skipping task ':libcocos2dx:mergeDebugConsumerProguardFiles' as it is up-to-date (took 0.001 secs).
+:libcocos2dx:mergeDebugConsumerProguardFiles UP-TO-DATE
+:libcocos2dx:mergeDebugConsumerProguardFiles (Thread[Task worker for ':',5,main]) completed. Took 0.001 secs.
+:libcocos2dx:packageDebugRenderscript (Thread[Task worker for ':',5,main]) started.
+:libcocos2dx:packageDebugRenderscript
+Putting task artifact state for task ':libcocos2dx:packageDebugRenderscript' into context took 0.0 secs.
+Skipping task ':libcocos2dx:packageDebugRenderscript' as it has no source files and no previous output files.
+:libcocos2dx:packageDebugRenderscript NO-SOURCE
+:libcocos2dx:packageDebugRenderscript (Thread[Task worker for ':',5,main]) completed. Took 0.0 secs.
+:libcocos2dx:processDebugJavaRes (Thread[Task worker for ':',5,main]) started.
+:libcocos2dx:processDebugJavaRes
+Putting task artifact state for task ':libcocos2dx:processDebugJavaRes' into context took 0.0 secs.
+Skipping task ':libcocos2dx:processDebugJavaRes' as it has no source files and no previous output files.
+:libcocos2dx:processDebugJavaRes NO-SOURCE
+:libcocos2dx:processDebugJavaRes (Thread[Task worker for ':',5,main]) completed. Took 0.0 secs.
+:libcocos2dx:transformResourcesWithMergeJavaResForDebug (Thread[Task worker for ':',5,main]) started.
+:libcocos2dx:transformResourcesWithMergeJavaResForDebug
+Putting task artifact state for task ':libcocos2dx:transformResourcesWithMergeJavaResForDebug' into context took 0.0 secs.
+Skipping task ':libcocos2dx:transformResourcesWithMergeJavaResForDebug' as it is up-to-date (took 0.003 secs).
+:libcocos2dx:transformResourcesWithMergeJavaResForDebug UP-TO-DATE
+:libcocos2dx:transformResourcesWithMergeJavaResForDebug (Thread[Task worker for ':',5,main]) completed. Took 0.003 secs.
+:libcocos2dx:transformClassesAndResourcesWithSyncLibJarsForDebug (Thread[Task worker for ':',5,main]) started.
+:libcocos2dx:transformClassesAndResourcesWithSyncLibJarsForDebug
+Putting task artifact state for task ':libcocos2dx:transformClassesAndResourcesWithSyncLibJarsForDebug' into context took 0.0 secs.
+Skipping task ':libcocos2dx:transformClassesAndResourcesWithSyncLibJarsForDebug' as it is up-to-date (took 0.012 secs).
+:libcocos2dx:transformClassesAndResourcesWithSyncLibJarsForDebug UP-TO-DATE
+:libcocos2dx:transformClassesAndResourcesWithSyncLibJarsForDebug (Thread[Task worker for ':',5,main]) completed. Took 0.013 secs.
+:libcocos2dx:mergeDebugJniLibFolders (Thread[Task worker for ':',5,main]) started.
+:libcocos2dx:mergeDebugJniLibFolders
+Putting task artifact state for task ':libcocos2dx:mergeDebugJniLibFolders' into context took 0.0 secs.
+Skipping task ':libcocos2dx:mergeDebugJniLibFolders' as it is up-to-date (took 0.001 secs).
+:libcocos2dx:mergeDebugJniLibFolders UP-TO-DATE
+:libcocos2dx:mergeDebugJniLibFolders (Thread[Task worker for ':',5,main]) completed. Took 0.001 secs.
+:libcocos2dx:transformNativeLibsWithMergeJniLibsForDebug (Thread[Task worker for ':',5,main]) started.
+:libcocos2dx:transformNativeLibsWithMergeJniLibsForDebug
+Putting task artifact state for task ':libcocos2dx:transformNativeLibsWithMergeJniLibsForDebug' into context took 0.001 secs.
+Skipping task ':libcocos2dx:transformNativeLibsWithMergeJniLibsForDebug' as it is up-to-date (took 0.001 secs).
+:libcocos2dx:transformNativeLibsWithMergeJniLibsForDebug UP-TO-DATE
+:libcocos2dx:transformNativeLibsWithMergeJniLibsForDebug (Thread[Task worker for ':',5,main]) completed. Took 0.002 secs.
+:libcocos2dx:transformNativeLibsWithStripDebugSymbolForDebug (Thread[Task worker for ':',5,main]) started.
+:libcocos2dx:transformNativeLibsWithStripDebugSymbolForDebug
+Putting task artifact state for task ':libcocos2dx:transformNativeLibsWithStripDebugSymbolForDebug' into context took 0.0 secs.
+Skipping task ':libcocos2dx:transformNativeLibsWithStripDebugSymbolForDebug' as it is up-to-date (took 0.001 secs).
+:libcocos2dx:transformNativeLibsWithStripDebugSymbolForDebug UP-TO-DATE
+:libcocos2dx:transformNativeLibsWithStripDebugSymbolForDebug (Thread[Task worker for ':',5,main]) completed. Took 0.002 secs.
+:libcocos2dx:transformNativeLibsWithSyncJniLibsForDebug (Thread[Task worker for ':',5,main]) started.
+:libcocos2dx:transformNativeLibsWithSyncJniLibsForDebug
+Putting task artifact state for task ':libcocos2dx:transformNativeLibsWithSyncJniLibsForDebug' into context took 0.0 secs.
+Skipping task ':libcocos2dx:transformNativeLibsWithSyncJniLibsForDebug' as it is up-to-date (took 0.001 secs).
+:libcocos2dx:transformNativeLibsWithSyncJniLibsForDebug UP-TO-DATE
+:libcocos2dx:transformNativeLibsWithSyncJniLibsForDebug (Thread[Task worker for ':',5,main]) completed. Took 0.001 secs.
+:libcocos2dx:bundleDebug (Thread[Task worker for ':',5,main]) started.
+:libcocos2dx:bundleDebug
+Putting task artifact state for task ':libcocos2dx:bundleDebug' into context took 0.0 secs.
+Skipping task ':libcocos2dx:bundleDebug' as it is up-to-date (took 0.002 secs).
+:libcocos2dx:bundleDebug UP-TO-DATE
+:libcocos2dx:bundleDebug (Thread[Task worker for ':',5,main]) completed. Took 0.003 secs.
+:libcocos2dx:compileDebugSources (Thread[Task worker for ':',5,main]) started.
+:libcocos2dx:compileDebugSources
+Skipping task ':libcocos2dx:compileDebugSources' as it has no actions.
+:libcocos2dx:compileDebugSources UP-TO-DATE
+:libcocos2dx:compileDebugSources (Thread[Task worker for ':',5,main]) completed. Took 0.0 secs.
+:libcocos2dx:assembleDebug (Thread[Task worker for ':',5,main]) started.
+:libcocos2dx:assembleDebug
+Skipping task ':libcocos2dx:assembleDebug' as it has no actions.
+:libcocos2dx:assembleDebug UP-TO-DATE
+:libcocos2dx:assembleDebug (Thread[Task worker for ':',5,main]) completed. Took 0.0 secs.
+:libcocos2dx:transformClassesAndResourcesWithPrepareIntermediateJarsForDebug (Thread[Task worker for ':',5,main]) started.
+:libcocos2dx:transformClassesAndResourcesWithPrepareIntermediateJarsForDebug
+Putting task artifact state for task ':libcocos2dx:transformClassesAndResourcesWithPrepareIntermediateJarsForDebug' into context took 0.0 secs.
+Skipping task ':libcocos2dx:transformClassesAndResourcesWithPrepareIntermediateJarsForDebug' as it is up-to-date (took 0.003 secs).
+:libcocos2dx:transformClassesAndResourcesWithPrepareIntermediateJarsForDebug UP-TO-DATE
+:libcocos2dx:transformClassesAndResourcesWithPrepareIntermediateJarsForDebug (Thread[Task worker for ':',5,main]) completed. Took 0.003 secs.
+:libcocos2dx:transformNativeLibsWithIntermediateJniLibsForDebug (Thread[Task worker for ':',5,main]) started.
+:libcocos2dx:transformNativeLibsWithIntermediateJniLibsForDebug
+Putting task artifact state for task ':libcocos2dx:transformNativeLibsWithIntermediateJniLibsForDebug' into context took 0.0 secs.
+Skipping task ':libcocos2dx:transformNativeLibsWithIntermediateJniLibsForDebug' as it is up-to-date (took 0.001 secs).
+:libcocos2dx:transformNativeLibsWithIntermediateJniLibsForDebug UP-TO-DATE
+:libcocos2dx:transformNativeLibsWithIntermediateJniLibsForDebug (Thread[Task worker for ':',5,main]) completed. Took 0.001 secs.
+externalNativeBuildDebug: done reading expected JSONs
+externalNativeBuildDebug: executing build commands for targets: 'cocos2dlua'
+externalNativeBuildDebug: not building target cocos2dandroid because it isn't in targets set
+externalNativeBuildDebug: not building target ui because it isn't in targets set
+externalNativeBuildDebug: not building target spine because it isn't in targets set
+externalNativeBuildDebug: not building target luacocos2dandroid because it isn't in targets set
+externalNativeBuildDebug: not building target recast because it isn't in targets set
+externalNativeBuildDebug: not building target flatbuffers because it isn't in targets set
+externalNativeBuildDebug: not building target extension because it isn't in targets set
+externalNativeBuildDebug: not building target audioengine because it isn't in targets set
+externalNativeBuildDebug: not building target cpufeatures because it isn't in targets set
+externalNativeBuildDebug: not building target cocosbuilder because it isn't in targets set
+externalNativeBuildDebug: not building target cocostudio because it isn't in targets set
+externalNativeBuildDebug: not building target cocos2dxinternal because it isn't in targets set
+externalNativeBuildDebug: not building target network because it isn't in targets set
+externalNativeBuildDebug: not building target pvmp3dec because it isn't in targets set
+externalNativeBuildDebug: not building target cocos3d because it isn't in targets set
+externalNativeBuildDebug: not building target vorbisidec because it isn't in targets set
+externalNativeBuildDebug: about to build /Users/admin/code/tool/android-ndk-r16b/ndk-build NDK_PROJECT_PATH=null APP_BUILD_SCRIPT=/Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/app/jni/Android.mk NDK_APPLICATION_MK=/Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/app/jni/Application.mk APP_ABI=armeabi-v7a NDK_ALL_ABIS=armeabi-v7a NDK_DEBUG=1 APP_PLATFORM=android-14 NDK_OUT=/Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT=/Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/app/build/intermediates/ndkBuild/debug/lib NDK_TOOLCHAIN_VERSION=clang -j6 NDK_DEBUG=1 /Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libcocos2dlua.so
+externalNativeBuildDebug: not building target luacocos2d because it isn't in targets set
+externalNativeBuildDebug: not building target cocosdenshion because it isn't in targets set
+externalNativeBuildDebug: not building target cocosbuilder because it isn't in targets set
+externalNativeBuildDebug: not building target pvmp3dec because it isn't in targets set
+externalNativeBuildDebug: not building target flatbuffers because it isn't in targets set
+externalNativeBuildDebug: not building target recast because it isn't in targets set
+externalNativeBuildDebug: not building target ui because it isn't in targets set
+externalNativeBuildDebug: not building target cocos2dxinternal because it isn't in targets set
+externalNativeBuildDebug: not building target network because it isn't in targets set
+externalNativeBuildDebug: about to build /Users/admin/code/tool/android-ndk-r16b/ndk-build NDK_PROJECT_PATH=null APP_BUILD_SCRIPT=/Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/app/jni/Android.mk NDK_APPLICATION_MK=/Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/app/jni/Application.mk APP_ABI=x86 NDK_ALL_ABIS=x86 NDK_DEBUG=1 APP_PLATFORM=android-14 NDK_OUT=/Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT=/Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/app/build/intermediates/ndkBuild/debug/lib NDK_TOOLCHAIN_VERSION=clang -j6 NDK_DEBUG=1 /Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/app/build/intermediates/ndkBuild/debug/obj/local/x86/libcocos2dlua.so
+externalNativeBuildDebug: not building target cocos3d because it isn't in targets set
+externalNativeBuildDebug: not building target cpufeatures because it isn't in targets set
+externalNativeBuildDebug: not building target cocostudio because it isn't in targets set
+externalNativeBuildDebug: not building target luacocos2d because it isn't in targets set
+externalNativeBuildDebug: not building target luacocos2dandroid because it isn't in targets set
+externalNativeBuildDebug: not building target vorbisidec because it isn't in targets set
+externalNativeBuildDebug: not building target extension because it isn't in targets set
+externalNativeBuildDebug: not building target cocos2dandroid because it isn't in targets set
+externalNativeBuildDebug: not building target audioengine because it isn't in targets set
+externalNativeBuildDebug: not building target spine because it isn't in targets set
+externalNativeBuildDebug: not building target cocosdenshion because it isn't in targets set
+Build cocos2dlua x86
+externalNativeBuildDebug: Executable : /Users/admin/code/tool/android-ndk-r16b/ndk-build
+arguments : 
+NDK_PROJECT_PATH=null
+APP_BUILD_SCRIPT=/Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/app/jni/Android.mk
+NDK_APPLICATION_MK=/Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/app/jni/Application.mk
+APP_ABI=x86
+NDK_ALL_ABIS=x86
+NDK_DEBUG=1
+APP_PLATFORM=android-14
+NDK_OUT=/Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/app/build/intermediates/ndkBuild/debug/obj
+NDK_LIBS_OUT=/Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/app/build/intermediates/ndkBuild/debug/lib
+NDK_TOOLCHAIN_VERSION=clang
+-j6
+NDK_DEBUG=1
+/Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/app/build/intermediates/ndkBuild/debug/obj/local/x86/libcocos2dlua.so
+jvmArgs : 
+
+
+Executable : /Users/admin/code/tool/android-ndk-r16b/ndk-build
+arguments : 
+NDK_PROJECT_PATH=null
+APP_BUILD_SCRIPT=/Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/app/jni/Android.mk
+NDK_APPLICATION_MK=/Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/app/jni/Application.mk
+APP_ABI=x86
+NDK_ALL_ABIS=x86
+NDK_DEBUG=1
+APP_PLATFORM=android-14
+NDK_OUT=/Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/app/build/intermediates/ndkBuild/debug/obj
+NDK_LIBS_OUT=/Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/app/build/intermediates/ndkBuild/debug/lib
+NDK_TOOLCHAIN_VERSION=clang
+-j6
+NDK_DEBUG=1
+/Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/app/build/intermediates/ndkBuild/debug/obj/local/x86/libcocos2dlua.so
+jvmArgs : 
+
+
+Starting process 'command '/Users/admin/code/tool/android-ndk-r16b/ndk-build''. Working directory: /Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/app Command: /Users/admin/code/tool/android-ndk-r16b/ndk-build NDK_PROJECT_PATH=null APP_BUILD_SCRIPT=/Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/app/jni/Android.mk NDK_APPLICATION_MK=/Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/app/jni/Application.mk APP_ABI=x86 NDK_ALL_ABIS=x86 NDK_DEBUG=1 APP_PLATFORM=android-14 NDK_OUT=/Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT=/Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/app/build/intermediates/ndkBuild/debug/lib NDK_TOOLCHAIN_VERSION=clang -j6 NDK_DEBUG=1 /Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/app/build/intermediates/ndkBuild/debug/obj/local/x86/libcocos2dlua.so
+Successfully started process 'command '/Users/admin/code/tool/android-ndk-r16b/ndk-build''
+Build cocos2dlua armeabi-v7a
+externalNativeBuildDebug: Executable : /Users/admin/code/tool/android-ndk-r16b/ndk-build
+arguments : 
+NDK_PROJECT_PATH=null
+APP_BUILD_SCRIPT=/Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/app/jni/Android.mk
+NDK_APPLICATION_MK=/Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/app/jni/Application.mk
+APP_ABI=armeabi-v7a
+NDK_ALL_ABIS=armeabi-v7a
+NDK_DEBUG=1
+APP_PLATFORM=android-14
+NDK_OUT=/Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/app/build/intermediates/ndkBuild/debug/obj
+NDK_LIBS_OUT=/Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/app/build/intermediates/ndkBuild/debug/lib
+NDK_TOOLCHAIN_VERSION=clang
+-j6
+NDK_DEBUG=1
+/Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libcocos2dlua.so
+jvmArgs : 
+
+
+Executable : /Users/admin/code/tool/android-ndk-r16b/ndk-build
+arguments : 
+NDK_PROJECT_PATH=null
+APP_BUILD_SCRIPT=/Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/app/jni/Android.mk
+NDK_APPLICATION_MK=/Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/app/jni/Application.mk
+APP_ABI=armeabi-v7a
+NDK_ALL_ABIS=armeabi-v7a
+NDK_DEBUG=1
+APP_PLATFORM=android-14
+NDK_OUT=/Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/app/build/intermediates/ndkBuild/debug/obj
+NDK_LIBS_OUT=/Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/app/build/intermediates/ndkBuild/debug/lib
+NDK_TOOLCHAIN_VERSION=clang
+-j6
+NDK_DEBUG=1
+/Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libcocos2dlua.so
+jvmArgs : 
+
+
+Starting process 'command '/Users/admin/code/tool/android-ndk-r16b/ndk-build''. Working directory: /Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/app Command: /Users/admin/code/tool/android-ndk-r16b/ndk-build NDK_PROJECT_PATH=null APP_BUILD_SCRIPT=/Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/app/jni/Android.mk NDK_APPLICATION_MK=/Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/app/jni/Application.mk APP_ABI=armeabi-v7a NDK_ALL_ABIS=armeabi-v7a NDK_DEBUG=1 APP_PLATFORM=android-14 NDK_OUT=/Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT=/Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/app/build/intermediates/ndkBuild/debug/lib NDK_TOOLCHAIN_VERSION=clang -j6 NDK_DEBUG=1 /Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libcocos2dlua.so
+Successfully started process 'command '/Users/admin/code/tool/android-ndk-r16b/ndk-build''
+externalNativeBuildDebug: check expected build outputs
+externalNativeBuildDebug: build complete
+:project_wly2_lua_client:externalNativeBuildDebug (Thread[Task worker for ':' Thread 3,5,main]) completed. Took 5.325 secs.
+:project_wly2_lua_client:compileDebugRenderscript (Thread[Task worker for ':' Thread 3,5,main]) started.
+:project_wly2_lua_client:compileDebugRenderscript
+Putting task artifact state for task ':project_wly2_lua_client:compileDebugRenderscript' into context took 0.0 secs.
+file or directory '/Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/app/libs', not found
+Skipping task ':project_wly2_lua_client:compileDebugRenderscript' as it is up-to-date (took 0.001 secs).
+:project_wly2_lua_client:compileDebugRenderscript UP-TO-DATE
+:project_wly2_lua_client:compileDebugRenderscript (Thread[Task worker for ':' Thread 3,5,main]) completed. Took 0.002 secs.
+:project_wly2_lua_client:generateDebugResources (Thread[Task worker for ':' Thread 3,5,main]) started.
+:project_wly2_lua_client:generateDebugResources
+Skipping task ':project_wly2_lua_client:generateDebugResources' as it has no actions.
+:project_wly2_lua_client:generateDebugResources UP-TO-DATE
+:project_wly2_lua_client:generateDebugResources (Thread[Task worker for ':' Thread 3,5,main]) completed. Took 0.0 secs.
+:project_wly2_lua_client:mergeDebugResources (Thread[Task worker for ':' Thread 3,5,main]) started.
+:project_wly2_lua_client:mergeDebugResources
+Putting task artifact state for task ':project_wly2_lua_client:mergeDebugResources' into context took 0.0 secs.
+file or directory '/Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/app/libs', not found
+Skipping task ':project_wly2_lua_client:mergeDebugResources' as it is up-to-date (took 0.003 secs).
+:project_wly2_lua_client:mergeDebugResources UP-TO-DATE
+:project_wly2_lua_client:mergeDebugResources (Thread[Task worker for ':' Thread 3,5,main]) completed. Took 0.004 secs.
+:project_wly2_lua_client:processDebugResources (Thread[Task worker for ':' Thread 3,5,main]) started.
+:project_wly2_lua_client:processDebugResources
+Putting task artifact state for task ':project_wly2_lua_client:processDebugResources' into context took 0.0 secs.
+file or directory '/Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/app/libs', not found
+file or directory '/Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/app/libs', not found
+Skipping task ':project_wly2_lua_client:processDebugResources' as it is up-to-date (took 0.002 secs).
+:project_wly2_lua_client:processDebugResources UP-TO-DATE
+:project_wly2_lua_client:processDebugResources (Thread[Task worker for ':' Thread 3,5,main]) completed. Took 0.003 secs.
+:project_wly2_lua_client:generateDebugSources (Thread[Task worker for ':' Thread 3,5,main]) started.
+:project_wly2_lua_client:generateDebugSources
+Skipping task ':project_wly2_lua_client:generateDebugSources' as it has no actions.
+:project_wly2_lua_client:generateDebugSources UP-TO-DATE
+:project_wly2_lua_client:generateDebugSources (Thread[Task worker for ':' Thread 3,5,main]) completed. Took 0.0 secs.
+:project_wly2_lua_client:javaPreCompileDebug (Thread[Task worker for ':' Thread 3,5,main]) started.
+:project_wly2_lua_client:javaPreCompileDebug
+Putting task artifact state for task ':project_wly2_lua_client:javaPreCompileDebug' into context took 0.0 secs.
+file or directory '/Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/app/libs', not found
+Skipping task ':project_wly2_lua_client:javaPreCompileDebug' as it is up-to-date (took 0.001 secs).
+:project_wly2_lua_client:javaPreCompileDebug UP-TO-DATE
+:project_wly2_lua_client:javaPreCompileDebug (Thread[Task worker for ':' Thread 3,5,main]) completed. Took 0.001 secs.
+:project_wly2_lua_client:compileDebugJavaWithJavac (Thread[Task worker for ':' Thread 3,5,main]) started.
+:project_wly2_lua_client:compileDebugJavaWithJavac
+Putting task artifact state for task ':project_wly2_lua_client:compileDebugJavaWithJavac' into context took 0.001 secs.
+file or directory '/Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/app/src/main/java', not found
+file or directory '/Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/app/libs', not found
+file or directory '/Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/app/src/main/java', not found
+file or directory '/Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/app/src/debug/java', not found
+Skipping task ':project_wly2_lua_client:compileDebugJavaWithJavac' as it is up-to-date (took 0.003 secs).
+:project_wly2_lua_client:compileDebugJavaWithJavac UP-TO-DATE
+:project_wly2_lua_client:compileDebugJavaWithJavac (Thread[Task worker for ':' Thread 3,5,main]) completed. Took 0.004 secs.
+:project_wly2_lua_client:compileDebugSources (Thread[Task worker for ':' Thread 3,5,main]) started.
+:project_wly2_lua_client:compileDebugSources
+Skipping task ':project_wly2_lua_client:compileDebugSources' as it has no actions.
+:project_wly2_lua_client:compileDebugSources (Thread[Task worker for ':' Thread 3,5,main]) completed. Took 0.001 secs.
+:project_wly2_lua_client:mergeDebugAssets (Thread[Task worker for ':' Thread 3,5,main]) started.
+:project_wly2_lua_client:mergeDebugAssets
+Putting task artifact state for task ':project_wly2_lua_client:mergeDebugAssets' into context took 0.0 secs.
+file or directory '/Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/app/libs', not found
+Executing task ':project_wly2_lua_client:mergeDebugAssets' (up-to-date check took 0.007 secs) due to:
+  Output property 'outputDir' file /Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/app/build/intermediates/assets/debug has changed.
+  Output property 'outputDir' file /Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/app/build/intermediates/assets/debug/res has been removed.
+  Output property 'outputDir' file /Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/app/build/intermediates/assets/debug/res/ui has been removed.
+All input files are considered out-of-date for incremental task ':project_wly2_lua_client:mergeDebugAssets'.
+Unable do incremental execution: full task run
+file or directory '/Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/app/libs', not found
+:project_wly2_lua_client:mergeDebugAssets (Thread[Task worker for ':' Thread 3,5,main]) completed. Took 18.075 secs.
+:project_wly2_lua_client:transformClassesWithDexBuilderForDebug (Thread[Task worker for ':' Thread 3,5,main]) started.
+:project_wly2_lua_client:transformClassesWithDexBuilderForDebug
+Putting task artifact state for task ':project_wly2_lua_client:transformClassesWithDexBuilderForDebug' into context took 0.0 secs.
+file or directory '/Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/app/libs', not found
+file or directory '/Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/app/libs', not found
+Skipping task ':project_wly2_lua_client:transformClassesWithDexBuilderForDebug' as it is up-to-date (took 0.012 secs).
+:project_wly2_lua_client:transformClassesWithDexBuilderForDebug UP-TO-DATE
+:project_wly2_lua_client:transformClassesWithDexBuilderForDebug (Thread[Task worker for ':' Thread 3,5,main]) completed. Took 0.013 secs.
+:project_wly2_lua_client:transformDexArchiveWithExternalLibsDexMergerForDebug (Thread[Task worker for ':' Thread 3,5,main]) started.
+:project_wly2_lua_client:transformDexArchiveWithExternalLibsDexMergerForDebug
+Putting task artifact state for task ':project_wly2_lua_client:transformDexArchiveWithExternalLibsDexMergerForDebug' into context took 0.0 secs.
+Skipping task ':project_wly2_lua_client:transformDexArchiveWithExternalLibsDexMergerForDebug' as it is up-to-date (took 0.002 secs).
+:project_wly2_lua_client:transformDexArchiveWithExternalLibsDexMergerForDebug UP-TO-DATE
+:project_wly2_lua_client:transformDexArchiveWithExternalLibsDexMergerForDebug (Thread[Task worker for ':' Thread 3,5,main]) completed. Took 0.002 secs.
+:project_wly2_lua_client:transformDexArchiveWithDexMergerForDebug (Thread[Task worker for ':' Thread 3,5,main]) started.
+:project_wly2_lua_client:transformDexArchiveWithDexMergerForDebug
+Putting task artifact state for task ':project_wly2_lua_client:transformDexArchiveWithDexMergerForDebug' into context took 0.0 secs.
+Skipping task ':project_wly2_lua_client:transformDexArchiveWithDexMergerForDebug' as it is up-to-date (took 0.003 secs).
+:project_wly2_lua_client:transformDexArchiveWithDexMergerForDebug UP-TO-DATE
+:project_wly2_lua_client:transformDexArchiveWithDexMergerForDebug (Thread[Task worker for ':' Thread 3,5,main]) completed. Took 0.003 secs.
+:project_wly2_lua_client:transformNativeLibsWithMergeJniLibsForDebug (Thread[Task worker for ':' Thread 3,5,main]) started.
+:project_wly2_lua_client:transformNativeLibsWithMergeJniLibsForDebug
+Putting task artifact state for task ':project_wly2_lua_client:transformNativeLibsWithMergeJniLibsForDebug' into context took 0.0 secs.
+file or directory '/Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/app/libs', not found
+file or directory '/Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/app/libs', not found
+file or directory '/Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/app/libs', not found
+file or directory '/Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/app/libs', not found
+Skipping task ':project_wly2_lua_client:transformNativeLibsWithMergeJniLibsForDebug' as it is up-to-date (took 0.044 secs).
+:project_wly2_lua_client:transformNativeLibsWithMergeJniLibsForDebug UP-TO-DATE
+:project_wly2_lua_client:transformNativeLibsWithMergeJniLibsForDebug (Thread[Task worker for ':' Thread 3,5,main]) completed. Took 0.045 secs.
+:project_wly2_lua_client:transformNativeLibsWithStripDebugSymbolForDebug (Thread[Task worker for ':' Thread 3,5,main]) started.
+:project_wly2_lua_client:transformNativeLibsWithStripDebugSymbolForDebug
+Putting task artifact state for task ':project_wly2_lua_client:transformNativeLibsWithStripDebugSymbolForDebug' into context took 0.0 secs.
+Skipping task ':project_wly2_lua_client:transformNativeLibsWithStripDebugSymbolForDebug' as it is up-to-date (took 0.01 secs).
+:project_wly2_lua_client:transformNativeLibsWithStripDebugSymbolForDebug UP-TO-DATE
+:project_wly2_lua_client:transformNativeLibsWithStripDebugSymbolForDebug (Thread[Task worker for ':' Thread 3,5,main]) completed. Took 0.01 secs.
+:project_wly2_lua_client:processDebugJavaRes (Thread[Task worker for ':' Thread 3,5,main]) started.
+:project_wly2_lua_client:processDebugJavaRes
+Putting task artifact state for task ':project_wly2_lua_client:processDebugJavaRes' into context took 0.001 secs.
+Skipping task ':project_wly2_lua_client:processDebugJavaRes' as it has no source files and no previous output files.
+:project_wly2_lua_client:processDebugJavaRes NO-SOURCE
+:project_wly2_lua_client:processDebugJavaRes (Thread[Task worker for ':' Thread 3,5,main]) completed. Took 0.001 secs.
+:project_wly2_lua_client:transformResourcesWithMergeJavaResForDebug (Thread[Task worker for ':' Thread 3,5,main]) started.
+:project_wly2_lua_client:transformResourcesWithMergeJavaResForDebug
+Putting task artifact state for task ':project_wly2_lua_client:transformResourcesWithMergeJavaResForDebug' into context took 0.0 secs.
+file or directory '/Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/app/libs', not found
+file or directory '/Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/app/libs', not found
+Skipping task ':project_wly2_lua_client:transformResourcesWithMergeJavaResForDebug' as it is up-to-date (took 0.004 secs).
+:project_wly2_lua_client:transformResourcesWithMergeJavaResForDebug UP-TO-DATE
+:project_wly2_lua_client:transformResourcesWithMergeJavaResForDebug (Thread[Task worker for ':' Thread 3,5,main]) completed. Took 0.004 secs.
+:project_wly2_lua_client:packageDebug (Thread[Task worker for ':' Thread 3,5,main]) started.
+:project_wly2_lua_client:packageDebug
+Putting task artifact state for task ':project_wly2_lua_client:packageDebug' into context took 0.0 secs.
+Executing task ':project_wly2_lua_client:packageDebug' (up-to-date check took 0.027 secs) due to:
+  Input property 'assets' file /Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/app/build/intermediates/assets/debug/src/app/cache/equipment.lua has changed.
+  Input property 'assets' file /Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/app/build/intermediates/assets/debug/src/app/cache/formation.lua has changed.
+  Input property 'assets' file /Users/admin/code/client/public/project_wly2_lua_client/frameworks/runtime-src/proj.android/app/build/intermediates/assets/debug/src/app/cache/generals.lua has changed.
+:project_wly2_lua_client:packageDebug (Thread[Task worker for ':' Thread 3,5,main]) completed. Took 32.293 secs.
+:project_wly2_lua_client:assembleDebug (Thread[Task worker for ':' Thread 3,5,main]) started.
+:project_wly2_lua_client:assembleDebug
+Skipping task ':project_wly2_lua_client:assembleDebug' as it has no actions.
+:project_wly2_lua_client:assembleDebug (Thread[Task worker for ':' Thread 3,5,main]) completed. Took 0.0 secs.
+
+BUILD SUCCESSFUL in 57s
+54 actionable tasks: 4 executed, 50 up-to-date
+正在移动 apk 文件 /Users/admin/code/client/public/project_wly2_lua_client/publish/android/pack
+编译成功。
+('build android pack finish ', '1.0.9-191121164323')
+Finished: SUCCESS

@@ -1,0 +1,1832 @@
+Started by user [8mha:////4DHKDM0mCd+Np+CRf5wbrS4StKZGCeHkPqVFI/Ru8IMMAAAAnB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzuEgZB/dLi1CL9qoz8vPTCzBwgCQBh1UZTxgAAAA==[0mzhongqilong
+Running as SYSTEM
+Building in workspace /Users/admin/.jenkins/workspace/提交策划配置文件
+[提交策划配置文件] $ /bin/sh -xe /var/folders/bc/jfs8sfm16sv5tb42bvj41crw0000gn/T/jenkins810271488330848349.sh
++ cd /Users/admin/code/client/work/project_wly2_lua_client
++ pwd
+/Users/admin/code/client/work/project_wly2_lua_client
++ sh update_xml_lua.sh
+Updating '.':
+Restored 'lua/dataset_debug/NextTips.lua'
+Restored 'lua/dataset_debug/MapCfgs.lua'
+Restored 'lua/dataset_debug/instance/Map_191.lua'
+Restored 'lua/dataset_debug/instance/Troop_180.lua'
+Restored 'lua/dataset_debug/instance/Troop_182.lua'
+Restored 'lua/dataset_debug/instance/Troop_184.lua'
+Restored 'lua/dataset_debug/instance/Troop_186.lua'
+Restored 'lua/dataset_debug/instance/Troop_188.lua'
+Restored 'lua/dataset_debug/instance/Map_165.lua'
+Restored 'lua/dataset_debug/instance/Map_167.lua'
+Restored 'lua/dataset_debug/instance/Map_169.lua'
+Restored 'lua/dataset_debug/instance/Troop_191.lua'
+Restored 'lua/dataset_debug/instance/Map_170.lua'
+Restored 'lua/dataset_debug/instance/Map_172.lua'
+Restored 'lua/dataset_debug/instance/Map_174.lua'
+Restored 'lua/dataset_debug/instance/Map_176.lua'
+Restored 'lua/dataset_debug/instance/Map_178.lua'
+Restored 'lua/dataset_debug/instance/Troop_165.lua'
+Restored 'lua/dataset_debug/instance/Troop_167.lua'
+Restored 'lua/dataset_debug/instance/Troop_169.lua'
+Restored 'lua/dataset_debug/instance/Map_181.lua'
+Restored 'lua/dataset_debug/instance/Map_183.lua'
+Restored 'lua/dataset_debug/instance/Map_185.lua'
+Restored 'lua/dataset_debug/instance/Map_187.lua'
+Restored 'lua/dataset_debug/instance/Map_189.lua'
+Restored 'lua/dataset_debug/instance/Troop_170.lua'
+Restored 'lua/dataset_debug/instance/Troop_172.lua'
+Restored 'lua/dataset_debug/instance/Troop_174.lua'
+Restored 'lua/dataset_debug/instance/Troop_176.lua'
+Restored 'lua/dataset_debug/instance/Troop_178.lua'
+Restored 'lua/dataset_debug/instance/Map_190.lua'
+Restored 'lua/dataset_debug/instance/Troop_181.lua'
+Restored 'lua/dataset_debug/instance/Troop_183.lua'
+Restored 'lua/dataset_debug/instance/Troop_185.lua'
+Restored 'lua/dataset_debug/instance/Troop_187.lua'
+Restored 'lua/dataset_debug/instance/Troop_189.lua'
+Restored 'lua/dataset_debug/instance/Map_166.lua'
+Restored 'lua/dataset_debug/instance/Map_168.lua'
+Restored 'lua/dataset_debug/instance/Troop_190.lua'
+Restored 'lua/dataset_debug/instance/Map_171.lua'
+Restored 'lua/dataset_debug/instance/Map_173.lua'
+Restored 'lua/dataset_debug/instance/Map_175.lua'
+Restored 'lua/dataset_debug/instance/Map_177.lua'
+Restored 'lua/dataset_debug/instance/Map_179.lua'
+Restored 'lua/dataset_debug/instance/Troop_166.lua'
+Restored 'lua/dataset_debug/instance/Troop_168.lua'
+Restored 'lua/dataset_debug/instance/Map_180.lua'
+Restored 'lua/dataset_debug/instance/Map_182.lua'
+Restored 'lua/dataset_debug/instance/Map_184.lua'
+Restored 'lua/dataset_debug/instance/Map_186.lua'
+Restored 'lua/dataset_debug/instance/Map_188.lua'
+Restored 'lua/dataset_debug/instance/Troop_171.lua'
+Restored 'lua/dataset_debug/instance/Troop_173.lua'
+Restored 'lua/dataset_debug/instance/Troop_175.lua'
+Restored 'lua/dataset_debug/instance/Troop_177.lua'
+Restored 'lua/dataset_debug/instance/Troop_179.lua'
+Restored 'lua/dataset_debug/NationPosSalLevels.lua'
+Restored 'lua/dataset_debug/MoneyBagRewards.lua'
+Restored 'lua/dataset_debug/Shocks.lua'
+Restored 'lua/dataset_debug/SkillCards.lua'
+Restored 'lua/dataset_debug/KingTowers.lua'
+Restored 'lua/dataset_debug/Stars.lua'
+Restored 'lua/dataset_debug/Huntings.lua'
+Restored 'lua/dataset_debug/Coefs.lua'
+Restored 'lua/dataset_debug/ChildSkillTrains.lua'
+Restored 'lua/dataset_debug/ItemComposites.lua'
+Restored 'lua/dataset_debug/Recasts.lua'
+Restored 'lua/dataset_debug/WorldBossRewards.lua'
+Restored 'lua/dataset_debug/SevenRegisters.lua'
+Restored 'lua/dataset_debug/EventHits.lua'
+Restored 'lua/dataset_debug/SpinWins.lua'
+Restored 'lua/dataset_debug/Affairs.lua'
+Restored 'lua/dataset_debug/GeneralTalks.lua'
+Restored 'lua/dataset_debug/Famouses.lua'
+Restored 'lua/dataset_debug/WarWorldMaps.lua'
+Restored 'lua/dataset_debug/Inherits.lua'
+Restored 'lua/dataset_debug/YellowDiamonds.lua'
+Restored 'lua/dataset_debug/GeneralLinkCfgs.lua'
+Restored 'lua/dataset_debug/Store2s.lua'
+Restored 'lua/dataset_debug/NationPosSalLevel.lua'
+Restored 'lua/dataset_debug/RecruitPosition.lua'
+Restored 'lua/dataset_debug/Soldiernums.lua'
+Restored 'lua/dataset_debug/EliteCfgs.lua'
+Restored 'lua/dataset_debug/LegionGifts.lua'
+Restored 'lua/dataset_debug/GeneralCardCfgs.lua'
+Restored 'lua/dataset_debug/WarSkills.lua'
+Restored 'lua/dataset_debug/ExPowers.lua'
+Restored 'lua/dataset_debug/NationPosCfgs.lua'
+Restored 'lua/dataset_debug/Etcheds.lua'
+Restored 'lua/dataset_debug/ProductCfgs.lua'
+Restored 'lua/dataset_debug/Hobbys.lua'
+Restored 'lua/dataset_debug/BuiltIns.lua'
+Restored 'lua/dataset_debug/NationPosRights.lua'
+Restored 'lua/dataset_debug/WorldBossAchieveRewards.lua'
+Restored 'lua/dataset_debug/SkillViews.lua'
+Restored 'lua/dataset_debug/MajestySkills.lua'
+Restored 'lua/dataset_debug/CityHidePoints.lua'
+Restored 'lua/dataset_debug/RedChildrenCitys.lua'
+Restored 'lua/dataset_debug/SkillUpgradeCosts.lua'
+Restored 'lua/dataset_debug/CastleTexts.lua'
+Restored 'lua/dataset_debug/WorldFightResources.lua'
+Restored 'lua/dataset_debug/LegionTexts.lua'
+Restored 'lua/dataset_debug/SkillUpgrades.lua'
+Restored 'lua/dataset_debug/MajestySkill.lua'
+Restored 'lua/dataset_debug/CityFightMaps.lua'
+Restored 'lua/dataset_debug/CommonTexts.lua'
+Restored 'lua/dataset_debug/Signs.lua'
+Restored 'lua/dataset_debug/DQ2.lua'
+Restored 'lua/dataset_debug/ExVipGifts.lua'
+Restored 'lua/dataset_debug/DQ4.lua'
+Restored 'lua/dataset_debug/NationPosCfg.lua'
+Restored 'lua/dataset_debug/ArmiesLevels.lua'
+Restored 'lua/dataset_debug/ManualFormation.lua'
+Restored 'lua/dataset_debug/Goalstore2s.lua'
+Restored 'lua/dataset_debug/Stamps.lua'
+Restored 'lua/dataset_debug/Jugs.lua'
+Restored 'lua/dataset_debug/DigForTreasures.lua'
+Restored 'lua/dataset_debug/JunYinEXPs.lua'
+Restored 'lua/dataset_debug/OnlineRewards.lua'
+Restored 'lua/dataset_debug/IntergateShopItems.lua'
+Restored 'lua/dataset_debug/ManualFormations.lua'
+Restored 'lua/dataset_debug/Activitys.lua'
+Restored 'lua/dataset_debug/CityFightExchanges.lua'
+Restored 'lua/dataset_debug/SpecialEvts.lua'
+Restored 'lua/dataset_debug/ActivityTexts.lua'
+Restored 'lua/dataset_debug/Tasks.lua'
+Restored 'lua/dataset_debug/VipFunctions.lua'
+Restored 'lua/dataset_debug/TaskTexts.lua'
+Restored 'lua/dataset_debug/ItemNews.lua'
+Restored 'lua/dataset_debug/CityFightMaps2.lua'
+Restored 'lua/dataset_debug/ResourceMaps.lua'
+Restored 'lua/dataset_debug/NewbieGuides.lua'
+Restored 'lua/dataset_debug/CityFacades.lua'
+Restored 'lua/dataset_debug/EtchedUpgradeCosts.lua'
+Restored 'lua/dataset_debug/RightCfgs.lua'
+Restored 'lua/dataset_debug/RequirementTypes.lua'
+Restored 'lua/dataset_debug/ChildTrainSeries.lua'
+Restored 'lua/dataset_debug/SignAdds.lua'
+Restored 'lua/dataset_debug/HarborMaps.lua'
+Restored 'lua/dataset_debug/Transforms.lua'
+Restored 'lua/dataset_debug/CityFightSoldiers.lua'
+Restored 'lua/dataset_debug/RequirementIncidents.lua'
+Restored 'lua/dataset_debug/AdvanceHeros.lua'
+Restored 'lua/dataset_debug/Medals.lua'
+Restored 'lua/dataset_debug/QxIntegralRewards.lua'
+Restored 'lua/dataset_debug/RedChildrenBuildNCs.lua'
+Restored 'lua/dataset_debug/NationPosRight.lua'
+Restored 'lua/dataset_debug/Awakes.lua'
+Restored 'lua/dataset_debug/ShopItems.lua'
+Restored 'lua/dataset_debug/SkillTxs.lua'
+Restored 'lua/dataset_debug/ChildAwakeSkills.lua'
+Restored 'lua/dataset_debug/Tournaments.lua'
+Restored 'lua/dataset_debug/OnlineRewardes.lua'
+Restored 'lua/dataset_debug/LocalTexts.lua'
+Restored 'lua/dataset_debug/ArenaShopItems.lua'
+Restored 'lua/dataset_debug/NPCDialogs.lua'
+Restored 'lua/dataset_debug/Warehouses.lua'
+Restored 'lua/dataset_debug/RedChildrenBuilds.lua'
+Restored 'lua/dataset_debug/DailyGoals.lua'
+Restored 'lua/dataset_debug/Transformations.lua'
+Restored 'lua/dataset_debug/FightPres.lua'
+Restored 'lua/dataset_debug/ResCfgs.lua'
+Restored 'lua/dataset_debug/SevenLogins.lua'
+Restored 'lua/dataset_debug/MapCfg.lua'
+Restored 'lua/dataset_debug/Plots.lua'
+Restored 'lua/dataset_debug/MansionMap.lua'
+Restored 'lua/dataset_debug/Store3s.lua'
+Restored 'lua/dataset_debug/ChildSkills.lua'
+Restored 'lua/dataset_debug/CityFeatures.lua'
+Restored 'lua/dataset_debug/EtchedLevels.lua'
+Restored 'lua/dataset_debug/MoneyBagPositions.lua'
+Restored 'lua/dataset_debug/SkillSounds.lua'
+Restored 'lua/dataset_debug/Helps.lua'
+Restored 'lua/dataset_debug/LvGifts.lua'
+Restored 'lua/dataset_debug/EliteCards.lua'
+Restored 'lua/dataset_debug/tower/lv_67.lua'
+Restored 'lua/dataset_debug/tower/lv_112.lua'
+Restored 'lua/dataset_debug/tower/Troop_1112.lua'
+Restored 'lua/dataset_debug/tower/lv_190.lua'
+Restored 'lua/dataset_debug/tower/lv_155.lua'
+Restored 'lua/dataset_debug/tower/lv_236.lua'
+Restored 'lua/dataset_debug/tower/Troop_1190.lua'
+Restored 'lua/dataset_debug/tower/Troop_1236.lua'
+Restored 'lua/dataset_debug/tower/Troop_1155.lua'
+Restored 'lua/dataset_debug/tower/Troop_1074.lua'
+Restored 'lua/dataset_debug/tower/lv_198.lua'
+Restored 'lua/dataset_debug/tower/Troop_1198.lua'
+Restored 'lua/dataset_debug/tower/lv_33.lua'
+Restored 'lua/dataset_debug/tower/lv_76.lua'
+Restored 'lua/dataset_debug/tower/lv_121.lua'
+Restored 'lua/dataset_debug/tower/lv_202.lua'
+Restored 'lua/dataset_debug/tower/Troop_1202.lua'
+Restored 'lua/dataset_debug/tower/Troop_1121.lua'
+Restored 'lua/dataset_debug/tower/lv_164.lua'
+Restored 'lua/dataset_debug/tower/lv_245.lua'
+Restored 'lua/dataset_debug/tower/lv_129.lua'
+Restored 'lua/dataset_debug/tower/Troop_1245.lua'
+Restored 'lua/dataset_debug/tower/Troop_1164.lua'
+Restored 'lua/dataset_debug/tower/Troop_1083.lua'
+Restored 'lua/dataset_debug/tower/Troop_1129.lua'
+Restored 'lua/dataset_debug/tower/lv_42.lua'
+Restored 'lua/dataset_debug/tower/lv_85.lua'
+Restored 'lua/dataset_debug/tower/lv_130.lua'
+Restored 'lua/dataset_debug/tower/lv_211.lua'
+Restored 'lua/dataset_debug/tower/lv_5.lua'
+Restored 'lua/dataset_debug/tower/Troop_1211.lua'
+Restored 'lua/dataset_debug/tower/Troop_1130.lua'
+Restored 'lua/dataset_debug/tower/lv_173.lua'
+Restored 'lua/dataset_debug/tower/lv_138.lua'
+Restored 'lua/dataset_debug/tower/lv_219.lua'
+Restored 'lua/dataset_debug/tower/Troop_1173.lua'
+Restored 'lua/dataset_debug/tower/Troop_1092.lua'
+Restored 'lua/dataset_debug/tower/Troop_1219.lua'
+Restored 'lua/dataset_debug/tower/Troop_1138.lua'
+Restored 'lua/dataset_debug/tower/lv_51.lua'
+Restored 'lua/dataset_debug/tower/lv_16.lua'
+Restored 'lua/dataset_debug/tower/lv_94.lua'
+Restored 'lua/dataset_debug/tower/lv_59.lua'
+Restored 'lua/dataset_debug/tower/lv_220.lua'
+Restored 'lua/dataset_debug/tower/lv_104.lua'
+Restored 'lua/dataset_debug/tower/Troop_1220.lua'
+Restored 'lua/dataset_debug/tower/Troop_1104.lua'
+Restored 'lua/dataset_debug/tower/lv_182.lua'
+Restored 'lua/dataset_debug/tower/lv_147.lua'
+Restored 'lua/dataset_debug/tower/lv_228.lua'
+Restored 'lua/dataset_debug/tower/Troop_1182.lua'
+Restored 'lua/dataset_debug/tower/Troop_1228.lua'
+Restored 'lua/dataset_debug/tower/Troop_1147.lua'
+Restored 'lua/dataset_debug/tower/Troop_1066.lua'
+Restored 'lua/dataset_debug/tower/lv_60.lua'
+Restored 'lua/dataset_debug/tower/lv_25.lua'
+Restored 'lua/dataset_debug/tower/lv_68.lua'
+Restored 'lua/dataset_debug/tower/lv_113.lua'
+Restored 'lua/dataset_debug/tower/Troop_1113.lua'
+Restored 'lua/dataset_debug/tower/lv_191.lua'
+Restored 'lua/dataset_debug/tower/lv_156.lua'
+Restored 'lua/dataset_debug/tower/lv_237.lua'
+Restored 'lua/dataset_debug/tower/Troop_1191.lua'
+Restored 'lua/dataset_debug/tower/Troop_1237.lua'
+Restored 'lua/dataset_debug/tower/Troop_1156.lua'
+Restored 'lua/dataset_debug/tower/Troop_1075.lua'
+Restored 'lua/dataset_debug/tower/lv_199.lua'
+Restored 'lua/dataset_debug/tower/Troop_1199.lua'
+Restored 'lua/dataset_debug/tower/lv_34.lua'
+Restored 'lua/dataset_debug/tower/lv_77.lua'
+Restored 'lua/dataset_debug/tower/lv_122.lua'
+Restored 'lua/dataset_debug/tower/lv_203.lua'
+Restored 'lua/dataset_debug/tower/Troop_1203.lua'
+Restored 'lua/dataset_debug/tower/Troop_1122.lua'
+Restored 'lua/dataset_debug/tower/lv_165.lua'
+Restored 'lua/dataset_debug/tower/lv_246.lua'
+Restored 'lua/dataset_debug/tower/Troop_1246.lua'
+Restored 'lua/dataset_debug/tower/Troop_1165.lua'
+Restored 'lua/dataset_debug/tower/Troop_1084.lua'
+Restored 'lua/dataset_debug/tower/lv_43.lua'
+Restored 'lua/dataset_debug/tower/lv_86.lua'
+Restored 'lua/dataset_debug/tower/lv_131.lua'
+Restored 'lua/dataset_debug/tower/lv_212.lua'
+Restored 'lua/dataset_debug/tower/lv_6.lua'
+Restored 'lua/dataset_debug/tower/Troop_1212.lua'
+Restored 'lua/dataset_debug/tower/Troop_1131.lua'
+Restored 'lua/dataset_debug/tower/lv_174.lua'
+Restored 'lua/dataset_debug/tower/lv_139.lua'
+Restored 'lua/dataset_debug/tower/Troop_1174.lua'
+Restored 'lua/dataset_debug/tower/Troop_1093.lua'
+Restored 'lua/dataset_debug/tower/Troop_1139.lua'
+Restored 'lua/dataset_debug/tower/lv_52.lua'
+Restored 'lua/dataset_debug/tower/lv_17.lua'
+Restored 'lua/dataset_debug/tower/lv_95.lua'
+Restored 'lua/dataset_debug/tower/lv_140.lua'
+Restored 'lua/dataset_debug/tower/lv_221.lua'
+Restored 'lua/dataset_debug/tower/lv_105.lua'
+Restored 'lua/dataset_debug/tower/Troop_1221.lua'
+Restored 'lua/dataset_debug/tower/Troop_1140.lua'
+Restored 'lua/dataset_debug/tower/Troop_1105.lua'
+Restored 'lua/dataset_debug/tower/lv_183.lua'
+Restored 'lua/dataset_debug/tower/lv_148.lua'
+Restored 'lua/dataset_debug/tower/lv_229.lua'
+Restored 'lua/dataset_debug/tower/Troop_1183.lua'
+Restored 'lua/dataset_debug/tower/Troop_1229.lua'
+Restored 'lua/dataset_debug/tower/Troop_1148.lua'
+Restored 'lua/dataset_debug/tower/Troop_1067.lua'
+Restored 'lua/dataset_debug/tower/lv_61.lua'
+Restored 'lua/dataset_debug/tower/lv_26.lua'
+Restored 'lua/dataset_debug/tower/lv_69.lua'
+Restored 'lua/dataset_debug/tower/lv_230.lua'
+Restored 'lua/dataset_debug/tower/lv_114.lua'
+Restored 'lua/dataset_debug/tower/Troop_1230.lua'
+Restored 'lua/dataset_debug/tower/Troop_1114.lua'
+Restored 'lua/dataset_debug/tower/lv_192.lua'
+Restored 'lua/dataset_debug/tower/lv_157.lua'
+Restored 'lua/dataset_debug/tower/lv_238.lua'
+Restored 'lua/dataset_debug/tower/Troop_1192.lua'
+Restored 'lua/dataset_debug/tower/Troop_1238.lua'
+Restored 'lua/dataset_debug/tower/Troop_1157.lua'
+Restored 'lua/dataset_debug/tower/Troop_1076.lua'
+Restored 'lua/dataset_debug/tower/lv_70.lua'
+Restored 'lua/dataset_debug/tower/lv_35.lua'
+Restored 'lua/dataset_debug/tower/lv_78.lua'
+Restored 'lua/dataset_debug/tower/lv_123.lua'
+Restored 'lua/dataset_debug/tower/lv_204.lua'
+Restored 'lua/dataset_debug/tower/Troop_1204.lua'
+Restored 'lua/dataset_debug/tower/Troop_1123.lua'
+Restored 'lua/dataset_debug/tower/lv_166.lua'
+Restored 'lua/dataset_debug/tower/lv_247.lua'
+Restored 'lua/dataset_debug/tower/Troop_1247.lua'
+Restored 'lua/dataset_debug/tower/Troop_1166.lua'
+Restored 'lua/dataset_debug/tower/Troop_1085.lua'
+Restored 'lua/dataset_debug/tower/lv_44.lua'
+Restored 'lua/dataset_debug/tower/lv_87.lua'
+Restored 'lua/dataset_debug/tower/lv_132.lua'
+Restored 'lua/dataset_debug/tower/lv_213.lua'
+Restored 'lua/dataset_debug/tower/lv_7.lua'
+Restored 'lua/dataset_debug/tower/Troop_1213.lua'
+Restored 'lua/dataset_debug/tower/Troop_1132.lua'
+Restored 'lua/dataset_debug/tower/lv_175.lua'
+Restored 'lua/dataset_debug/tower/Troop_1175.lua'
+Restored 'lua/dataset_debug/tower/Troop_1094.lua'
+Restored 'lua/dataset_debug/tower/lv_10.lua'
+Restored 'lua/dataset_debug/tower/lv_53.lua'
+Restored 'lua/dataset_debug/tower/lv_18.lua'
+Restored 'lua/dataset_debug/tower/lv_96.lua'
+Restored 'lua/dataset_debug/tower/lv_141.lua'
+Restored 'lua/dataset_debug/tower/lv_222.lua'
+Restored 'lua/dataset_debug/tower/lv_106.lua'
+Restored 'lua/dataset_debug/tower/Troop_1222.lua'
+Restored 'lua/dataset_debug/tower/Troop_1141.lua'
+Restored 'lua/dataset_debug/tower/Troop_1060.lua'
+Restored 'lua/dataset_debug/tower/Troop_1106.lua'
+Restored 'lua/dataset_debug/tower/lv_184.lua'
+Restored 'lua/dataset_debug/tower/lv_149.lua'
+Restored 'lua/dataset_debug/tower/Troop_1184.lua'
+Restored 'lua/dataset_debug/tower/Troop_1149.lua'
+Restored 'lua/dataset_debug/tower/Troop_1068.lua'
+Restored 'lua/dataset_debug/tower/lv_62.lua'
+Restored 'lua/dataset_debug/tower/lv_27.lua'
+Restored 'lua/dataset_debug/tower/lv_150.lua'
+Restored 'lua/dataset_debug/tower/lv_231.lua'
+Restored 'lua/dataset_debug/tower/lv_115.lua'
+Restored 'lua/dataset_debug/tower/Troop_1231.lua'
+Restored 'lua/dataset_debug/tower/Troop_1150.lua'
+Restored 'lua/dataset_debug/tower/Troop_1115.lua'
+Restored 'lua/dataset_debug/tower/lv_193.lua'
+Restored 'lua/dataset_debug/tower/lv_158.lua'
+Restored 'lua/dataset_debug/tower/lv_239.lua'
+Restored 'lua/dataset_debug/tower/Troop_1193.lua'
+Restored 'lua/dataset_debug/tower/Troop_1239.lua'
+Restored 'lua/dataset_debug/tower/Troop_1158.lua'
+Restored 'lua/dataset_debug/tower/Troop_1077.lua'
+Restored 'lua/dataset_debug/tower/lv_71.lua'
+Restored 'lua/dataset_debug/tower/lv_36.lua'
+Restored 'lua/dataset_debug/tower/lv_79.lua'
+Restored 'lua/dataset_debug/tower/lv_240.lua'
+Restored 'lua/dataset_debug/tower/lv_124.lua'
+Restored 'lua/dataset_debug/tower/lv_205.lua'
+Restored 'lua/dataset_debug/tower/Troop_1240.lua'
+Restored 'lua/dataset_debug/tower/Troop_1205.lua'
+Restored 'lua/dataset_debug/tower/Troop_1124.lua'
+Restored 'lua/dataset_debug/tower/lv_167.lua'
+Restored 'lua/dataset_debug/tower/lv_248.lua'
+Restored 'lua/dataset_debug/tower/Troop_1248.lua'
+Restored 'lua/dataset_debug/tower/Troop_1167.lua'
+Restored 'lua/dataset_debug/tower/Troop_1086.lua'
+Restored 'lua/dataset_debug/tower/lv_80.lua'
+Restored 'lua/dataset_debug/tower/lv_45.lua'
+Restored 'lua/dataset_debug/tower/lv_88.lua'
+Restored 'lua/dataset_debug/tower/lv_133.lua'
+Restored 'lua/dataset_debug/tower/lv_214.lua'
+Restored 'lua/dataset_debug/tower/lv_8.lua'
+Restored 'lua/dataset_debug/tower/Troop_1214.lua'
+Restored 'lua/dataset_debug/tower/Troop_1133.lua'
+Restored 'lua/dataset_debug/tower/lv_176.lua'
+Restored 'lua/dataset_debug/tower/Troop_1176.lua'
+Restored 'lua/dataset_debug/tower/Troop_1095.lua'
+Restored 'lua/dataset_debug/tower/lv_11.lua'
+Restored 'lua/dataset_debug/tower/lv_54.lua'
+Restored 'lua/dataset_debug/tower/lv_19.lua'
+Restored 'lua/dataset_debug/tower/lv_97.lua'
+Restored 'lua/dataset_debug/tower/lv_142.lua'
+Restored 'lua/dataset_debug/tower/lv_223.lua'
+Restored 'lua/dataset_debug/tower/lv_107.lua'
+Restored 'lua/dataset_debug/tower/Troop_1223.lua'
+Restored 'lua/dataset_debug/tower/Troop_1142.lua'
+Restored 'lua/dataset_debug/tower/Troop_1061.lua'
+Restored 'lua/dataset_debug/tower/Troop_1107.lua'
+Restored 'lua/dataset_debug/tower/lv_185.lua'
+Restored 'lua/dataset_debug/tower/Troop_1185.lua'
+Restored 'lua/dataset_debug/tower/Troop_1069.lua'
+Restored 'lua/dataset_debug/tower/lv_20.lua'
+Restored 'lua/dataset_debug/tower/lv_63.lua'
+Restored 'lua/dataset_debug/tower/lv_28.lua'
+Restored 'lua/dataset_debug/tower/lv_151.lua'
+Restored 'lua/dataset_debug/tower/lv_232.lua'
+Restored 'lua/dataset_debug/tower/lv_116.lua'
+Restored 'lua/dataset_debug/tower/Troop_1232.lua'
+Restored 'lua/dataset_debug/tower/Troop_1151.lua'
+Restored 'lua/dataset_debug/tower/Troop_1070.lua'
+Restored 'lua/dataset_debug/tower/Troop_1116.lua'
+Restored 'lua/dataset_debug/tower/lv_194.lua'
+Restored 'lua/dataset_debug/tower/lv_159.lua'
+Restored 'lua/dataset_debug/tower/Troop_1194.lua'
+Restored 'lua/dataset_debug/tower/Troop_1159.lua'
+Restored 'lua/dataset_debug/tower/Troop_1078.lua'
+Restored 'lua/dataset_debug/tower/lv_72.lua'
+Restored 'lua/dataset_debug/tower/lv_37.lua'
+Restored 'lua/dataset_debug/tower/lv_160.lua'
+Restored 'lua/dataset_debug/tower/lv_241.lua'
+Restored 'lua/dataset_debug/tower/lv_125.lua'
+Restored 'lua/dataset_debug/tower/lv_206.lua'
+Restored 'lua/dataset_debug/tower/Troop_1241.lua'
+Restored 'lua/dataset_debug/tower/Troop_1160.lua'
+Restored 'lua/dataset_debug/tower/Troop_1206.lua'
+Restored 'lua/dataset_debug/tower/Troop_1125.lua'
+Restored 'lua/dataset_debug/tower/lv_168.lua'
+Restored 'lua/dataset_debug/tower/lv_249.lua'
+Restored 'lua/dataset_debug/tower/Troop_1249.lua'
+Restored 'lua/dataset_debug/tower/Troop_1168.lua'
+Restored 'lua/dataset_debug/tower/Troop_1087.lua'
+Restored 'lua/dataset_debug/tower/lv_81.lua'
+Restored 'lua/dataset_debug/tower/lv_46.lua'
+Restored 'lua/dataset_debug/tower/lv_1.lua'
+Restored 'lua/dataset_debug/tower/lv_89.lua'
+Restored 'lua/dataset_debug/tower/lv_250.lua'
+Restored 'lua/dataset_debug/tower/lv_134.lua'
+Restored 'lua/dataset_debug/tower/lv_215.lua'
+Restored 'lua/dataset_debug/tower/lv_9.lua'
+Restored 'lua/dataset_debug/tower/Troop_1250.lua'
+Restored 'lua/dataset_debug/tower/Troop_1215.lua'
+Restored 'lua/dataset_debug/tower/Troop_1134.lua'
+Restored 'lua/dataset_debug/tower/lv_177.lua'
+Restored 'lua/dataset_debug/tower/Troop_1177.lua'
+Restored 'lua/dataset_debug/tower/Troop_1096.lua'
+Restored 'lua/dataset_debug/tower/lv_12.lua'
+Restored 'lua/dataset_debug/tower/lv_90.lua'
+Restored 'lua/dataset_debug/tower/lv_55.lua'
+Restored 'lua/dataset_debug/tower/lv_100.lua'
+Restored 'lua/dataset_debug/tower/lv_98.lua'
+Restored 'lua/dataset_debug/tower/Troop_1100.lua'
+Restored 'lua/dataset_debug/tower/lv_143.lua'
+Restored 'lua/dataset_debug/tower/lv_224.lua'
+Restored 'lua/dataset_debug/tower/lv_108.lua'
+Restored 'lua/dataset_debug/tower/Troop_1224.lua'
+Restored 'lua/dataset_debug/tower/Troop_1143.lua'
+Restored 'lua/dataset_debug/tower/Troop_1062.lua'
+Restored 'lua/dataset_debug/tower/Troop_1108.lua'
+Restored 'lua/dataset_debug/tower/lv_186.lua'
+Restored 'lua/dataset_debug/tower/Troop_1186.lua'
+Restored 'lua/dataset_debug/tower/lv_21.lua'
+Restored 'lua/dataset_debug/tower/lv_64.lua'
+Restored 'lua/dataset_debug/tower/lv_29.lua'
+Restored 'lua/dataset_debug/tower/lv_152.lua'
+Restored 'lua/dataset_debug/tower/lv_233.lua'
+Restored 'lua/dataset_debug/tower/lv_117.lua'
+Restored 'lua/dataset_debug/tower/Troop_1233.lua'
+Restored 'lua/dataset_debug/tower/Troop_1152.lua'
+Restored 'lua/dataset_debug/tower/Troop_1071.lua'
+Restored 'lua/dataset_debug/tower/Troop_1117.lua'
+Restored 'lua/dataset_debug/tower/lv_195.lua'
+Restored 'lua/dataset_debug/tower/Troop_1195.lua'
+Restored 'lua/dataset_debug/tower/Troop_1079.lua'
+Restored 'lua/dataset_debug/tower/lv_30.lua'
+Restored 'lua/dataset_debug/tower/lv_73.lua'
+Restored 'lua/dataset_debug/tower/lv_38.lua'
+Restored 'lua/dataset_debug/tower/lv_161.lua'
+Restored 'lua/dataset_debug/tower/lv_242.lua'
+Restored 'lua/dataset_debug/tower/lv_126.lua'
+Restored 'lua/dataset_debug/tower/lv_207.lua'
+Restored 'lua/dataset_debug/tower/Troop_1242.lua'
+Restored 'lua/dataset_debug/tower/Troop_1161.lua'
+Restored 'lua/dataset_debug/tower/Troop_1080.lua'
+Restored 'lua/dataset_debug/tower/Troop_1207.lua'
+Restored 'lua/dataset_debug/tower/Troop_1126.lua'
+Restored 'lua/dataset_debug/tower/lv_169.lua'
+Restored 'lua/dataset_debug/tower/Troop_1169.lua'
+Restored 'lua/dataset_debug/tower/Troop_1088.lua'
+Restored 'lua/dataset_debug/tower/lv_82.lua'
+Restored 'lua/dataset_debug/tower/lv_47.lua'
+Restored 'lua/dataset_debug/tower/lv_2.lua'
+Restored 'lua/dataset_debug/tower/lv_170.lua'
+Restored 'lua/dataset_debug/tower/lv_135.lua'
+Restored 'lua/dataset_debug/tower/lv_216.lua'
+Restored 'lua/dataset_debug/tower/Troop_1170.lua'
+Restored 'lua/dataset_debug/tower/Troop_1216.lua'
+Restored 'lua/dataset_debug/tower/Troop_1135.lua'
+Restored 'lua/dataset_debug/tower/lv_178.lua'
+Restored 'lua/dataset_debug/tower/Troop_1178.lua'
+Restored 'lua/dataset_debug/tower/Troop_1097.lua'
+Restored 'lua/dataset_debug/tower/lv_13.lua'
+Restored 'lua/dataset_debug/tower/lv_91.lua'
+Restored 'lua/dataset_debug/tower/lv_56.lua'
+Restored 'lua/dataset_debug/tower/lv_101.lua'
+Restored 'lua/dataset_debug/tower/lv_99.lua'
+Restored 'lua/dataset_debug/tower/Troop_1101.lua'
+Restored 'lua/dataset_debug/tower/lv_144.lua'
+Restored 'lua/dataset_debug/tower/lv_225.lua'
+Restored 'lua/dataset_debug/tower/lv_109.lua'
+Restored 'lua/dataset_debug/tower/Troop_1225.lua'
+Restored 'lua/dataset_debug/tower/Troop_1144.lua'
+Restored 'lua/dataset_debug/tower/Troop_1063.lua'
+Restored 'lua/dataset_debug/tower/Troop_1109.lua'
+Restored 'lua/dataset_debug/tower/lv_187.lua'
+Restored 'lua/dataset_debug/tower/Troop_1187.lua'
+Restored 'lua/dataset_debug/tower/lv_22.lua'
+Restored 'lua/dataset_debug/tower/lv_65.lua'
+Restored 'lua/dataset_debug/tower/lv_110.lua'
+Restored 'lua/dataset_debug/tower/Troop_1110.lua'
+Restored 'lua/dataset_debug/tower/lv_153.lua'
+Restored 'lua/dataset_debug/tower/lv_234.lua'
+Restored 'lua/dataset_debug/tower/lv_118.lua'
+Restored 'lua/dataset_debug/tower/Troop_1234.lua'
+Restored 'lua/dataset_debug/tower/Troop_1153.lua'
+Restored 'lua/dataset_debug/tower/Troop_1072.lua'
+Restored 'lua/dataset_debug/tower/Troop_1118.lua'
+Restored 'lua/dataset_debug/tower/lv_196.lua'
+Restored 'lua/dataset_debug/tower/Troop_1196.lua'
+Restored 'lua/dataset_debug/tower/lv_31.lua'
+Restored 'lua/dataset_debug/tower/lv_74.lua'
+Restored 'lua/dataset_debug/tower/lv_39.lua'
+Restored 'lua/dataset_debug/tower/lv_200.lua'
+Restored 'lua/dataset_debug/tower/Troop_1200.lua'
+Restored 'lua/dataset_debug/tower/lv_162.lua'
+Restored 'lua/dataset_debug/tower/lv_243.lua'
+Restored 'lua/dataset_debug/tower/lv_127.lua'
+Restored 'lua/dataset_debug/tower/lv_208.lua'
+Restored 'lua/dataset_debug/tower/Troop_1243.lua'
+Restored 'lua/dataset_debug/tower/Troop_1162.lua'
+Restored 'lua/dataset_debug/tower/Troop_1081.lua'
+Restored 'lua/dataset_debug/tower/Troop_1208.lua'
+Restored 'lua/dataset_debug/tower/Troop_1127.lua'
+Restored 'lua/dataset_debug/tower/Troop_1089.lua'
+Restored 'lua/dataset_debug/tower/lv_40.lua'
+Restored 'lua/dataset_debug/tower/lv_83.lua'
+Restored 'lua/dataset_debug/tower/lv_48.lua'
+Restored 'lua/dataset_debug/tower/lv_3.lua'
+Restored 'lua/dataset_debug/tower/lv_171.lua'
+Restored 'lua/dataset_debug/tower/lv_136.lua'
+Restored 'lua/dataset_debug/tower/lv_217.lua'
+Restored 'lua/dataset_debug/tower/Troop_1171.lua'
+Restored 'lua/dataset_debug/tower/Troop_1090.lua'
+Restored 'lua/dataset_debug/tower/Troop_1217.lua'
+Restored 'lua/dataset_debug/tower/Troop_1136.lua'
+Restored 'lua/dataset_debug/tower/lv_179.lua'
+Restored 'lua/dataset_debug/tower/Troop_1179.lua'
+Restored 'lua/dataset_debug/tower/Troop_1098.lua'
+Restored 'lua/dataset_debug/tower/lv_14.lua'
+Restored 'lua/dataset_debug/tower/lv_92.lua'
+Restored 'lua/dataset_debug/tower/lv_57.lua'
+Restored 'lua/dataset_debug/tower/lv_102.lua'
+Restored 'lua/dataset_debug/tower/Troop_1102.lua'
+Restored 'lua/dataset_debug/tower/lv_180.lua'
+Restored 'lua/dataset_debug/tower/lv_145.lua'
+Restored 'lua/dataset_debug/tower/lv_226.lua'
+Restored 'lua/dataset_debug/tower/Troop_1180.lua'
+Restored 'lua/dataset_debug/tower/Troop_1226.lua'
+Restored 'lua/dataset_debug/tower/Troop_1145.lua'
+Restored 'lua/dataset_debug/tower/Troop_1064.lua'
+Restored 'lua/dataset_debug/tower/lv_188.lua'
+Restored 'lua/dataset_debug/tower/Troop_1188.lua'
+Restored 'lua/dataset_debug/tower/lv_23.lua'
+Restored 'lua/dataset_debug/tower/lv_66.lua'
+Restored 'lua/dataset_debug/tower/lv_111.lua'
+Restored 'lua/dataset_debug/tower/Troop_1111.lua'
+Restored 'lua/dataset_debug/tower/lv_154.lua'
+Restored 'lua/dataset_debug/tower/lv_235.lua'
+Restored 'lua/dataset_debug/tower/lv_119.lua'
+Restored 'lua/dataset_debug/tower/Troop_1235.lua'
+Restored 'lua/dataset_debug/tower/Troop_1154.lua'
+Restored 'lua/dataset_debug/tower/Troop_1073.lua'
+Restored 'lua/dataset_debug/tower/Troop_1119.lua'
+Restored 'lua/dataset_debug/tower/lv_197.lua'
+Restored 'lua/dataset_debug/tower/Troop_1197.lua'
+Restored 'lua/dataset_debug/tower/lv_32.lua'
+Restored 'lua/dataset_debug/tower/lv_75.lua'
+Restored 'lua/dataset_debug/tower/lv_120.lua'
+Restored 'lua/dataset_debug/tower/lv_201.lua'
+Restored 'lua/dataset_debug/tower/Troop_1201.lua'
+Restored 'lua/dataset_debug/tower/Troop_1120.lua'
+Restored 'lua/dataset_debug/tower/lv_163.lua'
+Restored 'lua/dataset_debug/tower/lv_244.lua'
+Restored 'lua/dataset_debug/tower/lv_128.lua'
+Restored 'lua/dataset_debug/tower/lv_209.lua'
+Restored 'lua/dataset_debug/tower/Troop_1244.lua'
+Restored 'lua/dataset_debug/tower/Troop_1163.lua'
+Restored 'lua/dataset_debug/tower/Troop_1082.lua'
+Restored 'lua/dataset_debug/tower/Troop_1209.lua'
+Restored 'lua/dataset_debug/tower/Troop_1128.lua'
+Restored 'lua/dataset_debug/tower/lv_41.lua'
+Restored 'lua/dataset_debug/tower/lv_84.lua'
+Restored 'lua/dataset_debug/tower/lv_49.lua'
+Restored 'lua/dataset_debug/tower/lv_210.lua'
+Restored 'lua/dataset_debug/tower/lv_4.lua'
+Restored 'lua/dataset_debug/tower/Troop_1210.lua'
+Restored 'lua/dataset_debug/tower/lv_172.lua'
+Restored 'lua/dataset_debug/tower/lv_137.lua'
+Restored 'lua/dataset_debug/tower/lv_218.lua'
+Restored 'lua/dataset_debug/tower/Troop_1172.lua'
+Restored 'lua/dataset_debug/tower/Troop_1091.lua'
+Restored 'lua/dataset_debug/tower/Troop_1218.lua'
+Restored 'lua/dataset_debug/tower/Troop_1137.lua'
+Restored 'lua/dataset_debug/tower/Troop_1099.lua'
+Restored 'lua/dataset_debug/tower/lv_50.lua'
+Restored 'lua/dataset_debug/tower/lv_15.lua'
+Restored 'lua/dataset_debug/tower/lv_93.lua'
+Restored 'lua/dataset_debug/tower/lv_58.lua'
+Restored 'lua/dataset_debug/tower/lv_103.lua'
+Restored 'lua/dataset_debug/tower/Troop_1103.lua'
+Restored 'lua/dataset_debug/tower/lv_181.lua'
+Restored 'lua/dataset_debug/tower/lv_146.lua'
+Restored 'lua/dataset_debug/tower/lv_227.lua'
+Restored 'lua/dataset_debug/tower/Troop_1181.lua'
+Restored 'lua/dataset_debug/tower/Troop_1227.lua'
+Restored 'lua/dataset_debug/tower/Troop_1146.lua'
+Restored 'lua/dataset_debug/tower/Troop_1065.lua'
+Restored 'lua/dataset_debug/tower/lv_189.lua'
+Restored 'lua/dataset_debug/tower/Troop_1189.lua'
+Restored 'lua/dataset_debug/tower/lv_24.lua'
+Restored 'lua/dataset_debug/PlunderCross.lua'
+Restored 'lua/dataset_debug/Keyword.lua'
+Restored 'lua/dataset_debug/DQ1.lua'
+Restored 'lua/dataset_debug/SeniorMedals.lua'
+Restored 'lua/dataset_debug/ZongLoves.lua'
+Restored 'lua/dataset_debug/DQ3.lua'
+Restored 'lua/dataset_debug/DQ5.lua'
+Restored 'lua/dataset_debug/RedChildrenInherits.lua'
+Restored 'lua/dataset_debug/Famous.lua'
+Restored 'lua/dataset_debug/WorldFightMaps.lua'
+Restored 'lua/dataset_debug/CityFightItems.lua'
+Restored 'lua/dataset_debug/QxRankRewards.lua'
+Restored 'lua/dataset_debug/BackActivitys.lua'
+Restored 'lua/dataset_debug/AncientBattles.lua'
+Restored 'lua/dataset_debug/GoalStore3s.lua'
+Restored 'lua/dataset_debug/Exchanges.lua'
+Restored 'lua/dataset_debug/RedChildrenSkills.lua'
+Restored 'lua/dataset_debug/Souls.lua'
+At revision 10913.
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/LevyEventCfgs.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/ZongEvents.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/ItemBack.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/EightDiagrams.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/Melting.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/VipCfgs.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/ConflictCfgs.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/Generals.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/SensitiveWords.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/Topbars.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/LegionMonsters.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/LegionEnvelopes.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/WorldMaps.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/SupplyGift.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/ReinforcedSoldiers.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/Achievements.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/Items.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/ItemLevels.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/MansionMaps.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/VipShopGifts.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/Shakes.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/Functiontips.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/Rules.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/Rebirths.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/WarTasks.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/OfficerLevel.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/DefaultSettings.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/SevenTask.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/ArenaMatchRules.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/WarTechs.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/DailyInstances.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/Dailys.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/AdvanceLevels.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/Officer.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/ItemEffect.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/Guanyin.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/CityDevelops.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/GeneralLinkDatas.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/DrillSkill.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/Guide.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/GeneralLevels.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/Techs.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/Ancients.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/AttStones.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/CastleMaps.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/WorldCities.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/WomenTalks.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/AdvanceDatas.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/Txs.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/WomanLevels.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/SoldierTransfers.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/WarDevelops.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/WarNations.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/Opentips.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/LegionHeads.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/MapTx.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/Jiuguan.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/LegionMutualitys.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/Arenas.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/SystemMail.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/Soldiers.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/WarSeasons.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/LegionTechs.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/ItemScore.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/LevelLimits.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/LocalText.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/GeneralGrades.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/LegionCampaign.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/Illustrations.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/Constants.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/NextSoldiers.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/Livenesses.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/Conscriptions.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/AncientStores.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/GMInstructions.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/GeneralEffectList.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/LevelGift.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/Menus.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/LevelCollections.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/ItemCasts.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/Loadingpictures.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/MajestyHeads.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/LegionCfgs.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/HorseBloods.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/HorseTrainings.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/Welfare.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/WorldCityRoads.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/PrestigeCfgs.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/AppointNews.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/Pay.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/RandomEvents.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/Checkin.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/Modules.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/ChooseCountry.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/VipGifts.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/ArenaRewards.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/Pays.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/ItemAppoint.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/WifeEffects.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/game_config.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/SoldierGrades.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/GrowthFund.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/PlayerLevels.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/ServerLocalText.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/AncientTraders.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/WarSigns.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/Types.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/Materials.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/ItemSuit.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/Buffs.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/WorldSoldiers.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/Drops.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/Womens.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/WorldTroops.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/Levelfarms.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/Government.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/Coexists.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/Defeat.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/LevelPowers.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/LoadingTips.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/Sounds.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/CampaignCfgs.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/TowerStore.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/CampaignCity.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/Skills.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/TowerCfgs.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/Battle.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/Chat.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/Intensifys.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/Formations.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/DrillGround.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/ItemEffectList.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/Pass.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/GeneralAppoint.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/WorldCityMaps.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/LevelIron.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/VipFuncs.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/Formationloc.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/ArenaStores.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/WorldWars.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/Junling.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1021.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1035.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1009.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1223.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1237.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1155.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1141.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1169.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Troop_1045.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Troop_1051.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1196.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1182.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1183.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1197.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Troop_1050.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Troop_1044.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1168.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1140.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1154.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1236.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1222.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1008.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1034.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1020.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1036.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1022.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1234.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1220.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1208.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1142.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1156.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Troop_1052.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Troop_1046.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1181.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1195.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1194.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1180.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Troop_1047.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Troop_1053.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1157.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1143.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1209.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1221.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1235.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1023.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1037.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1033.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1027.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1219.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1231.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1225.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Troop_1057.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Troop_1043.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1147.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1153.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1184.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1190.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1191.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1185.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1152.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1146.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Troop_1042.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Troop_1056.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1224.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1230.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1218.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1026.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1032.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1018.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1024.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1030.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1226.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1232.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Troop_1040.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Troop_1054.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1178.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1150.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1144.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1193.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1187.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1186.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1192.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1145.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1151.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1179.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Troop_1055.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Troop_1041.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1233.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1227.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1031.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1025.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1019.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1042.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1056.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1081.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1095.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1240.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1136.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1122.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Troop_1026.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Troop_1032.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Troop_1033.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Troop_1027.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1123.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1137.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1241.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1094.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1080.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1057.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1043.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1055.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1041.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1069.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1096.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1082.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1243.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1121.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1135.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Troop_1019.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Troop_1031.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Troop_1025.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1109.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1108.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Troop_1024.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Troop_1030.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Troop_1018.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1134.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1120.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1242.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1083.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1097.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1068.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1040.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1054.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1078.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1050.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1044.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1093.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1087.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1246.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1118.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Troop_1034.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Troop_1020.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Troop_1008.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1124.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1130.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1131.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1125.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Troop_1009.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Troop_1021.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Troop_1035.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1119.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1247.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1086.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1092.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1045.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1051.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1079.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1047.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1053.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1084.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1090.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1245.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Troop_1023.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Troop_1037.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1133.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1127.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1126.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1132.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Troop_1036.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Troop_1022.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1250.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1244.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1091.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1085.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1052.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1046.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1063.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1077.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1088.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1249.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1117.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1103.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Troop_1007.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Troop_1013.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Troop_1012.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Troop_1006.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1102.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1116.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1248.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1089.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1076.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1062.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1074.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1060.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1048.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1100.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Troop_1038.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1114.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Troop_1010.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1128.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Troop_1004.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Troop_1005.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1129.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Troop_1011.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1115.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Troop_1039.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1101.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1049.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1061.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1075.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1059.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1071.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1065.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Troop_1015.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1139.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Troop_1001.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1105.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Troop_1029.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1111.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1110.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Troop_1028.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1104.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1138.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Troop_1014.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1064.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1070.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1058.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1066.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1072.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1099.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Troop_1002.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Troop_1016.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1112.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1106.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1107.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1113.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Troop_1017.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Troop_1003.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1098.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1073.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1067.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1014.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1028.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1202.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1216.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1174.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Troop_1058.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1160.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1148.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1149.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1161.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Troop_1059.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1175.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1217.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1203.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1029.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1015.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1001.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1017.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1003.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1215.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1201.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1229.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1163.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1177.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1188.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1189.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1176.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1162.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1228.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1200.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1214.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1002.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1016.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1012.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1006.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1238.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1210.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1204.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1166.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1172.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1199.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1198.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1173.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1167.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1205.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1211.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1239.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1007.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1013.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1039.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1005.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1011.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1207.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1213.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1159.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1171.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Troop_1049.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1165.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1164.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Troop_1048.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1170.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1158.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1212.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1206.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1010.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1004.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/tower/Map_1038.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/war/chengdu.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/war/wancheng.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/war/fancheng1.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/war/yongan.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/war/jianye.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/war/xuchang.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/war/jiangxia.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Map_144.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Map_150.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Troop_146.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Troop_152.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Troop_153.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Troop_147.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Map_151.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Map_145.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Map_153.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Map_147.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Troop_151.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Troop_145.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Troop_144.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Troop_150.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Map_146.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Map_152.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Map_156.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Map_142.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Troop_154.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Troop_140.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Troop_141.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Troop_155.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Map_143.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Map_157.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Map_141.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Map_155.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Troop_143.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Troop_157.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Troop_156.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Troop_142.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Map_154.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Map_140.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Map_127.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Map_133.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Troop_125.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Troop_131.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Troop_119.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Troop_118.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Troop_130.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Troop_124.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Map_132.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Map_126.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Map_130.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Map_124.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Map_118.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Troop_132.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Troop_126.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Troop_127.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Troop_133.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Map_119.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Map_125.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Map_131.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Map_109.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Map_135.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Map_121.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Troop_137.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Troop_123.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Troop_122.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Troop_136.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Map_120.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Map_134.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Map_108.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Map_122.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Map_136.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Troop_108.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Troop_120.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Troop_134.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Troop_135.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Troop_121.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Troop_109.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Map_137.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Map_123.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Map_106.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Map_112.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Troop_104.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Troop_110.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Troop_138.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Troop_139.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Troop_111.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Troop_105.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Map_113.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Map_107.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Map_111.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Map_105.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Map_139.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Troop_113.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Troop_107.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Troop_106.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Troop_112.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Map_138.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Map_104.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Map_110.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Map_128.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Map_114.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Troop_116.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Troop_102.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Troop_103.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Troop_117.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Map_101.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Map_115.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Map_129.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Map_103.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Map_117.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Troop_129.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Troop_101.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Troop_115.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Troop_114.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Troop_128.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Map_116.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Map_102.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Map_159.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Map_158.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Map_164.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Troop_164.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Troop_158.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Troop_159.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Map_163.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Troop_149.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Troop_161.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Troop_160.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Troop_148.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Map_162.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Map_148.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Map_160.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Troop_162.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Troop_163.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Map_161.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/instance/Map_149.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/campaigns/Maps_101.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/campaigns/Maps_103.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/campaigns/Maps_102.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/campaigns/Troops_101.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/campaigns/Troops_102.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/campaigns/Troops_103.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/elite/huoyanshan.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/elite/heiyaoshi.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/elite/penglaixianshan.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/elite/moyu.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/elite/bingshuangxueyu.lua
+/Users/admin/code/client/wly2_lua_svn/StaticData/lua/dataset_debug/elite/mingyu.lua
++ git add src/app/static_data/dataset_debug
++ git commit -m 'update lua config'
+On branch work
+Changes not staged for commit:
+	modified:   build/scripts/cfg.lua
+	modified:   build/scripts/compress.lua
+	modified:   build/scripts/make_effect.lua
+	modified:   frameworks/cocos2d-x/README.md
+	modified:   frameworks/cocos2d-x/build/cocos2d_libs.xcodeproj/xcuserdata/admin.xcuserdatad/xcschemes/xcschememanagement.plist
+	modified:   frameworks/cocos2d-x/tools/simulator/libsimulator/proj.ios_mac/libsimulator.xcodeproj/xcuserdata/admin.xcuserdatad/xcschemes/xcschememanagement.plist
+	modified:   frameworks/cocos2d-x/tools/tolua/genbindings.py
+	modified:   frameworks/runtime-src/Classes/Foxair/utils.cpp
+	modified:   frameworks/runtime-src/Classes/man/api/GameConnection.lua
+	modified:   frameworks/runtime-src/Classes/man/api/InetHelper.lua
+	deleted:    frameworks/runtime-src/Classes/man/api/RichText.lua
+	modified:   frameworks/runtime-src/Classes/man/api/Utils.lua
+	deleted:    frameworks/runtime-src/Classes/man/api/lua_custom_api_man_api.lua
+	deleted:    frameworks/runtime-src/Classes/man/lua_custom_api_man.cpp
+	deleted:    frameworks/runtime-src/Classes/man/lua_custom_api_man.hpp
+	modified:   frameworks/runtime-src/proj.android/local.properties
+	modified:   frameworks/runtime-src/proj.ios_mac/ios/Info.plist
+	modified:   frameworks/runtime-src/proj.ios_mac/project_wly2_lua_client.xcodeproj/project.pbxproj
+	modified:   frameworks/runtime-src/proj.ios_mac/project_wly2_lua_client.xcodeproj/project.xcworkspace/xcuserdata/admin.xcuserdatad/UserInterfaceState.xcuserstate
+	modified:   frameworks/runtime-src/proj.ios_mac/project_wly2_lua_client.xcodeproj/xcuserdata/admin.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist
+	modified:   frameworks/runtime-src/proj.ios_mac/project_wly2_lua_client.xcodeproj/xcuserdata/admin.xcuserdatad/xcschemes/xcschememanagement.plist
+	modified:   res/ui/Vip/ShopItem.csb
+	modified:   res/ui/Vip/ShopTabItem.csb
+	modified:   res/ui/Vip/VipMain.csb
+	modified:   res/ui/Vip/VipPrivilege.csb
+	modified:   res/ui/Vip/VipRecharge.csb
+	modified:   res/ui/Vip/VipRechargeItem.csb
+	modified:   res/ui/achievement/AchievementBranchCell.csb
+	modified:   res/ui/achievement/AchievementChapterCell.csb
+	modified:   res/ui/achievement/AchievementChapterOpen.csb
+	modified:   res/ui/achievement/AchievementMain.csb
+	modified:   res/ui/achievement/MainTask.csb
+	modified:   res/ui/achievement/TaskCell.csb
+	modified:   res/ui/achievement/TaskDaySeven.csb
+	modified:   res/ui/achievement/TaskDaySevenCell.csb
+	modified:   res/ui/achievement/TaskDaySevenHelp.csb
+	modified:   res/ui/activity/Activity.csb
+	modified:   res/ui/activity/ActivityBoxs.csb
+	modified:   res/ui/activity/ActivityLevel.csb
+	modified:   res/ui/activity/ActivitySign.csb
+	modified:   res/ui/activity/GrowthFund.csb
+	modified:   res/ui/activity/GrowthFundItem.csb
+	modified:   res/ui/activity/LevelItems.csb
+	modified:   res/ui/activity/SignItems.csb
+	modified:   res/ui/ancient_city/AncientCityBattleMain.csb
+	modified:   res/ui/ancient_city/AncientCityBefore.csb
+	modified:   res/ui/ancient_city/AncientCityBoxReward.csb
+	modified:   res/ui/ancient_city/AncientCityCheckPoint.csb
+	modified:   res/ui/ancient_city/AncientCityClearance.csb
+	modified:   res/ui/ancient_city/AncientCityDailyReward.csb
+	modified:   res/ui/ancient_city/AncientCityDailyRewardItem.csb
+	modified:   res/ui/ancient_city/AncientCityFindSecretRoom.csb
+	modified:   res/ui/ancient_city/AncientCityHeadItem.csb
+	modified:   res/ui/ancient_city/AncientCityItem.csb
+	modified:   res/ui/ancient_city/AncientCityItemBuy.csb
+	modified:   res/ui/ancient_city/AncientCityMain.csb
+	modified:   res/ui/ancient_city/AncientCityNumBuy.csb
+	modified:   res/ui/ancient_city/AncientCityPlayer.csb
+	modified:   res/ui/ancient_city/AncientCityReward.csb
+	modified:   res/ui/ancient_city/AncientCityRule.csb
+	modified:   res/ui/ancient_city/AncientCityRuleItem.csb
+	modified:   res/ui/ancient_city/AncientCityShop.csb
+	modified:   res/ui/ancient_city/AncientCityShopItem.csb
+	modified:   res/ui/ancient_city/AncientCityShopMain.csb
+	modified:   res/ui/ancient_city/AncientCityShopTalk.csb
+	modified:   res/ui/ancient_city/AncientCityStrategy.csb
+	modified:   res/ui/ancient_city/AncientCityStrategyItem.csb
+	modified:   res/ui/ancient_city/AncientCitySweep.csb
+	modified:   res/ui/ancient_city/AncientCitySweepItem.csb
+	modified:   res/ui/ancient_city/AncientCityTabItem.csb
+	modified:   res/ui/ancient_city/AncientCityTips.csb
+	modified:   res/ui/area/AreaCity.csb
+	modified:   res/ui/area/AreaFollowerInfo.csb
+	modified:   res/ui/area/AreaFollowerView.csb
+	modified:   res/ui/area/AreaReplaceFlag.csb
+	modified:   res/ui/area/AreaView.csb
+	modified:   res/ui/area/CityFace.csb
+	modified:   res/ui/area/CityFaceItem.csb
+	modified:   res/ui/area/CityFaceList.csb
+	modified:   res/ui/area/CityInfo.csb
+	modified:   res/ui/arena/ArenaHelp.csb
+	modified:   res/ui/arena/ArenaHelpItem.csb
+	modified:   res/ui/arena/ArenaInfo.csb
+	modified:   res/ui/arena/ArenaRank.csb
+	modified:   res/ui/arena/ArenaRankItem.csb
+	modified:   res/ui/arena/ArenaReport.csb
+	modified:   res/ui/arena/ArenaReportItem.csb
+	modified:   res/ui/arena/ArenaReward.csb
+	modified:   res/ui/arena/ArenaRewardItem.csb
+	modified:   res/ui/arena/ArenaRole.csb
+	modified:   res/ui/arena/ArenaTopFight.csb
+	modified:   res/ui/arena/ArenaTopFightItem.csb
+	modified:   res/ui/arena/ArenaView.csb
+	modified:   res/ui/arena/ArenaViewItem.csb
+	modified:   res/ui/arena/RewardItem.csb
+	modified:   res/ui/battle/ArrangeItem.csb
+	modified:   res/ui/battle/BattleCell.csb
+	modified:   res/ui/battle/BattlePopText.csb
+	modified:   res/ui/battle/BattleStartAnimation.csb
+	modified:   res/ui/battle/BuffIntroductionCell.csb
+	modified:   res/ui/battle/BuffPopList.csb
+	modified:   res/ui/battle/SingleBattleView.csb
+	modified:   res/ui/battle/SkillEffect.csb
+	modified:   res/ui/battle/SkillPop.csb
+	modified:   res/ui/battle/SkillPopFull.csb
+	modified:   res/ui/battle/SoldierInfo.csb
+	modified:   res/ui/bosom/AttrAddupView.csb
+	modified:   res/ui/bosom/AutoTalkView.csb
+	modified:   res/ui/bosom/BeautyListNode.csb
+	modified:   res/ui/bosom/BeautyListView.csb
+	modified:   res/ui/bosom/BeautyNode.csb
+	modified:   res/ui/bosom/BosomOneKeyRule.csb
+	modified:   res/ui/bosom/BosomQualityUp.csb
+	modified:   res/ui/bosom/BosomRule.csb
+	modified:   res/ui/bosom/BosomSearchView.csb
+	modified:   res/ui/bosom/BosomView.csb
+	modified:   res/ui/bosom/BothAddrAddupView.csb
+	modified:   res/ui/bosom/EntranceView.csb
+	modified:   res/ui/bosom/FamousItem.csb
+	modified:   res/ui/bosom/FamousView.csb
+	modified:   res/ui/bosom/MarryView.csb
+	modified:   res/ui/bosom/NameItem.csb
+	modified:   res/ui/bosom/NameRowItem.csb
+	modified:   res/ui/bosom/NormalPersonTalk.csb
+	modified:   res/ui/build_officer/BuildOfficerGift.csb
+	modified:   res/ui/build_officer/BuildOfficerGiftItem.csb
+	modified:   res/ui/build_officer/BuildOfficerHead.csb
+	modified:   res/ui/build_officer/BuildOfficerItem.csb
+	modified:   res/ui/build_officer/BuildOfficerMain.csb
+	modified:   res/ui/build_officer/BuildOfficerSelect.csb
+	modified:   res/ui/build_officer/BuildOfficerSelectItem.csb
+	modified:   res/ui/build_officer/BuildOfficerSort.csb
+	modified:   res/ui/build_officer/BuildOfficerTip.csb
+	modified:   res/ui/chat/BroadMsg.csb
+	modified:   res/ui/chat/BubbleNode.csb
+	modified:   res/ui/chat/Chat.csb
+	modified:   res/ui/chat/ChatBubble.csb
+	modified:   res/ui/chat/ChatCell.csb
+	modified:   res/ui/chat/ChatClean.csb
+	modified:   res/ui/chat/ChatExpress.csb
+	modified:   res/ui/chat/ChatInfo.csb
+	modified:   res/ui/chat/FriendCell.csb
+	modified:   res/ui/chat/FriendList.csb
+	modified:   res/ui/chat/FriendListCell.csb
+	modified:   res/ui/chat/PersonalInfo.csb
+	modified:   res/ui/chat/SystemCell.csb
+	modified:   res/ui/collect/AppointGeneral.csb
+	modified:   res/ui/collect/AppointHeadItem.csb
+	modified:   res/ui/collect/CollectConditionItem.csb
+	modified:   res/ui/collect/CollectEventView.csb
+	modified:   res/ui/collect/CollectView.csb
+	modified:   res/ui/common/AgainConfirm.csb
+	modified:   res/ui/common/CommonHeaderView.csb
+	modified:   res/ui/common/Confirm.csb
+	modified:   res/ui/common/ConfirmBoxList.csb
+	modified:   res/ui/common/ConfirmNoSelect.csb
+	modified:   res/ui/common/Debug.csb
+	modified:   res/ui/common/EquipItem.csb
+	modified:   res/ui/common/GeneralsTips.csb
+	modified:   res/ui/common/GenericTipEffect.csb
+	modified:   res/ui/common/ItemTips.csb
+	modified:   res/ui/common/LeftSideItem.csb
+	modified:   res/ui/common/NetworkLoading.csb
+	modified:   res/ui/common/ResourceBox.csb
+	modified:   res/ui/common/RewardPreview.csb
+	modified:   res/ui/common/RewardPreviewItems.csb
+	modified:   res/ui/common/RuleDescription.csb
+	modified:   res/ui/common/ShowReward.csb
+	modified:   res/ui/common/ToastItemInfo.csb
+	modified:   res/ui/common/ToolTips.csb
+	modified:   res/ui/create_power/CreatePowerInfo.csb
+	modified:   res/ui/create_power/CreatePowerItem.csb
+	modified:   res/ui/create_power/CreatePowerModule.csb
+	modified:   res/ui/create_power/CreatePowerSuccess.csb
+	modified:   res/ui/crop/CropApllyListCell.csb
+	modified:   res/ui/crop/CropApplyList.csb
+	modified:   res/ui/crop/CropCell.csb
+	modified:   res/ui/crop/CropCreate.csb
+	modified:   res/ui/crop/CropDetail.csb
+	modified:   res/ui/crop/CropHead.csb
+	modified:   res/ui/crop/CropHeadIcon.csb
+	modified:   res/ui/crop/CropHelp.csb
+	modified:   res/ui/crop/CropHelpItem.csb
+	modified:   res/ui/crop/CropHelpList.csb
+	modified:   res/ui/crop/CropHelpListItem.csb
+	modified:   res/ui/crop/CropInfo.csb
+	modified:   res/ui/crop/CropInfoHead.csb
+	modified:   res/ui/crop/CropMain.csb
+	modified:   res/ui/crop/CropMy.csb
+	modified:   res/ui/crop/CropMyCell.csb
+	modified:   res/ui/crop/CropPop.csb
+	modified:   res/ui/crop/CropRedbag.csb
+	modified:   res/ui/crop/CropRedbagReceive.csb
+	modified:   res/ui/crop/CropRedbagReceiveInfo.csb
+	modified:   res/ui/crop/CropRedbagReceiveInfoCell.csb
+	modified:   res/ui/crop/CropRedbagReward.csb
+	modified:   res/ui/crop/CropRewardCell.csb
+	modified:   res/ui/crop/CropRoleCard.csb
+	modified:   res/ui/crop/CropTech.csb
+	modified:   res/ui/crop/CropTechItem.csb
+	modified:   res/ui/crop/LegionCampaign.csb
+	modified:   res/ui/crop/LegionCampaignBoss.csb
+	modified:   res/ui/crop/LegionCampaignBossInfo.csb
+	modified:   res/ui/crop/LegionCampaignBossRank.csb
+	modified:   res/ui/crop/LegionCampaignCell.csb
+	modified:   res/ui/crop/LegionCampaignInfo.csb
+	modified:   res/ui/crop/LegionCampaignInfoCell.csb
+	modified:   res/ui/crop_sign/CropSign.csb
+	modified:   res/ui/crop_sign/CropSignBattleReportItem.csb
+	modified:   res/ui/crop_sign/CropSignReport.csb
+	modified:   res/ui/crop_sign/CropSignSoldier.csb
+	modified:   res/ui/daily_activity/DailyActivityItem.csb
+	modified:   res/ui/daily_activity/DailyActivityMain.csb
+	modified:   res/ui/daily_instance/DailyInstanceItem.csb
+	modified:   res/ui/daily_instance/DailyInstanceMain.csb
+	modified:   res/ui/daily_instance/DailyInstanceView.csb
+	modified:   res/ui/decompose/DecomposeMain.csb
+	modified:   res/ui/decompose/DecomposeNum.csb
+	modified:   res/ui/decree/DecreeBoxs.csb
+	modified:   res/ui/decree/DecreeIssue.csb
+	modified:   res/ui/decree/DecreeMain.csb
+	modified:   res/ui/drill/DifficultyBoxs.csb
+	modified:   res/ui/drill/DrillCard.csb
+	modified:   res/ui/drill/DrillCardBox.csb
+	modified:   res/ui/drill/DrillCardBoxSkill.csb
+	modified:   res/ui/drill/DrillCardItems.csb
+	modified:   res/ui/drill/DrillDifficulty.csb
+	modified:   res/ui/drill/DrillInfoView.csb
+	modified:   res/ui/drill/DrillMain.csb
+	modified:   res/ui/drill/DrillOpenBoxs.csb
+	modified:   res/ui/drill/DrillSkill.csb
+	modified:   res/ui/drill/DrillSkillUp.csb
+	modified:   res/ui/drill/DrillStrengthType.csb
+	modified:   res/ui/drill/DrillUpLv.csb
+	modified:   res/ui/drill/DrillView.csb
+	modified:   res/ui/embattle/EmbattleBottom.csb
+	modified:   res/ui/embattle/EmbattleFormation.csb
+	modified:   res/ui/embattle/EmbattleHeadItem.csb
+	modified:   res/ui/embattle/EmbattleItem.csb
+	modified:   res/ui/embattle/EmbattleLayer.csb
+	modified:   res/ui/embattle/EmbattlePos.csb
+	modified:   res/ui/embattle/EmbattleTip.csb
+	modified:   res/ui/embattle/FormationItem.csb
+	modified:   res/ui/embattle/GeneralFilterModule.csb
+	modified:   res/ui/embattle/LeftCellItem.csb
+	modified:   res/ui/equip/EquipBoughtTip.csb
+	modified:   res/ui/equip/EquipHandbook.csb
+	modified:   res/ui/equip/EquipPool.csb
+	modified:   res/ui/equip/EquipRxtractResult.csb
+	modified:   res/ui/equip/FilterBox.csb
+	modified:   res/ui/equip/GeneralHeadItem.csb
+	modified:   res/ui/equip/VocherBoughtModule.csb
+	modified:   res/ui/fly_nail/FlyNailBattle.csb
+	modified:   res/ui/fly_nail/FlyNailItem.csb
+	modified:   res/ui/fly_nail/FlyNailMain.csb
+	modified:   res/ui/fly_nail/FlyNailSelectItem.csb
+	modified:   res/ui/fly_nail/GeneralHeadItem.csb
+	modified:   res/ui/fly_nail/GeneralsInfo.csb
+	modified:   res/ui/fly_nail/GeneralsSelect.csb
+	modified:   res/ui/fly_nail/StrangeDoor.csb
+	modified:   res/ui/fly_nail/StrangeDoorItem.csb
+	modified:   res/ui/general_collect/GeneralCollect.csb
+	modified:   res/ui/general_collect/GeneralCollectHelp.csb
+	modified:   res/ui/general_collect/GeneralCollectItem.csb
+	modified:   res/ui/general_collect/GeneralCollectTitle.csb
+	modified:   res/ui/general_collect/GeneralCollects.csb
+	modified:   res/ui/generals/ArmsAdvanceSuccess.csb
+	modified:   res/ui/generals/ArmsInfo.csb
+	modified:   res/ui/generals/ArmsItem.csb
+	modified:   res/ui/generals/ArmsListItem.csb
+	modified:   res/ui/generals/ArmsMain.csb
+	modified:   res/ui/generals/ArmsResInfoItem.csb
+	modified:   res/ui/generals/ArmsStrengthSuccess.csb
+	modified:   res/ui/generals/ArmsValueItem.csb
+	modified:   res/ui/generals/ArmsValueText.csb
+	modified:   res/ui/generals/EquipAttribute.csb
+	modified:   res/ui/generals/EquipFromItem.csb
+	modified:   res/ui/generals/EquipReplace.csb
+	modified:   res/ui/generals/EquipReplaceItem.csb
+	modified:   res/ui/generals/EquipTypeFrom.csb
+	modified:   res/ui/generals/GeneralSkillModule.csb
+	modified:   res/ui/generals/GeneralStarItem.csb
+	modified:   res/ui/generals/GeneralUnlocked.csb
+	modified:   res/ui/generals/GeneralUpAction.csb
+	modified:   res/ui/generals/GeneralsArms.csb
+	modified:   res/ui/generals/GeneralsArmsAdvance.csb
+	modified:   res/ui/generals/GeneralsArmsRebuild.csb
+	modified:   res/ui/generals/GeneralsArmsStrength.csb
+	modified:   res/ui/generals/GeneralsAttrNode.csb
+	modified:   res/ui/generals/GeneralsAttribute.csb
+	modified:   res/ui/generals/GeneralsAttributeItem.csb
+	modified:   res/ui/generals/GeneralsAttributeModule.csb
+	modified:   res/ui/generals/GeneralsEquip.csb
+	modified:   res/ui/generals/GeneralsEquipBag.csb
+	modified:   res/ui/generals/GeneralsEquipInfo.csb
+	modified:   res/ui/generals/GeneralsInfo.csb
+	modified:   res/ui/generals/GeneralsInsight.csb
+	modified:   res/ui/generals/GeneralsMain.csb
+	modified:   res/ui/generals/GeneralsQuality.csb
+	modified:   res/ui/generals/InsightResFrom.csb
+	modified:   res/ui/generals/InsightResFromItem.csb
+	modified:   res/ui/generals/InsightSuccess.csb
+	modified:   res/ui/generals/InternalProperty.csb
+	modified:   res/ui/generals/InternalPropertyItem.csb
+	modified:   res/ui/generals/JadeComposeScreen.csb
+	modified:   res/ui/generals/QualityItem.csb
+	modified:   res/ui/generals/QualityProps.csb
+	modified:   res/ui/generals/QualityUp.csb
+	modified:   res/ui/generals/generalReinSuccess.csb
+	modified:   res/ui/gm/GMView.csb
+	modified:   res/ui/gm/GMViewItem.csb
+	modified:   res/ui/government/GovernmentAppointList.csb
+	modified:   res/ui/government/GovernmentAppointListCell.csb
+	modified:   res/ui/government/GovernmentInfo.csb
+	modified:   res/ui/government/GovernmentItem.csb
+	modified:   res/ui/government/GovernmentMain.csb
+	modified:   res/ui/government/PeerageItem1.csb
+	modified:   res/ui/government/PeerageItem2.csb
+	modified:   res/ui/government/PrivilegeInfo.csb
+	modified:   res/ui/guide/GuidePlot.csb
+	modified:   res/ui/guide/GuideTips.csb
+	modified:   res/ui/instance/AnimationKnife.csb
+	modified:   res/ui/instance/ArmyDraft.csb
+	modified:   res/ui/instance/ArmyDraftItem.csb
+	modified:   res/ui/instance/BattleReportShare.csb
+	modified:   res/ui/instance/DropItemNode.csb
+	modified:   res/ui/instance/GuideHeadItem.csb
+	modified:   res/ui/instance/GuideView.csb
+	modified:   res/ui/instance/GuideViewItem.csb
+	modified:   res/ui/instance/InstanceLostView.csb
+	modified:   res/ui/instance/InstanceRewardInfo.csb
+	modified:   res/ui/instance/InstanceRewardItem.csb
+	modified:   res/ui/instance/InstanceView.csb
+	modified:   res/ui/instance/InstanceWinDrillView.csb
+	modified:   res/ui/instance/InstanceWinView.csb
+	modified:   res/ui/instance/NPCInfoView.csb
+	modified:   res/ui/instance/NPCNode.csb
+	modified:   res/ui/instance/NpcList.csb
+	modified:   res/ui/instance/NpcListItem.csb
+	modified:   res/ui/instance/NpcSweep.csb
+	modified:   res/ui/instance/NpcSweepItem.csb
+	modified:   res/ui/instance_war/ChapterSelect.csb
+	modified:   res/ui/instance_war/ChapterSelectItem.csb
+	modified:   res/ui/instance_war/InstanceWarArrow.csb
+	modified:   res/ui/instance_war/InstanceWarBattle.csb
+	modified:   res/ui/instance_war/InstanceWarBattleItem.csb
+	modified:   res/ui/instance_war/InstanceWarCityExplore.csb
+	modified:   res/ui/instance_war/InstanceWarCityInfo.csb
+	modified:   res/ui/instance_war/InstanceWarCityMove.csb
+	modified:   res/ui/instance_war/InstanceWarDraft.csb
+	modified:   res/ui/instance_war/InstanceWarEnemyDesc.csb
+	modified:   res/ui/instance_war/InstanceWarEnemyTip.csb
+	modified:   res/ui/instance_war/InstanceWarFight.csb
+	modified:   res/ui/instance_war/InstanceWarFightResult.csb
+	modified:   res/ui/instance_war/InstanceWarInvestigate.csb
+	modified:   res/ui/instance_war/InstanceWarInvestigateItem.csb
+	modified:   res/ui/instance_war/InstanceWarMain.csb
+	modified:   res/ui/instance_war/InstanceWarPopMenu.csb
+	modified:   res/ui/instance_war/InstanceWarPowerFail.csb
+	modified:   res/ui/instance_war/InstanceWarPowerLose.csb
+	modified:   res/ui/instance_war/InstanceWarPowerWin.csb
+	modified:   res/ui/instance_war/InstanceWarRound.csb
+	modified:   res/ui/instance_war/InstanceWarRoundItem.csb
+	modified:   res/ui/load/LoadingModule.csb
+	modified:   res/ui/login/CreateRoleView.csb
+	modified:   res/ui/login/LoginView.csb
+	modified:   res/ui/login/ServerItem.csb
+	modified:   res/ui/login/ServerTitleItem.csb
+	modified:   res/ui/login/ServerView.csb
+	modified:   res/ui/login/UpdateView.csb
+	modified:   res/ui/mail/MailCell.csb
+	modified:   res/ui/mail/MailInfo.csb
+	modified:   res/ui/mail/MailMain.csb
+	modified:   res/ui/mail/MailRewardItem.csb
+	modified:   res/ui/mail/MailWrite.csb
+	modified:   res/ui/mail/MailWriteItem.csb
+	modified:   res/ui/main_city/BuildInfoView.csb
+	modified:   res/ui/main_city/BuildLevelUp.csb
+	modified:   res/ui/main_city/BuildNode.csb
+	modified:   res/ui/main_city/BuilderListView.csb
+	modified:   res/ui/main_city/BuilderSpeedUp.csb
+	modified:   res/ui/main_city/BuilderSpeedUpItem.csb
+	modified:   res/ui/main_city/BuyMilitoryOrder.csb
+	modified:   res/ui/main_city/DraftItem.csb
+	modified:   res/ui/main_city/EquipChangeUI.csb
+	modified:   res/ui/main_city/GetResource.csb
+	modified:   res/ui/main_city/GetResourceItem.csb
+	modified:   res/ui/main_city/MainCityCurrency.csb
+	modified:   res/ui/main_city/MainCityLevelUp.csb
+	modified:   res/ui/main_city/MainCityLevelUpBuildItem.csb
+	modified:   res/ui/main_city/MainCityLevelUpFunctionItem.csb
+	modified:   res/ui/main_city/MainCityView.csb
+	modified:   res/ui/main_city/NewFunctionOpen.csb
+	modified:   res/ui/main_city/PopInfo.csb
+	modified:   res/ui/main_city/PopupMenu.csb
+	modified:   res/ui/main_city/PopupMenuItem.csb
+	modified:   res/ui/main_city/SeasonView.csb
+	modified:   res/ui/map_guide/MapGuideAttr.csb
+	modified:   res/ui/map_guide/MapGuideInfo1.csb
+	modified:   res/ui/map_guide/MapGuideInfoItem1.csb
+	modified:   res/ui/map_guide/MapGuideInfoItem2.csb
+	modified:   res/ui/map_guide/MapGuideInfoItem3.csb
+	modified:   res/ui/map_guide/MapGuideItem.csb
+	modified:   res/ui/map_guide/MapGuideLevelUp.csb
+	modified:   res/ui/map_guide/MapGuideMain.csb
+	modified:   res/ui/map_guide/MapGuideScreen.csb
+	modified:   res/ui/map_guide/MapGuideSkill.csb
+	modified:   res/ui/map_guide/MapGuideSkillItem.csb
+	modified:   res/ui/office/OfficeView.csb
+	modified:   res/ui/pass_check/PassCheckBuyLevel.csb
+	modified:   res/ui/pass_check/PassCheckDailyDeal.csb
+	modified:   res/ui/pass_check/PassCheckDaysWelfare.csb
+	modified:   res/ui/pass_check/PassCheckDaysWelfareCell.csb
+	modified:   res/ui/pass_check/PassCheckLevel.csb
+	modified:   res/ui/pass_check/PassCheckLevelCell.csb
+	modified:   res/ui/pass_check/PassCheckLimitPackage.csb
+	modified:   res/ui/pass_check/PassCheckLimitStore.csb
+	modified:   res/ui/pass_check/PassCheckLimitStoreCell.csb
+	modified:   res/ui/pass_check/PassCheckMain.csb
+	modified:   res/ui/pass_check/PassCheckTaskExam.csb
+	modified:   res/ui/pass_check/PassCheckTaskExamCell.csb
+	modified:   res/ui/pass_check/PassUpLevel.csb
+	modified:   res/ui/random_event/RandBox.csb
+	modified:   res/ui/random_event/RandomAnswer.csb
+	modified:   res/ui/random_event/RandomBoxReward.csb
+	modified:   res/ui/random_event/RandomReward.csb
+	modified:   res/ui/rank/RankItem.csb
+	modified:   res/ui/rank/RankView.csb
+	modified:   res/ui/recruit/RecruitBoxs.csb
+	modified:   res/ui/recruit/RecruitGift.csb
+	modified:   res/ui/recruit/RecruitMain.csb
+	modified:   res/ui/recruit/RecruitSuccess.csb
+	modified:   res/ui/retainer/AddItems.csb
+	modified:   res/ui/retainer/InfoLeftItems.csb
+	modified:   res/ui/retainer/InfoRightItems.csb
+	modified:   res/ui/retainer/LikeItems.csb
+	modified:   res/ui/retainer/PropItems.csb
+	modified:   res/ui/retainer/RetainerAdd.csb
+	modified:   res/ui/retainer/RetainerInfo.csb
+	modified:   res/ui/retainer/RetainerLike.csb
+	modified:   res/ui/retainer/RetainerList.csb
+	modified:   res/ui/retainer/RetainerMain.csb
+	modified:   res/ui/retainer/TalkItems.csb
+	modified:   res/ui/role/HeadItem.csb
+	modified:   res/ui/role/RoleHead.csb
+	modified:   res/ui/role/RoleLevelUp.csb
+	modified:   res/ui/role/RoleName.csb
+	modified:   res/ui/role/RoleView.csb
+	modified:   res/ui/server_list/ListBoxs.csb
+	modified:   res/ui/server_list/ListItem.csb
+	modified:   res/ui/server_list/ListRight.csb
+	modified:   res/ui/server_list/ListRightTitle.csb
+	modified:   res/ui/server_list/ServerList.csb
+	modified:   res/ui/strategy/StrateNeed.csb
+	modified:   res/ui/strategy/StrategyItem.csb
+	modified:   res/ui/strategy/StrategyMain.csb
+	modified:   res/ui/strategy/StrategyUpLevel.csb
+	modified:   res/ui/task/DailyTask.csb
+	modified:   res/ui/task/TaskItem.csb
+	modified:   res/ui/tavern/TavernItem.csb
+	modified:   res/ui/tavern/TavernReward.csb
+	modified:   res/ui/tavern/TavernRewardPreview.csb
+	modified:   res/ui/tavern/TavernRewardReviewItem.csb
+	modified:   res/ui/tavern/TavernView.csb
+	modified:   res/ui/test_tower/InspireConfirm.csb
+	modified:   res/ui/test_tower/PointGeneralInfo.csb
+	modified:   res/ui/test_tower/TestTowerBattle.csb
+	modified:   res/ui/test_tower/TestTowerMain.csb
+	modified:   res/ui/test_tower/TestTowerReward.csb
+	modified:   res/ui/test_tower/TowerRankItem.csb
+	modified:   res/ui/test_tower/TowerRankView.csb
+	modified:   res/ui/ware_house/WareHouseMain.csb
+	modified:   res/ui/ware_house/WareSelectItems.csb
+	modified:   res/ui/ware_house/WareSelectList.csb
+	modified:   res/ui/world/BattleReport.csb
+	modified:   res/ui/world/BattleReportItem.csb
+	modified:   res/ui/world/SoldierItem.csb
+	modified:   res/ui/world/SoldierLine.csb
+	modified:   res/ui/world/WorldBattleLost.csb
+	modified:   res/ui/world/WorldBattleWin.csb
+	modified:   res/ui/world/WorldCity.csb
+	modified:   res/ui/world/WorldCityDevelop.csb
+	modified:   res/ui/world/WorldCityDevelopItem.csb
+	modified:   res/ui/world/WorldCityDevelopUp.csb
+	modified:   res/ui/world/WorldCityInfo.csb
+	modified:   res/ui/world/WorldCityInfoListItem.csb
+	modified:   res/ui/world/WorldCityPopMenu.csb
+	modified:   res/ui/world/WorldCityRankItem.csb
+	modified:   res/ui/world/WorldCityRankItem2.csb
+	modified:   res/ui/world/WorldCityWarArmyItem.csb
+	modified:   res/ui/world/WorldCityWarRankItem.csb
+	modified:   res/ui/world/WorldCityWarView.csb
+	modified:   res/ui/world/WorldMap.csb
+	modified:   res/ui/world/WorldMapItem.csb
+	modified:   res/ui/world/WorldMiniMap.csb
+	modified:   res/ui/world/WorldTask.csb
+	modified:   res/ui/world/WorldTrendsHeroes.csb
+	modified:   res/ui/world/WorldTrendsHeroesItem.csb
+	modified:   res/ui/world/WorldTrendsInfo.csb
+	modified:   res/ui/world/WorldTrendsInfoItem.csb
+	modified:   res/ui/world/WorldTrendsMain.csb
+	modified:   res/ui/world/WorldTrendsRewardItem.csb
+	modified:   res/ui/world/WorldTrendsRewards.csb
+	modified:   res/ui/world/WorldTrendsTaskItem.csb
+	modified:   res/ui/world/WorldTroop.csb
+	modified:   res/ui/world/WorldTroopEdit.csb
+	modified:   res/ui/world/WorldTroopEditItem.csb
+	modified:   res/ui/world/WorldTroopItem.csb
+	modified:   res/ui/world/WorldView.csb
+	modified:   res/ui/world/WorldViewInfoItem.csb
+	modified:   res/ui/world/WorldWarCity.csb
+	modified:   res/ui/world/WorldWarOpen.csb
+	modified:   src/app/network/init.lua
+	modified:   src/main.lua
+	deleted:    tools/bindings-generator/.gitignore
+	modified:   tools/bindings-generator/README.md
+	deleted:    tools/bindings-generator/backup/clang-llvm-3.3-pybinding/__init__.py
+	deleted:    tools/bindings-generator/backup/clang-llvm-3.3-pybinding/cindex.py
+	deleted:    tools/bindings-generator/backup/clang-llvm-3.3-pybinding/enumerations.py
+	modified:   tools/bindings-generator/clang/cindex.py
+	modified:   tools/bindings-generator/generator
+	modified:   tools/bindings-generator/generator.py
+	modified:   tools/bindings-generator/libclang/VERSION.txt
+	modified:   tools/bindings-generator/libclang/libclang.dll
+	modified:   tools/bindings-generator/libclang/libclang.dylib
+	modified:   tools/bindings-generator/libclang/libclang.so
+	modified:   tools/bindings-generator/targets/lua/conversions.yaml
+	modified:   tools/bindings-generator/targets/lua/templates/apidoc_function.script
+	modified:   tools/bindings-generator/targets/lua/templates/layout_head.c
+	modified:   tools/bindings-generator/targets/spidermonkey/conversions.yaml
+	modified:   tools/bindings-generator/targets/spidermonkey/templates/constructor.c
+	modified:   tools/bindings-generator/targets/spidermonkey/templates/ctor.c
+	modified:   tools/bindings-generator/targets/spidermonkey/templates/ifunction.c
+	modified:   tools/bindings-generator/targets/spidermonkey/templates/ifunction_overloaded.c
+	modified:   tools/bindings-generator/targets/spidermonkey/templates/lambda.c
+	modified:   tools/bindings-generator/targets/spidermonkey/templates/layout_head.c
+	modified:   tools/bindings-generator/targets/spidermonkey/templates/public_field.c
+	modified:   tools/bindings-generator/targets/spidermonkey/templates/register.c
+	modified:   tools/bindings-generator/targets/spidermonkey/templates/sfunction.c
+	deleted:    tools/bindings-generator/test/test.bat
+	modified:   tools/bindings-generator/test/test.ini
+	deleted:    tools/bindings-generator/test/test.sh
+	modified:   tools/tolua/custom_api.ini
+	modified:   tools/tolua/genbindings.py
+	modified:   tools/tolua/userconf.ini
+	modified:   update_xml_lua.sh
+
+Untracked files:
+	.gradle/
+	.vscode/
+	add.py
+	add.txt
+	add_csb.py
+	compress.sh
+	csb_confg.txt
+	frameworks/cocos2d-x/cocos/scripting/lua-bindings/man/
+	frameworks/cocos2d-x/tools/bindings-generator/clang/__init__.pyc
+	frameworks/cocos2d-x/tools/bindings-generator/clang/cindex.pyc
+	frameworks/cocos2d-x/tools/bindings-generator/clang/enumerations.pyc
+	frameworks/cocos2d-x/tools/simulator/libsimulator/proj.ios_mac/build/
+	frameworks/cocos2d-x/tools/tolua/userconf.ini
+	frameworks/runtime-src/Classes/man/api/SdkHelper.lua
+	frameworks/runtime-src/Classes/man/api/lua_custom_api_auto_api.lua
+	frameworks/runtime-src/Classes/man/lua_custom_api_auto.cpp
+	frameworks/runtime-src/Classes/man/lua_custom_api_auto.hpp
+	frameworks/runtime-src/proj.android/.idea/
+	frameworks/runtime-src/proj.android/app/project_wly2_lua_client.iml
+	frameworks/runtime-src/proj.android/java_pid16708.hprof
+	frameworks/runtime-src/proj.android/java_pid6383.hprof
+	frameworks/runtime-src/proj.android/java_pid9925.hprof
+	frameworks/runtime-src/proj.android/proj.android.iml
+	publish/
+	rm.py
+	rm.txt
+	runtime/
+	src/app_folder.lua
+	tools/bindings-generator/clang/__init__.pyc
+	tools/bindings-generator/clang/cindex.pyc
+	tools/bindings-generator/clang/enumerations.pyc
+	tools/bindings-generator/test/test.py
+	tools/tolua/README.mdown
+	wly2_lua/live_download/animation/
+	wly2_lua/live_download/img/bg/zcdt.png.tmp
+
+no changes added to commit
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE

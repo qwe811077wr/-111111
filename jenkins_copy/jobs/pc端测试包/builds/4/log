@@ -1,0 +1,14 @@
+Started by user [8mha:////4DHKDM0mCd+Np+CRf5wbrS4StKZGCeHkPqVFI/Ru8IMMAAAAnB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzuEgZB/dLi1CL9qoz8vPTCzBwgCQBh1UZTxgAAAA==[0mzhongqilong
+Running as SYSTEM
+Building in workspace /Users/admin/.jenkins/workspace/pc端测试包
+[pc端测试包] $ /bin/sh -xe /var/folders/bc/jfs8sfm16sv5tb42bvj41crw0000gn/T/jenkins6431110580176399954.sh
++ cd /Users/admin/code/client/public/project_wly2_lua_client
++ git pull
+Already up to date.
++ cd res
++ svn add --force ./Default ./animation ./cg ./data ./font ./img ./map ./sound ./ui
++ svn commit -m 'git to svn sync res'
++ cd ../src
++ svn add --force ./app ./cocos ./config.lua ./cppapi ./init.lua ./main.lua ./packages ./platform ./project.manifest ./readme.md ./version.manifest
++ svn commit -m 'git to svn sync src'
+Finished: SUCCESS

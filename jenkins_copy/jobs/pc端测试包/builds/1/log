@@ -1,0 +1,29 @@
+Started by user [8mha:////4DHKDM0mCd+Np+CRf5wbrS4StKZGCeHkPqVFI/Ru8IMMAAAAnB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzuEgZB/dLi1CL9qoz8vPTCzBwgCQBh1UZTxgAAAA==[0mzhongqilong
+Running as SYSTEM
+Building in workspace /Users/admin/.jenkins/workspace/pc端测试包
+[pc端测试包] $ /bin/sh -xe /var/folders/bc/jfs8sfm16sv5tb42bvj41crw0000gn/T/jenkins8809250127668818835.sh
++ cd /Users/admin/code/client/public/project_wly2_lua_client
++ git pull
+From http://10.0.0.19:8080/project_wly2_lua_client
+   28c5f3931..a2743664b  master     -> origin/master
+Updating 28c5f3931..a2743664b
+Fast-forward
+ src/app/static_data/dataset_debug/GeneralAppoint.lua | 7 +++++++
+ src/app/static_data/dataset_debug/ItemAppoint.lua    | 7 +++++++
+ src/app/static_data/dataset_debug/Soldiers.lua       | 7 +++++++
+ 3 files changed, 21 insertions(+)
++ cd res
++ svn add ./Default ./animation ./cg ./data ./font ./img ./map ./sound ./ui
+svn: warning: W150002: '/Users/admin/code/client/public/project_wly2_lua_client/res/Default' is already under version control
+svn: warning: W150002: '/Users/admin/code/client/public/project_wly2_lua_client/res/animation' is already under version control
+svn: warning: W150002: '/Users/admin/code/client/public/project_wly2_lua_client/res/cg' is already under version control
+svn: warning: W150002: '/Users/admin/code/client/public/project_wly2_lua_client/res/data' is already under version control
+svn: warning: W150002: '/Users/admin/code/client/public/project_wly2_lua_client/res/font' is already under version control
+svn: warning: W150002: '/Users/admin/code/client/public/project_wly2_lua_client/res/img' is already under version control
+svn: warning: W150002: '/Users/admin/code/client/public/project_wly2_lua_client/res/map' is already under version control
+svn: warning: W150002: '/Users/admin/code/client/public/project_wly2_lua_client/res/sound' is already under version control
+svn: warning: W150002: '/Users/admin/code/client/public/project_wly2_lua_client/res/ui' is already under version control
+svn: E200009: Could not add all targets because some targets are already versioned
+svn: E200009: Illegal target for the requested operation
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE

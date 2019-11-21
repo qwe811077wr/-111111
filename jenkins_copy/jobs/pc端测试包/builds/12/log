@@ -1,0 +1,25 @@
+Started by user unknown or anonymous
+Running as SYSTEM
+Building in workspace /Users/admin/.jenkins/workspace/pc端测试包
+[pc端测试包] $ /bin/sh -xe /var/folders/bc/jfs8sfm16sv5tb42bvj41crw0000gn/T/jenkins5822600337181345995.sh
++ cd /Users/admin/code/client/public/project_wly2_lua_client
++ git pull
+From http://10.0.0.19:8080/project_wly2_lua_client
+   a2743664b..1f3143dd8  master     -> origin/master
+Updating a2743664b..1f3143dd8
+Fast-forward
+ src/app/static_data/dataset_debug/Guide.lua     | 1255 ++++++++++++-----------
+ src/app/static_data/dataset_debug/LocalText.lua |    6 +
+ 2 files changed, 646 insertions(+), 615 deletions(-)
++ cd res
++ svn add --force ./Default ./animation ./cg ./data ./font ./img ./map ./sound ./ui
++ svn commit -m 'git to svn sync res'
++ cd ../src
++ svn add --force ./app ./cocos ./config.lua ./cppapi ./init.lua ./main.lua ./packages ./platform ./project.manifest ./readme.md ./version.manifest
++ svn commit -m 'git to svn sync src'
+Sending        app/static_data/dataset_debug/Guide.lua
+Sending        app/static_data/dataset_debug/LocalText.lua
+Transmitting file data ..done
+Committing transaction...
+Committed revision 10933.
+Finished: SUCCESS
